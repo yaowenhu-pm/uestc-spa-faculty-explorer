@@ -14,7 +14,7 @@
     "directoryOrder": 1,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [
       "部分具名科研项目未逐项明确本人角色，未将简介中的主持总数套用于这些条目。"
     ],
@@ -86,7 +86,7 @@
     "directoryOrder": 2,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [],
     "evidence": [
       {
@@ -216,7 +216,7 @@
     "directoryOrder": 3,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [],
     "evidence": [
       {
@@ -316,7 +316,7 @@
     "directoryOrder": 4,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [],
     "evidence": [
       {
@@ -457,7 +457,7 @@
     "directoryOrder": 5,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [],
     "evidence": [
       {
@@ -567,7 +567,7 @@
     "directoryOrder": 6,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [
       "部分英文署名缩写已按同篇题名和DOI核对Crossref作者元数据；学院原文与作者补证分别列出，不由星号推定通讯作者。",
       "部分具名科研项目未逐项明确本人角色，未将简介中的主持总数套用于这些条目。"
@@ -712,7 +712,7 @@
     "directoryOrder": 7,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [
       "官网概述列有主持科研项目，但未提供可唯一识别且角色可归属的具体项目条目。",
       "部分具名成果缺少年份或完整出处，保留展示，不计可定位成果分。",
@@ -777,7 +777,7 @@
     "directoryOrder": 8,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [],
     "evidence": [
       {
@@ -928,7 +928,7 @@
     "directoryOrder": 9,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [
       "部分英文署名缩写已按同篇题名和DOI核对Crossref作者元数据；学院原文与作者补证分别列出，不由星号推定通讯作者。"
     ],
@@ -1066,7 +1066,7 @@
     "directoryOrder": 10,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [],
     "evidence": [
       {
@@ -1157,7 +1157,7 @@
     "directoryOrder": 11,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [],
     "evidence": [
       {
@@ -1307,7 +1307,7 @@
     "directoryOrder": 12,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [],
     "evidence": [
       {
@@ -1437,7 +1437,7 @@
     "directoryOrder": 13,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [
       "部分具名科研项目未逐项明确本人角色，未将简介中的主持总数套用于这些条目。"
     ],
@@ -1589,7 +1589,7 @@
     "directoryOrder": 14,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [
       "一篇会议论文只在会议名称中出现2017年，未另标发表年份；本版本保留引用，年份待核。",
       "部分具名成果缺少年份或完整出处，保留展示，不计可定位成果分。"
@@ -1721,7 +1721,7 @@
     "directoryOrder": 15,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [
       "部分具名科研项目未逐项明确本人角色，未将简介中的主持总数套用于这些条目。"
     ],
@@ -1834,7 +1834,7 @@
     "directoryOrder": 16,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [
       "官网概述列有主持科研项目，但未提供可唯一识别且角色可归属的具体项目条目。",
       "部分成果未明确本人作者署名位置，未推定首作、独著或通讯作者。"
@@ -1936,7 +1936,7 @@
     "directoryOrder": 17,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [],
     "evidence": [
       {
@@ -2086,7 +2086,7 @@
     "directoryOrder": 18,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [],
     "evidence": [
       {
@@ -2196,7 +2196,7 @@
     "directoryOrder": 19,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [],
     "evidence": [
       {
@@ -2326,7 +2326,7 @@
     "directoryOrder": 20,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [
       "部分成果未明确本人作者署名位置，未推定首作、独著或通讯作者。"
     ],
@@ -2449,7 +2449,7 @@
     "directoryOrder": 21,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [
       "部分英文成果仅列姓名缩写或未列署名，且尚无对应作者元数据补证；这些条目未推定本人第一或通讯作者角色。",
       "部分成果未明确本人作者署名位置，未推定首作、独著或通讯作者。"
@@ -2603,7 +2603,7 @@
     "directoryOrder": 22,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [
       "部分具名科研项目未逐项明确本人角色，未将简介中的主持总数套用于这些条目。"
     ],
@@ -2755,7 +2755,7 @@
     "directoryOrder": 23,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [],
     "evidence": [
       {
@@ -2896,7 +2896,7 @@
     "directoryOrder": 24,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [],
     "evidence": [
       {
@@ -3046,7 +3046,7 @@
     "directoryOrder": 25,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [],
     "evidence": [
       {
@@ -3167,7 +3167,7 @@
     "directoryOrder": 26,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [],
     "evidence": [
       {
@@ -3288,7 +3288,7 @@
     "directoryOrder": 27,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [],
     "evidence": [
       {
@@ -3379,7 +3379,7 @@
     "directoryOrder": 28,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [],
     "evidence": [
       {
@@ -3520,7 +3520,7 @@
     "directoryOrder": 29,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [
       "部分英文成果仅列姓名缩写或未列署名，且尚无对应作者元数据补证；这些条目未推定本人第一或通讯作者角色。"
     ],
@@ -3661,7 +3661,7 @@
     "directoryOrder": 30,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [],
     "evidence": [
       {
@@ -3812,7 +3812,7 @@
     "directoryOrder": 31,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [
       "部分英文署名缩写已按同篇题名和DOI核对Crossref作者元数据；学院原文与作者补证分别列出，不由星号推定通讯作者。"
     ],
@@ -3977,7 +3977,7 @@
     "directoryOrder": 32,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [],
     "evidence": [
       {
@@ -4108,7 +4108,7 @@
     "directoryOrder": 33,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [
       "部分具名成果缺少年份或完整出处，保留展示，不计可定位成果分。"
     ],
@@ -4161,7 +4161,7 @@
     "directoryOrder": 34,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [
       "部分英文成果仅列姓名缩写或未列署名，且尚无对应作者元数据补证；这些条目未推定本人第一或通讯作者角色。"
     ],
@@ -4274,7 +4274,7 @@
     "directoryOrder": 35,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [
       "部分具名科研项目未逐项明确本人角色，未将简介中的主持总数套用于这些条目。",
       "部分成果未明确本人作者署名位置，未推定首作、独著或通讯作者。"
@@ -4428,7 +4428,7 @@
     "directoryOrder": 36,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [],
     "evidence": [
       {
@@ -4548,7 +4548,7 @@
     "directoryOrder": 37,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [],
     "evidence": [
       {
@@ -4699,7 +4699,7 @@
     "directoryOrder": 38,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [],
     "evidence": [
       {
@@ -4810,7 +4810,7 @@
     "directoryOrder": 39,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [],
     "evidence": [
       {
@@ -4891,7 +4891,7 @@
     "directoryOrder": 40,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [],
     "evidence": [
       {
@@ -5040,7 +5040,7 @@
     "directoryOrder": 41,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [
       "部分英文成果仅列姓名缩写或未列署名，且尚无对应作者元数据补证；这些条目未推定本人第一或通讯作者角色。"
     ],
@@ -5142,7 +5142,7 @@
     "directoryOrder": 42,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [],
     "evidence": [
       {
@@ -5252,7 +5252,7 @@
     "directoryOrder": 43,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [
       "部分成果未明确本人作者署名位置，未推定首作、独著或通讯作者。"
     ],
@@ -5393,7 +5393,7 @@
     "directoryOrder": 44,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [],
     "evidence": [
       {
@@ -5505,7 +5505,7 @@
     "directoryOrder": 45,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [
       "部分具名科研项目未逐项明确本人角色，未将简介中的主持总数套用于这些条目。"
     ],
@@ -5657,7 +5657,7 @@
     "directoryOrder": 46,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [],
     "evidence": [
       {
@@ -5788,7 +5788,7 @@
     "directoryOrder": 47,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [
       "官网有主持国家社科重大专项的概述；本版本未将概述自动归入具名条目，所列代表成果未标注出版年份。",
       "部分具名科研项目未逐项明确本人角色，未将简介中的主持总数套用于这些条目。",
@@ -5943,7 +5943,7 @@
     "directoryOrder": 48,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [],
     "evidence": [
       {
@@ -6082,7 +6082,7 @@
     "directoryOrder": 49,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [],
     "evidence": [
       {
@@ -6211,7 +6211,7 @@
     "directoryOrder": 50,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [],
     "evidence": [
       {
@@ -6330,7 +6330,7 @@
     "directoryOrder": 51,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [],
     "evidence": [
       {
@@ -6362,7 +6362,7 @@
     "directoryOrder": 52,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [
       "部分成果未明确本人作者署名位置，未推定首作、独著或通讯作者。"
     ],
@@ -6514,7 +6514,7 @@
     "directoryOrder": 53,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [
       "部分具名科研项目未逐项明确本人角色，未将简介中的主持总数套用于这些条目。"
     ],
@@ -6667,7 +6667,7 @@
     "directoryOrder": 54,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [],
     "evidence": [
       {
@@ -6817,7 +6817,7 @@
     "directoryOrder": 55,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [
       "官网表述为“国家级重大人才计划青年学者”，未公开具体计划名称；保留原称谓，不推定其他具体人才称号。",
       "部分英文成果仅列姓名缩写或未列署名，且尚无对应作者元数据补证；这些条目未推定本人第一或通讯作者角色。"
@@ -6949,7 +6949,7 @@
     "directoryOrder": 56,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [],
     "evidence": [
       {
@@ -7020,7 +7020,7 @@
     "directoryOrder": 57,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [
       "部分具名科研项目未逐项明确本人角色，未将简介中的主持总数套用于这些条目。"
     ],
@@ -7163,7 +7163,7 @@
     "directoryOrder": 58,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [
       "简介说明两本已出版图书中一本为教材，但书目未逐本标明类型；本版本未将这两本书计入科研成果。",
       "部分英文署名缩写已按同篇题名和DOI核对Crossref作者元数据；学院原文与作者补证分别列出，不由星号推定通讯作者。"
@@ -7273,7 +7273,7 @@
     "directoryOrder": 59,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [
       "部分英文署名缩写已按同篇题名和DOI核对Crossref作者元数据；学院原文与作者补证分别列出，不由星号推定通讯作者。"
     ],
@@ -7444,7 +7444,7 @@
     "directoryOrder": 60,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [],
     "evidence": [
       {
@@ -7594,7 +7594,7 @@
     "directoryOrder": 61,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [
       "部分成果未明确本人作者署名位置，未推定首作、独著或通讯作者。"
     ],
@@ -7697,7 +7697,7 @@
     "directoryOrder": 62,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [],
     "evidence": [
       {
@@ -7848,7 +7848,7 @@
     "directoryOrder": 63,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [
       "部分具名科研项目未逐项明确本人角色，未将简介中的主持总数套用于这些条目。"
     ],
@@ -8001,7 +8001,7 @@
     "directoryOrder": 64,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [
       "部分英文成果仅列姓名缩写或未列署名，且尚无对应作者元数据补证；这些条目未推定本人第一或通讯作者角色。",
       "部分成果未明确本人作者署名位置，未推定首作、独著或通讯作者。"
@@ -8114,7 +8114,7 @@
     "directoryOrder": 65,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [],
     "evidence": [
       {
@@ -8254,7 +8254,7 @@
     "directoryOrder": 66,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [
       "部分具名科研项目未逐项明确本人角色，未将简介中的主持总数套用于这些条目。"
     ],
@@ -8405,7 +8405,7 @@
     "directoryOrder": 67,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [],
     "evidence": [
       {
@@ -8474,7 +8474,7 @@
     "directoryOrder": 68,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [],
     "evidence": [
       {
@@ -8584,7 +8584,7 @@
     "directoryOrder": 69,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3.1",
+    "rubricVersion": "spa-research-profile-v3.2",
     "limitations": [
       "两项国家项目只列本人排名第2，按项目成员计，不推定主持；研究著作中的参编或副主编不计首作或独著角色分。",
       "部分成果未明确本人作者署名位置，未推定首作、独著或通讯作者。"

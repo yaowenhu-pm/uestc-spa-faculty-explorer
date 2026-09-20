@@ -1,5 +1,5 @@
 const DEFAULT_SORT = "score";
-const gradeOrder = { S: 0, "A+": 1, A: 2, "A-": 3, "B+": 4, B: 5, "B-": 6, "C+": 7, C: 8, "C-": 9, "D+": 10, D: 11, "D-": 12, E: 13, U: 14 };
+const gradeOrder = { "S+": 0, S: 1, "S-": 2, "A+": 3, A: 4, "A-": 5, "B+": 6, B: 7, "B-": 8, "C+": 9, C: 10, "C-": 11, "D+": 12, D: 13, "D-": 14, "E+": 15, E: 16, "E-": 17, U: 18 };
 const state = { faculty: [], statistics: null, search: "", grade: "", department: "", title: "", sort: DEFAULT_SORT, profile: "", visible: 24 };
 const $ = (selector) => document.querySelector(selector);
 const componentLabels = { hardSignal: ["科研认可", 30], projects: ["科研项目", 30], publications: ["代表成果", 25], recognition: ["学术服务", 10], training: ["培养教学", 5] };
@@ -16,8 +16,8 @@ const effectiveSubgrade = (item) => {
   return base !== "U" && typeof subgrade === "string" && Object.hasOwn(gradeOrder, subgrade) && subgrade[0] === base ? subgrade : base;
 };
 const displayGrade = (grade) => grade.replace("-", "−");
-const gradeFilterLabel = (grade) => grade === "U" ? "资料不足" : /^[ABCD]$/.test(grade) ? `${grade}档（全部）` : `${displayGrade(grade.replace(/0$/, ""))} 级`;
-const matchesGrade = (item, grade) => !grade || (/^[ABCD]$/.test(grade) ? effectiveGrade(item) === grade : effectiveSubgrade(item) === grade.replace(/0$/, ""));
+const gradeFilterLabel = (grade) => grade === "U" ? "资料不足" : /^[SABCDE]$/.test(grade) ? `${grade}档（全部）` : `${displayGrade(grade.replace(/0$/, ""))} 级`;
+const matchesGrade = (item, grade) => !grade || (/^[SABCDE]$/.test(grade) ? effectiveGrade(item) === grade : effectiveSubgrade(item) === grade.replace(/0$/, ""));
 const isV3 = (item) => Boolean(item.assessmentStatus || item.coverage || /v3/i.test(item.rubricVersion || ""));
 const gradeDescription = (grade) => grade === "U" ? "资料不足，暂不分级" : `公开履历分级 ${displayGrade(grade)} 级`;
 
@@ -232,7 +232,7 @@ function restoreUrl() {
 }
 
 async function init() {
-  const [facultyResponse, statisticsResponse] = await Promise.all([fetch("./data/faculty.public.json?v=20260921-v3.1"), fetch("./data/statistics.json?v=20260921-v3.1")]);
+  const [facultyResponse, statisticsResponse] = await Promise.all([fetch("./data/faculty.public.json?v=20260921-v3.2"), fetch("./data/statistics.json?v=20260921-v3.2")]);
   if (!facultyResponse.ok || !statisticsResponse.ok) throw new Error("数据加载失败");
   state.faculty = await facultyResponse.json(); state.statistics = await statisticsResponse.json();
   populateFilters(); renderStats(); bindControls(); restoreUrl();

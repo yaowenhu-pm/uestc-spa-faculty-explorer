@@ -22,20 +22,27 @@ test('grade gates are applied before intervals and are not population quotas',()
   assert.equal(gradeForScore(99,{eligible:false,hasGate:true,projects:30}),'U');
 });
 test('plus and minus bands have fixed five-point boundaries within each base grade',()=>{
-  for(const [grade,low]of [['A',60],['B',45],['C',30],['D',15]]){
+  for(const [grade,low]of [['S',75],['A',60],['B',45],['C',30],['D',15],['E',0]]){
     assert.deepEqual([low,low+4,low+5,low+9,low+10,low+14].map(score=>subgradeForScore(grade,score)),[`${grade}-`,`${grade}-`,grade,grade,`${grade}+`,`${grade}+`]);
   }
-  assert.equal(subgradeForScore('S',88),'S');
-  assert.equal(subgradeForScore('E',12),'E');
+  assert.equal(subgradeForScore('S',100),'S+');
+  assert.equal(subgradeForScore('E',0),'E-');
   assert.equal(subgradeForScore('U',null),'U');
 });
 test('high scores cannot use plus labels to bypass S or A research gates',()=>{
   const grade=(score,options)=>subgradeForScore(gradeForScore(score,options),score);
   assert.equal(grade(79,{projects:27}),'A+');
-  assert.equal(grade(79,{hasGate:true,projects:27}),'S');
+  assert.equal(grade(79,{hasGate:true,projects:27}),'S-');
   assert.equal(grade(79,{projects:17,publications:14}),'B+');
   assert.equal(grade(60,{projects:17,publications:15}),'A-');
   assert.equal(grade(99,{eligible:false,hasGate:true,projects:30}),'U');
+});
+test('S and E include both extremes while insufficient material stays ungraded',()=>{
+  assert.deepEqual([75,79,80,84,85,100].map(score=>subgradeForScore('S',score)),['S-','S-','S','S','S+','S+']);
+  assert.deepEqual([0,4,5,9,10,14].map(score=>subgradeForScore('E',score)),['E-','E-','E','E','E+','E+']);
+  for(const [base,score]of [['S',74],['S',101],['E',-1],['E',15]])assert.throws(()=>subgradeForScore(base,score),/Invalid score/);
+  assert.equal(subgradeForScore(gradeForScore(0,{eligible:false}),null),'U');
+  assert.equal(subgradeForScore(gradeForScore(100,{eligible:false,hasGate:true}),null),'U');
 });
 test('one youth project does not max out projects; repeat independent leadership is bounded',()=>{
   assert.equal(assessEvidence([project()]).scoreComponents.projects,12);

@@ -4,7 +4,7 @@ import { fileURLToPath } from 'node:url';
 import { createHash } from 'node:crypto';
 
 export const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
-export const RUBRIC_VERSION = 'spa-research-profile-v3.1';
+export const RUBRIC_VERSION = 'spa-research-profile-v3.2';
 export const REVIEWED_AT = '2026-09-21';
 export const RECENT_WINDOW = { start:2021, end:2026 };
 export const CATALOG_URL = 'https://spa.uestc.edu.cn/szdw/jsml/xsyq.htm';
@@ -27,8 +27,8 @@ export const CRITERIA = {
   national_teaching:'具名国家教学奖励、明确负责国家课程或指导全国获奖',provincial_teaching:'省级教学奖励或省级课程',institutional_teaching:'校级教学奖励或明确学生指导奖',named_course:'具名课程',mentor:'明确导师身份',
 };
 export const GRADES=['S','A','B','C','D','E','U'];
-export const SUBGRADES=['S','A+','A','A-','B+','B','B-','C+','C','C-','D+','D','D-','E','U'];
-export const SUBGRADE_BANDS={A:{minus:60,plain:65,plus:70},B:{minus:45,plain:50,plus:55},C:{minus:30,plain:35,plus:40},D:{minus:15,plain:20,plus:25}};
+export const SUBGRADES=['S+','S','S-','A+','A','A-','B+','B','B-','C+','C','C-','D+','D','D-','E+','E','E-','U'];
+export const SUBGRADE_BANDS={S:{minus:75,plain:80,plus:85},A:{minus:60,plain:65,plus:70},B:{minus:45,plain:50,plus:55},C:{minus:30,plain:35,plus:40},D:{minus:15,plain:20,plus:25},E:{minus:0,plain:5,plus:10}};
 export const gradeLabels={S:'国家级标志经历',A:'较强研究履历',B:'多项研究经历',C:'已有研究积累',D:'已见部分研究经历',E:'当前计分信号较少',U:'资料不足'};
 export const PUBLIC_KEYS=['profileId','name','title','departments','profileUrl','researchDirections','focusKeywords','evidenceGrade','evidenceSubgrade','evidenceScore','evidenceLabel','verdict','scoreComponents','hardSignals','highlights','limitations','evidenceSnippets','directoryOrder','collectedAt','reviewStatus','rubricVersion','assessmentStatus','coverage','gradeReason','scoringNotes'];
 const SOURCE_KEYS=['profileId','name','title','departments','profileUrl','researchDirections','directoryOrder','collectedAt','reviewStatus','rubricVersion','limitations','evidence'];
@@ -135,16 +135,16 @@ export function subgradeForScore(grade,score){
   ensure(GRADES.includes(grade),'Invalid base grade');
   if(!SUBGRADE_BANDS[grade])return grade;
   const band=SUBGRADE_BANDS[grade];
-  ensure(Number.isInteger(score)&&score>=band.minus&&score<=100,'Invalid score for base grade');
+  ensure(Number.isInteger(score)&&score>=band.minus&&score<=(['S','A','B'].includes(grade)?100:band.plus+4),'Invalid score for base grade');
   return score>=band.plus?`${grade}+`:score>=band.plain?grade:`${grade}-`;
 }
 function subgradeRange(grade,subgrade){
   const band=SUBGRADE_BANDS[grade];
-  return subgrade.endsWith('+')?(['A','B'].includes(grade)?`${band.plus}分及以上`:`${band.plus}–${band.plus+4}分`):subgrade.endsWith('-')?`${band.minus}–${band.plain-1}分`:`${band.plain}–${band.plus-1}分`;
+  return subgrade.endsWith('+')?(['A','B'].includes(grade)?`${band.plus}分及以上`:`${band.plus}–${grade==='S'?100:band.plus+4}分`):subgrade.endsWith('-')?`${band.minus}–${band.plain-1}分`:`${band.plain}–${band.plus-1}分`;
 }
 function gradeReasonFor(grade,a,gate,subgrade){
   if(grade==='U')return `本次仅确认${a.coverage.works}件可定位成果、${a.coverage.projects}项角色明确的科研项目，尚不足以按本规则分级。`;
-  if(grade==='S')return `总分${a.total}，且有明确的本人国家级科研认可或国家重大总项目主持证据，满足S级门槛。`;
+  if(grade==='S')return `总分${a.total}，且有明确的本人国家级科研认可或国家重大总项目主持证据，满足S级门槛；按${subgradeRange(grade,subgrade)}分段细分为${subgrade.replace('-','−')}。`;
   if(grade==='A')return `总分${a.total}；${a.scoreComponents.projects>=18?'项目达到18分研究门槛':'代表成果达到15分研究门槛'}，进入A档；按${subgradeRange(grade,subgrade)}分段细分为${subgrade.replace('-','−')}${!gate&&a.total>=75?'，尚未满足S级额外门槛':''}。`;
   if(grade==='B'&&a.total>=60)return `总分${a.total}，但项目未达到18分、代表成果未达到15分的A级研究门槛，留在B档并细分为B+。`;
   if(SUBGRADE_BANDS[grade])return `总分${a.total}，进入${grade}档；按${subgradeRange(grade,subgrade)}分段细分为${subgrade.replace('-','−')}。`;
@@ -174,7 +174,7 @@ export function buildFaculty(records){
       `代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖${a.recentYears.length}个近期年度，持续性加${a.continuity}分。`,
       '科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。',
       'A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。',
-      '先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。',
+      '先判基础档，再按档内分数细分：S−75–79、S80–84、S+85–100；A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29；E−0–4、E5–9、E+10–14。高分不能绕过S/A门槛；只有资料不足不细分。',
       '分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。',
     ];
     const gradeReason=gradeReasonFor(evidenceGrade,a,gate,evidenceSubgrade);
@@ -188,7 +188,7 @@ export async function build(){
   const departmentDistribution=Object.fromEntries([...new Set(faculty.flatMap(r=>r.departments))].map(department=>[department,faculty.filter(r=>r.departments.includes(department)).length]));
   const statistics={generatedAt,sourceCollectedAt,ruleReviewedAt:REVIEWED_AT,teacherCount:faculty.length,departmentCount:Object.keys(departmentDistribution).filter(key=>key.endsWith('系')).length,gradeDistribution:Object.fromEntries(GRADES.map(grade=>[grade,faculty.filter(item=>item.evidenceGrade===grade).length])),subgradeDistribution:Object.fromEntries(SUBGRADES.map(grade=>[grade,faculty.filter(item=>item.evidenceSubgrade===grade).length])),departmentDistribution,reviewDistribution:Object.fromEntries([...new Set(faculty.map(r=>r.reviewStatus))].map(status=>[status,faculty.filter(r=>r.reviewStatus===status).length])),rubricVersion:RUBRIC_VERSION};
   const version={version:`${REVIEWED_AT}-${RUBRIC_VERSION}`,generatedAt,sourceCollectedAt,ruleReviewedAt:REVIEWED_AT,source:'电子科技大学公共管理学院公开教师目录及详情页',sourceUrl:ROSTER_URL,departmentSourceUrl:CATALOG_URL,sourceSha256:createHash('sha256').update(bytes).digest('hex'),publicDataPolicy:'allowlist-v2',rubricVersion:RUBRIC_VERSION};
-  const rubric={version:RUBRIC_VERSION,reviewedAt:REVIEWED_AT,recentWindow:RECENT_WINDOW,scope:'固定规则下的公开科研履历信号；非官方评价，不等同于能力或学术质量排名，不宣称消除了学科和职业阶段差异',components:Object.fromEntries(Object.entries(COMPONENTS).map(([key,value])=>[key,{label:value.label,max:value.max,aggregation:key==='projects'?'最高基础档+第二、第三项独立国家主持项目各3分，总上限30':key==='publications'?'最多5件，每件定位1+明确署名角色2+近年1，跨3至4个近期年度加3、5个以上加5，总上限25':'最高一档',criteria:Object.entries(value.levels).map(([criterion,points])=>({criterion,points:key==='publications'?null:points,description:CRITERIA[criterion]}))}])),grading:{S:'资料足够、总分≥75，并有本人国家级科研认可或国家重大总项目主持证据',A:'资料足够、总分≥60、项目≥18或代表成果≥15，且未满足S条件',B:'资料足够、总分≥45，且未满足S/A条件',C:'资料足够、30–44',D:'资料足够、15–29',E:'资料足够、0–14',U:'未达到核心研究资料覆盖条件，暂不分级、不展示总分'},subgrading:{order:SUBGRADES,bands:SUBGRADE_BANDS,rule:'先按原门槛判基础档，再细分A至D的−/普通/+；S、E、U不细分。A+和B+的高分不能绕过上一档门槛。'},coverageEligibility:['至少3件题名、出处、年份齐全的成果','至少1件可定位成果和1项角色明确的具名科研项目','国家重大/重点主持项目和至少1件具名成果','至少1件可定位成果且本人省级以上科研认可达18分'],notes:['先判资料覆盖，再分级；U不等于E。近期条目或作者角色未公开本身不导致U。','最多选5项具名科研项目和5件代表成果；同一项目或作品重复列举不加分，概述总数不拆分。','署名列首是可观察的署名事实，不等同于实质贡献比例；无图例星号不推通讯。','代表成果包括研究论文、研究著作和具名资政报告；普通教材与教学项目不混入科研分。','重大项目子课题不打开总项目S门槛；重大项目不在科研认可中重复加分。','选取数量不是全部职业生涯成果总数；未选取或缺失信息不等于没有经历。','等级阈值在全量重评前固定，不按期望人数或比例调整。']};
+  const rubric={version:RUBRIC_VERSION,reviewedAt:REVIEWED_AT,recentWindow:RECENT_WINDOW,scope:'固定规则下的公开科研履历信号；非官方评价，不等同于能力或学术质量排名，不宣称消除了学科和职业阶段差异',components:Object.fromEntries(Object.entries(COMPONENTS).map(([key,value])=>[key,{label:value.label,max:value.max,aggregation:key==='projects'?'最高基础档+第二、第三项独立国家主持项目各3分，总上限30':key==='publications'?'最多5件，每件定位1+明确署名角色2+近年1，跨3至4个近期年度加3、5个以上加5，总上限25':'最高一档',criteria:Object.entries(value.levels).map(([criterion,points])=>({criterion,points:key==='publications'?null:points,description:CRITERIA[criterion]}))}])),grading:{S:'资料足够、总分≥75，并有本人国家级科研认可或国家重大总项目主持证据',A:'资料足够、总分≥60、项目≥18或代表成果≥15，且未满足S条件',B:'资料足够、总分≥45，且未满足S/A条件',C:'资料足够、30–44',D:'资料足够、15–29',E:'资料足够、0–14',U:'未达到核心研究资料覆盖条件，暂不分级、不展示总分'},subgrading:{order:SUBGRADES,bands:SUBGRADE_BANDS,rule:'先按原门槛判基础档，再细分S至E的−/普通/+；只有U资料不足不细分。所有细分保留原S/A门槛，不能凭高分或+跨档晋级。'},coverageEligibility:['至少3件题名、出处、年份齐全的成果','至少1件可定位成果和1项角色明确的具名科研项目','国家重大/重点主持项目和至少1件具名成果','至少1件可定位成果且本人省级以上科研认可达18分'],notes:['先判资料覆盖，再分级；U不等于E。近期条目或作者角色未公开本身不导致U。','最多选5项具名科研项目和5件代表成果；同一项目或作品重复列举不加分，概述总数不拆分。','署名列首是可观察的署名事实，不等同于实质贡献比例；无图例星号不推通讯。','代表成果包括研究论文、研究著作和具名资政报告；普通教材与教学项目不混入科研分。','重大项目子课题不打开总项目S门槛；重大项目不在科研认可中重复加分。','选取数量不是全部职业生涯成果总数；未选取或缺失信息不等于没有经历。','等级阈值在全量重评前固定，不按期望人数或比例调整。']};
   for(const[name,data]of [['faculty.public.json',faculty],['statistics.json',statistics],['data-version.json',version],['rubric.json',rubric]])await fs.writeFile(path.join(root,'data',name),JSON.stringify(data,null,2)+'\n');
   console.log(JSON.stringify({records:faculty.length,distribution:statistics.gradeDistribution},null,2));
 }

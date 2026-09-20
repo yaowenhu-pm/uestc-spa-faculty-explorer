@@ -14,7 +14,9 @@
     "U": 5
   },
   "subgradeDistribution": {
-    "S": 1,
+    "S+": 1,
+    "S": 0,
+    "S-": 0,
     "A+": 4,
     "A": 5,
     "A-": 2,
@@ -27,7 +29,9 @@
     "D+": 6,
     "D": 3,
     "D-": 7,
-    "E": 1,
+    "E+": 1,
+    "E": 0,
+    "E-": 0,
     "U": 5
   },
   "departmentDistribution": {
@@ -42,5 +46,5 @@
   "reviewDistribution": {
     "逐条官网证据已核对": 69
   },
-  "rubricVersion": "spa-research-profile-v3.1"
+  "rubricVersion": "spa-research-profile-v3.2"
 }

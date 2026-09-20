@@ -1,12 +1,12 @@
 {
-  "version": "2026-09-21-spa-research-profile-v3.1",
+  "version": "2026-09-21-spa-research-profile-v3.2",
   "generatedAt": "2026-09-21T00:00:00+08:00",
   "sourceCollectedAt": "2026-09-20",
   "ruleReviewedAt": "2026-09-21",
   "source": "电子科技大学公共管理学院公开教师目录及详情页",
   "sourceUrl": "https://spa.uestc.edu.cn/szdw/jsml/xsszm.htm",
   "departmentSourceUrl": "https://spa.uestc.edu.cn/szdw/jsml/xsyq.htm",
-  "sourceSha256": "234f0b99e15a4a8db70745ae90b461e6b83abf4c896d98663812076ced14ef1b",
+  "sourceSha256": "16f649387fc7b7b3fa6b8fd39a43cb7c13458b13d10016caee0741da1cc1fe9a",
   "publicDataPolicy": "allowlist-v2",
-  "rubricVersion": "spa-research-profile-v3.1"
+  "rubricVersion": "spa-research-profile-v3.2"
 }

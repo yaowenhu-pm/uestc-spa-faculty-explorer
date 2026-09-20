@@ -1,5 +1,5 @@
 {
-  "version": "spa-research-profile-v3.1",
+  "version": "spa-research-profile-v3.2",
   "reviewedAt": "2026-09-21",
   "recentWindow": {
     "start": 2021,
@@ -224,7 +224,9 @@
   },
   "subgrading": {
     "order": [
+      "S+",
       "S",
+      "S-",
       "A+",
       "A",
       "A-",
@@ -237,10 +239,17 @@
       "D+",
       "D",
       "D-",
+      "E+",
       "E",
+      "E-",
       "U"
     ],
     "bands": {
+      "S": {
+        "minus": 75,
+        "plain": 80,
+        "plus": 85
+      },
       "A": {
         "minus": 60,
         "plain": 65,
@@ -260,9 +269,14 @@
         "minus": 15,
         "plain": 20,
         "plus": 25
+      },
+      "E": {
+        "minus": 0,
+        "plain": 5,
+        "plus": 10
       }
     },
-    "rule": "先按原门槛判基础档，再细分A至D的−/普通/+；S、E、U不细分。A+和B+的高分不能绕过上一档门槛。"
+    "rule": "先按原门槛判基础档，再细分S至E的−/普通/+；只有U资料不足不细分。所有细分保留原S/A门槛，不能凭高分或+跨档晋级。"
   },
   "coverageEligibility": [
     "至少3件题名、出处、年份齐全的成果",

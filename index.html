@@ -6,7 +6,7 @@
   <meta name="description" content="电子科技大学公共管理学院教师研究导航。检索教师研究方向，按学系、职称和公开履历分级筛选。">
   <meta name="theme-color" content="#ffffff">
   <title>公管教师研究导航 · UESTC SPA Faculty Explorer</title>
-  <link rel="stylesheet" href="./styles.css?v=20260921-v3.1">
+  <link rel="stylesheet" href="./styles.css?v=20260921-v3.2">
 </head>
 <body>
   <a class="skip-link" href="#explore">跳转到教师检索</a>
@@ -22,12 +22,14 @@
           <label class="search-field"><span class="sr-only">搜索教师或研究方向</span><input id="search" type="search" placeholder="搜索姓名或研究方向" autocomplete="off"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m21 21-4.35-4.35m2.35-5.65a8 8 0 1 1-16 0 8 8 0 0 1 16 0Z"/></svg></label>
           <label class="select-field"><span class="sr-only">按职称筛选</span><select id="title" aria-label="按职称筛选"><option value="">全部职称</option></select></label>
           <label class="select-field"><span class="sr-only">按公开履历分级筛选</span><select id="grade" aria-label="按公开履历分级筛选">
-            <option value="">全部分级</option><option value="S">S</option>
+            <option value="">全部分级</option>
+            <optgroup label="S档"><option value="S">S档（全部）</option><option value="S+">S+</option><option value="S0">S</option><option value="S-">S−</option></optgroup>
             <optgroup label="A档"><option value="A">A档（全部）</option><option value="A+">A+</option><option value="A0">A</option><option value="A-">A−</option></optgroup>
             <optgroup label="B档"><option value="B">B档（全部）</option><option value="B+">B+</option><option value="B0">B</option><option value="B-">B−</option></optgroup>
             <optgroup label="C档"><option value="C">C档（全部）</option><option value="C+">C+</option><option value="C0">C</option><option value="C-">C−</option></optgroup>
             <optgroup label="D档"><option value="D">D档（全部）</option><option value="D+">D+</option><option value="D0">D</option><option value="D-">D−</option></optgroup>
-            <option value="E">E</option><option value="U">资料不足</option>
+            <optgroup label="E档"><option value="E">E档（全部）</option><option value="E+">E+</option><option value="E0">E</option><option value="E-">E−</option></optgroup>
+            <option value="U">资料不足</option>
           </select></label>
         </div>
       </div>
@@ -43,6 +45,6 @@
   <footer><div><a href="https://spa.uestc.edu.cn/szdw/jsml/xsszm.htm" target="_blank" rel="noreferrer">来源：学院官网</a><span>资料采集：<span id="snapshot-date">2026-09-20</span></span></div><div><a href="./methodology.html">公开履历分级说明</a><a href="https://github.com/yaowenhu-pm/uestc-spa-faculty-explorer" target="_blank" rel="noreferrer">GitHub ↗</a></div></footer>
   <dialog id="faculty-dialog" aria-labelledby="dialog-name"><button id="dialog-close" class="dialog-close" aria-label="关闭详情" type="button">×</button><div id="dialog-content"></div></dialog>
   <template id="empty-template"><div class="empty-state"><strong>没有找到匹配的教师</strong><p>换个关键词，或移除筛选条件。</p><button class="button secondary" type="button" data-reset>清空筛选</button></div></template>
-  <script type="module" src="./app.js?v=20260921-v3.1"></script>
+  <script type="module" src="./app.js?v=20260921-v3.2"></script>
 </body>
 </html>
