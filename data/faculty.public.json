@@ -1,0 +1,4426 @@
+[
+  {
+    "profileId": "6103",
+    "name": "蔡运娟",
+    "title": "副教授",
+    "departments": [
+      "信息管理系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1226/6103.htm",
+    "researchDirections": [
+      "数字政府治理",
+      "数字社会治理"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "D",
+    "evidenceScore": 24,
+    "evidenceLabel": "可核对证据有限",
+    "verdict": "已摘录项目证据、成果证据、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 0,
+      "projects": 12,
+      "publications": 4,
+      "recognition": 0,
+      "training": 8
+    },
+    "hardSignals": [],
+    "highlights": "官网研究领域：数字政府治理、数字社会治理。",
+    "limitations": [
+      "外部认可未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "学术任职未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "项目按该条公开的资助与角色信息计分，未将未注明的个人角色视为主持。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "项目证据",
+        "conclusion": "12分 · 国家项目角色未明确、省部具体项目，或市校项目明确主持",
+        "excerpt": "1.国家社会科学基金项目“网络空间的群体行为规律及政府治理研究”（2010）",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1226/6103.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "4分 · 只有发表或出版概述，未摘录具体成果",
+        "excerpt": "发表论文多篇。",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1226/6103.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "8分 · 省级教学奖励或省级一流课程",
+        "excerpt": "2.四川省第八届高等教育优秀教学成果二等奖““三维一体”文科学生实践创新能力培养模式探索与实践”（2018）",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1226/6103.htm"
+      }
+    ],
+    "directoryOrder": 1,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "6099",
+    "name": "陈良雨",
+    "title": "副教授",
+    "departments": [
+      "行政管理系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1226/6099.htm",
+    "researchDirections": [
+      "行政管理体制与改革",
+      "教育政策"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "B",
+    "evidenceScore": 52,
+    "evidenceLabel": "已有成型证据",
+    "verdict": "已摘录外部认可、项目证据、成果证据、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 8,
+      "projects": 20,
+      "publications": 20,
+      "recognition": 0,
+      "training": 4
+    },
+    "hardSignals": [
+      "省级科研、科技或社科成果二等奖、三等奖"
+    ],
+    "highlights": "官网研究领域：行政管理体制与改革、教育政策。",
+    "limitations": [
+      "学术任职未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "外部认可",
+        "conclusion": "8分 · 省级科研、科技或社科成果二等奖、三等奖",
+        "excerpt": "高校学生发展的公平与效率研究，四川省第十九次社会科学优秀成果三等奖，2023.3",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1226/6099.htm"
+      },
+      {
+        "type": "项目证据",
+        "conclusion": "20分 · 具名或有唯一编号的国家项目，明确本人主持或负责",
+        "excerpt": "1.主持，2022年全国教育规划青年项目：学科群落生态驱动高校原始创新能力提升研究（CIA220279）",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1226/6099.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "20分 · 该项成果有出处和年份，且明确SCI/SSCI/CSSCI/CSCD/EI收录；或具名资政成果有采纳机构和年份",
+        "excerpt": "1.陈良雨. 数字化转型驱动学科群落生态的逻辑与机制[J].中国远程教育，2024，CSSCI来源期刊",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1226/6099.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "4分 · 官网列出具名教学课程",
+        "excerpt": "本科生：社会学原理、人力资源管理导论、行政管理综合实验实践I、新时期责任型政府研究的项目实践（新生项目课程）",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1226/6099.htm"
+      }
+    ],
+    "directoryOrder": 2,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "6147",
+    "name": "陈世莉",
+    "title": "副教授",
+    "departments": [
+      "城市管理系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1226/6147.htm",
+    "researchDirections": [
+      "城市公共治理",
+      "乡村公共治理"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "C",
+    "evidenceScore": 44,
+    "evidenceLabel": "部分证据可核对",
+    "verdict": "已摘录项目证据、成果证据、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 0,
+      "projects": 20,
+      "publications": 20,
+      "recognition": 0,
+      "training": 4
+    },
+    "hardSignals": [],
+    "highlights": "官网研究领域：城市公共治理、乡村公共治理。",
+    "limitations": [
+      "外部认可未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "学术任职未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "项目证据",
+        "conclusion": "20分 · 具名或有唯一编号的国家项目，明确本人主持或负责",
+        "excerpt": "1.主持，2022年国家自然科学基金青年项目：多源地理大数据支持下的城市局部收缩空间识别与形成机制研究（42101169）",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1226/6147.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "20分 · 该项成果有出处和年份，且明确SCI/SSCI/CSSCI/CSCD/EI收录；或具名资政成果有采纳机构和年份",
+        "excerpt": "5.陈世莉, 陈浩辉, 李郇. 夜间灯光数据在不同尺度对社会经济活动的预测[J]. 地理科学, 2020, 40(09):1476-1483,CSSCI来源期刊",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1226/6147.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "4分 · 官网列出具名教学课程",
+        "excerpt": "本科生：地理信息系统技术与应用、城市规划综合实践",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1226/6147.htm"
+      }
+    ],
+    "directoryOrder": 3,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "8127",
+    "name": "陈霞",
+    "title": "副教授",
+    "departments": [
+      "行政管理系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1226/8127.htm",
+    "researchDirections": [
+      "风险管理与预防准备",
+      "数字治理理论与方法"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "B",
+    "evidenceScore": 58,
+    "evidenceLabel": "已有成型证据",
+    "verdict": "已摘录项目证据、成果证据、学术任职、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 0,
+      "projects": 20,
+      "publications": 16,
+      "recognition": 16,
+      "training": 6
+    },
+    "hardSignals": [],
+    "highlights": "官网研究领域：风险管理与预防准备、数字治理理论与方法。",
+    "limitations": [
+      "外部认可未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "项目证据",
+        "conclusion": "20分 · 具名或有唯一编号的国家项目，明确本人主持或负责",
+        "excerpt": "1. 主持，2023年国家自科基金青年项目：公众注意力视角下多舆情事件的耦合演化机制与治理策略研究（编号：72304199）",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1226/8127.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "16分 · 具名成果有发表出处或出版机构，并有发表年份",
+        "excerpt": "7. 董玉成，范莎，陈霞，寇纲*. 诺贝尔经济科学奖与决策理论及其对数据驱动智能决策的研究启示. 管理科学学报, 28(4): 174-190, 2025. (被“中国人民大学书报资料中心”全文转载)",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1226/8127.htm"
+      },
+      {
+        "type": "学术任职",
+        "conclusion": "16分 · 全国或国际学术组织理事、委员、秘书长或会长等任职",
+        "excerpt": "中国优选法统筹法与经济数学研究会计算机模拟分会理事",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1226/8127.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "6分 · 校级教学荣誉或明确学生指导奖励",
+        "excerpt": "3. 2024年与2025年“优秀班主任”",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1226/8127.htm"
+      }
+    ],
+    "directoryOrder": 4,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "6058",
+    "name": "崔茜",
+    "title": "教授",
+    "departments": [
+      "公共政策系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1226/6058.htm",
+    "researchDirections": [
+      "行为公共政策",
+      "社会心理学",
+      "公共人力资源"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "B",
+    "evidenceScore": 56,
+    "evidenceLabel": "已有成型证据",
+    "verdict": "已摘录外部认可、项目证据、成果证据、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 12,
+      "projects": 20,
+      "publications": 20,
+      "recognition": 0,
+      "training": 4
+    },
+    "hardSignals": [
+      "省级高层次人才、学术技术带头人或省级科研社科一等奖、特等奖"
+    ],
+    "highlights": "官网研究领域：行为公共政策、社会心理学、公共人力资源。",
+    "limitations": [
+      "学术任职未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "外部认可",
+        "conclusion": "12分 · 省级高层次人才、学术技术带头人或省级科研社科一等奖、特等奖",
+        "excerpt": "四川省高层次人才计划入选者。",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1226/6058.htm"
+      },
+      {
+        "type": "项目证据",
+        "conclusion": "20分 · 具名或有唯一编号的国家项目，明确本人主持或负责",
+        "excerpt": "1.单双相抑郁障碍多模态脑网络机制与智能化诊疗方法研究，国家自然科学基金面上项目，82172059，2022.01-2025.12，55万，主持",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1226/6058.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "20分 · 该项成果有出处和年份，且明确SCI/SSCI/CSSCI/CSCD/EI收录；或具名资政成果有采纳机构和年份",
+        "excerpt": "1.Qian Cui*, Eric J. Vanman, Zhilia…in self and theory of mind processing, Social Cognitive and Affective Neuroscience, 2017, 12 (8): 1284-1295. （SSCI一区，IF=4.2）",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1226/6058.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "4分 · 官网列出具名教学课程",
+        "excerpt": "本科生：心理学漫谈、心理学原理、人类文明经典赏析",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1226/6058.htm"
+      }
+    ],
+    "directoryOrder": 5,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "8148",
+    "name": "邓怡",
+    "title": "讲师",
+    "departments": [
+      "公共政策系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1227/8148.htm",
+    "researchDirections": [
+      "数智公共治理",
+      "行为公共政策"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "C",
+    "evidenceScore": 44,
+    "evidenceLabel": "部分证据可核对",
+    "verdict": "已摘录项目证据、成果证据、学术任职、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 0,
+      "projects": 20,
+      "publications": 16,
+      "recognition": 4,
+      "training": 4
+    },
+    "hardSignals": [],
+    "highlights": "官网研究领域：数智公共治理、行为公共政策。",
+    "limitations": [
+      "外部认可未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "项目证据",
+        "conclusion": "20分 · 具名或有唯一编号的国家项目，明确本人主持或负责",
+        "excerpt": "2.中国博士后科学基金面上项目：人机协作对街头官僚自由裁量权的影响机制研究（主持）",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1227/8148.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "16分 · 具名成果有发表出处或出版机构，并有发表年份",
+        "excerpt": "1.Deng, Y., & Sun, Y. (2024). How D…ve Accountability of Street-Level Bureaucrats? The Mediating Effect of Perceived Discretion, Public Management Review, 1-21.",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1227/8148.htm"
+      },
+      {
+        "type": "学术任职",
+        "conclusion": "4分 · 具名期刊审稿经历",
+        "excerpt": "Public Management Review审稿人",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1227/8148.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "4分 · 官网列出具名教学课程",
+        "excerpt": "本科生：行政管理综合实验实践",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1227/8148.htm"
+      }
+    ],
+    "directoryOrder": 6,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "6697",
+    "name": "丁煌",
+    "title": "特聘讲席教授",
+    "departments": [
+      "特聘讲席教授"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1227/6697.htm",
+    "researchDirections": [
+      "行政管理",
+      "公共政策"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "B",
+    "evidenceScore": 60,
+    "evidenceLabel": "已有成型证据",
+    "verdict": "已摘录外部认可、项目证据、成果证据、学术任职、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 18,
+      "projects": 4,
+      "publications": 8,
+      "recognition": 20,
+      "training": 10
+    },
+    "hardSignals": [
+      "中央部委或中国社科院正式科研成果奖，或教育部新世纪优秀人才"
+    ],
+    "highlights": "官网研究领域：行政管理、公共政策。",
+    "limitations": [
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "外部认可",
+        "conclusion": "18分 · 中央部委或中国社科院正式科研成果奖，或教育部新世纪优秀人才",
+        "excerpt": "入选教育部新世纪优秀人才、国家“马工程”重点项目首席专家。",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1227/6697.htm"
+      },
+      {
+        "type": "项目证据",
+        "conclusion": "4分 · 只有项目经历概述或资助类别，未摘录具名项目",
+        "excerpt": "主持承担国家重大专项研究课题以及国家社会科学基金和国家自然科学基金各类项目等课题多项；",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1227/6697.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "8分 · 具名成果，未摘录发表出处和年份",
+        "excerpt": "出版《西方行政学说史》等个人专著6部，合著《公共政策分析》等6部，译著《新公共服务》等8部",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1227/6697.htm"
+      },
+      {
+        "type": "学术任职",
+        "conclusion": "20分 · 全国性学科评议、教学指导等正式委员会及其学科工作组任职",
+        "excerpt": "兼任国务院学位委员会公共管理学科评议组成员兼联合召集人",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1227/6697.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "10分 · 国家教学成果奖、全国教学奖励、明确主持具名国家一流课程或明确指导全国获奖",
+        "excerpt": "是国家精品课程暨国家级一流本科专业课程《行政学原理》负责人和国家级一流本科专业建设点行政管理专业负责人",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1227/6697.htm"
+      }
+    ],
+    "directoryOrder": 7,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "8124",
+    "name": "董子铭",
+    "title": "教授",
+    "departments": [
+      "新闻传播系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1227/8124.htm",
+    "researchDirections": [
+      "数字社会治理",
+      "舆论与治理的关系",
+      "传播技术研究"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "A",
+    "evidenceScore": 70,
+    "evidenceLabel": "多项证据明确",
+    "verdict": "已摘录外部认可、项目证据、成果证据、学术任职、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 18,
+      "projects": 20,
+      "publications": 16,
+      "recognition": 8,
+      "training": 8
+    },
+    "hardSignals": [
+      "中央部委或中国社科院正式科研成果奖，或教育部新世纪优秀人才"
+    ],
+    "highlights": "官网研究领域：数字社会治理、舆论与治理的关系、传播技术研究。",
+    "limitations": [
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "外部认可",
+        "conclusion": "18分 · 中央部委或中国社科院正式科研成果奖，或教育部新世纪优秀人才",
+        "excerpt": "13.教育部第七届高校人文社科科研优秀成果奖一等奖，2015",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1227/8124.htm"
+      },
+      {
+        "type": "项目证据",
+        "conclusion": "20分 · 具名或有唯一编号的国家项目，明确本人主持或负责",
+        "excerpt": "1.技术与读者：全民阅读的媒介研究进路，国家社科基金后期资助项目，2024-2026，主持",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1227/8124.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "16分 · 具名成果有发表出处或出版机构，并有发表年份",
+        "excerpt": "1.董子铭,林倩,李晓阳,杨雪靖.“智慧阅读”能否带来“阅读智慧”?——生成式人工智能时代大学生阅读能力提升的调查与思考[J].出版发行研究,2024(04): 25-32",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1227/8124.htm"
+      },
+      {
+        "type": "学术任职",
+        "conclusion": "8分 · 其他具名学术或公共组织任职、会员身份",
+        "excerpt": "1.国家新闻出版署出版融合发展重点实验室学术委员会委员",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1227/8124.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "8分 · 省级教学奖励或省级一流课程",
+        "excerpt": "3.第五届四川省高校教师教学创新大赛三等奖，2025",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1227/8124.htm"
+      }
+    ],
+    "directoryOrder": 8,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "6111",
+    "name": "范昕",
+    "title": "副教授",
+    "departments": [
+      "公共政策系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1229/6111.htm",
+    "researchDirections": [
+      "中国公共政策实践与理论创新",
+      "社会保障政策研究",
+      "教育政策"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "A",
+    "evidenceScore": 72,
+    "evidenceLabel": "多项证据明确",
+    "verdict": "已摘录外部认可、项目证据、成果证据、学术任职、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 12,
+      "projects": 20,
+      "publications": 20,
+      "recognition": 16,
+      "training": 4
+    },
+    "hardSignals": [
+      "省级高层次人才、学术技术带头人或省级科研社科一等奖、特等奖"
+    ],
+    "highlights": "官网研究领域：中国公共政策实践与理论创新、社会保障政策研究、教育政策。",
+    "limitations": [
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "外部认可",
+        "conclusion": "12分 · 省级高层次人才、学术技术带头人或省级科研社科一等奖、特等奖",
+        "excerpt": "《中国的儿童照顾政策体系：回顾、反思与重构》，广东省哲学社会科学优秀成果一等奖，2021.12",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1229/6111.htm"
+      },
+      {
+        "type": "项目证据",
+        "conclusion": "20分 · 具名或有唯一编号的国家项目，明确本人主持或负责",
+        "excerpt": "1.主持“‘幼有所育’背景下婴幼儿托育服务供给模式研究”（国家社会科学基金青年项目）（在研）",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1229/6111.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "20分 · 该项成果有出处和年份，且明确SCI/SSCI/CSSCI/CSCD/EI收录；或具名资政成果有采纳机构和年份",
+        "excerpt": "1.范昕、李敏谊、叶品，托幼服务治理模式国际比较及中国路径选择，《比较教育研究》，2021年第1期（CSSCI）",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1229/6111.htm"
+      },
+      {
+        "type": "学术任职",
+        "conclusion": "16分 · 全国或国际学术组织理事、委员、秘书长或会长等任职",
+        "excerpt": "中国社会保障学会青年委员",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1229/6111.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "4分 · 官网列出具名教学课程",
+        "excerpt": "本科生：社会学原理",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1229/6111.htm"
+      }
+    ],
+    "directoryOrder": 9,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "6127",
+    "name": "冯先宁",
+    "title": "讲师",
+    "departments": [
+      "城市管理系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1229/6127.htm",
+    "researchDirections": [
+      "区域经济运行与政府治理",
+      "城市规划与治理"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "C",
+    "evidenceScore": 40,
+    "evidenceLabel": "部分证据可核对",
+    "verdict": "已摘录项目证据、成果证据、学术任职、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 0,
+      "projects": 8,
+      "publications": 20,
+      "recognition": 8,
+      "training": 4
+    },
+    "hardSignals": [],
+    "highlights": "官网研究领域：区域经济运行与政府治理、城市规划与治理。",
+    "limitations": [
+      "外部认可未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "项目证据",
+        "conclusion": "8分 · 其他具名项目，有具体条目但缺少上述支持信息",
+        "excerpt": "参与了金牛区战略规划、泸州轻工业园区、古蔺酒业园区等项目论证工作。",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1229/6127.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "20分 · 该项成果有出处和年份，且明确SCI/SSCI/CSSCI/CSCD/EI收录；或具名资政成果有采纳机构和年份",
+        "excerpt": "1.冯先宁.单城市聚散均衡与多城市非均衡发展J.理论与改革，2003（6）, CSSCI来源期刊",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1229/6127.htm"
+      },
+      {
+        "type": "学术任职",
+        "conclusion": "8分 · 其他具名学术或公共组织任职、会员身份",
+        "excerpt": "西部产业发展研究院理事",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1229/6127.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "4分 · 官网列出具名教学课程",
+        "excerpt": "本科生：土地资源管理学、城市发展学、城市发展战略规划、行政监督学、行政案例分析",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1229/6127.htm"
+      }
+    ],
+    "directoryOrder": 10,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "6153",
+    "name": "甘浩辰",
+    "title": "副教授",
+    "departments": [
+      "新闻传播系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1230/6153.htm",
+    "researchDirections": [
+      "智能与计算传播",
+      "非传统安全与全球治理",
+      "公共舆论与政策叙事"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "B",
+    "evidenceScore": 52,
+    "evidenceLabel": "已有成型证据",
+    "verdict": "已摘录外部认可、项目证据、成果证据、学术任职、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 8,
+      "projects": 16,
+      "publications": 16,
+      "recognition": 8,
+      "training": 4
+    },
+    "hardSignals": [
+      "省级科研、科技或社科成果二等奖、三等奖"
+    ],
+    "highlights": "官网研究领域：智能与计算传播、非传统安全与全球治理、公共舆论与政策叙事。",
+    "limitations": [
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "外部认可",
+        "conclusion": "8分 · 省级科研、科技或社科成果二等奖、三等奖",
+        "excerpt": "2.四川省第十八次社会科学优秀成果三等奖,2019.04",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1230/6153.htm"
+      },
+      {
+        "type": "项目证据",
+        "conclusion": "16分 · 省部项目明确主持，或国家项目明确参与、参研、主研",
+        "excerpt": "5.主持：四川省哲学社会科学重点研究基地区域公共管理信息化研究中心项目“算法技术影响下社交媒体用户互动行为与舆论生成机制研究”",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1230/6153.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "16分 · 具名成果有发表出处或出版机构，并有发表年份",
+        "excerpt": "1.甘浩辰,宋巧丽.“技术”与“权力”感知下的社交媒体用户算法抵抗行为意愿与演化机制研究[J].新闻与传播研究,2025,(07):69-86.",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1230/6153.htm"
+      },
+      {
+        "type": "学术任职",
+        "conclusion": "8分 · 其他具名学术或公共组织任职、会员身份",
+        "excerpt": "2.四川省广播电视学会高校专委会第二届委员会 理事",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1230/6153.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "4分 · 官网列出具名教学课程",
+        "excerpt": "本科生：社会计算、后现代思想与二次元文化赏析",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1230/6153.htm"
+      }
+    ],
+    "directoryOrder": 11,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "6044",
+    "name": "高天鹏",
+    "title": "教授",
+    "departments": [
+      "信息管理系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1230/6044.htm",
+    "researchDirections": [
+      "数字政府治理",
+      "数字社会治理"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "C",
+    "evidenceScore": 44,
+    "evidenceLabel": "部分证据可核对",
+    "verdict": "已摘录项目证据、成果证据、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 0,
+      "projects": 16,
+      "publications": 20,
+      "recognition": 0,
+      "training": 8
+    },
+    "hardSignals": [],
+    "highlights": "官网研究领域：数字政府治理、数字社会治理。",
+    "limitations": [
+      "外部认可未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "学术任职未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "项目证据",
+        "conclusion": "16分 · 省部项目明确主持，或国家项目明确参与、参研、主研",
+        "excerpt": "1.“互联网+政务服务”背景下网上政务服务能力评价研究：基于四川省地级市的研究 . 四川省哲学社会科学重点研究基地项目, 2016.07-2018.07，主持",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1230/6044.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "20分 · 该项成果有出处和年份，且明确SCI/SSCI/CSSCI/CSCD/EI收录；或具名资政成果有采纳机构和年份",
+        "excerpt": "4.高天鹏, 莫太林. 基于知识图谱的国际开放政府数据研究概貌和热点透析[J]. 现代情报, 2019, 39 (03)，CSSCI",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1230/6044.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "8分 · 省级教学奖励或省级一流课程",
+        "excerpt": "3.省级一流线上线下混合课程《电子政务原理与应用》. 四川省教育厅, 2021,排名2",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1230/6044.htm"
+      }
+    ],
+    "directoryOrder": 12,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "6113",
+    "name": "龚泽鹏",
+    "title": "副教授",
+    "departments": [
+      "信息管理系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1230/6113.htm",
+    "researchDirections": [
+      "算法行政",
+      "个体健康行为"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "C",
+    "evidenceScore": 44,
+    "evidenceLabel": "部分证据可核对",
+    "verdict": "已摘录项目证据、成果证据、学术任职、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 0,
+      "projects": 12,
+      "publications": 20,
+      "recognition": 8,
+      "training": 4
+    },
+    "hardSignals": [],
+    "highlights": "官网研究领域：算法行政、个体健康行为。",
+    "limitations": [
+      "外部认可未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "项目按该条公开的资助与角色信息计分，未将未注明的个人角色视为主持。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "项目证据",
+        "conclusion": "12分 · 国家项目角色未明确、省部具体项目，或市校项目明确主持",
+        "excerpt": "[1] 国家自然科学基金青年项目：重大疫情下公众干预行为的产生机制与引导策略研究（72204040）。",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1230/6113.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "20分 · 该项成果有出处和年份，且明确SCI/SSCI/CSSCI/CSCD/EI收录；或具名资政成果有采纳机构和年份",
+        "excerpt": "[3] Gong Zepeng, Tang Zhiwei, Li Ji…Gain-Framed, Loss-Framed, and Altruistic Messages[J]. Annals of Behavioral Medicine, 2022, 56(4): 325-331. (SSCI Q1, ESI高被引)",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1230/6113.htm"
+      },
+      {
+        "type": "学术任职",
+        "conclusion": "8分 · 其他具名学术或公共组织任职、会员身份",
+        "excerpt": "中国应急管理学会校园安全专委会成员",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1230/6113.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "4分 · 官网列出具名教学课程",
+        "excerpt": "本科生：运营管理、数据与算法治理",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1230/6113.htm"
+      }
+    ],
+    "directoryOrder": 13,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "6075",
+    "name": "辜毅",
+    "title": "副教授",
+    "departments": [
+      "行政管理系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1230/6075.htm",
+    "researchDirections": [
+      "行政管理体制与改革",
+      "社会保障政策研究"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "B",
+    "evidenceScore": 50,
+    "evidenceLabel": "已有成型证据",
+    "verdict": "已摘录项目证据、成果证据、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 0,
+      "projects": 20,
+      "publications": 20,
+      "recognition": 0,
+      "training": 10
+    },
+    "hardSignals": [],
+    "highlights": "官网研究领域：行政管理体制与改革、社会保障政策研究。",
+    "limitations": [
+      "外部认可未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "学术任职未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "项目证据",
+        "conclusion": "20分 · 具名或有唯一编号的国家项目，明确本人主持或负责",
+        "excerpt": "2.主持，2021年国家社科基金一般项目，新就业形态下多层次养老保险制度优化及实现路径研究",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1230/6075.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "20分 · 该项成果有出处和年份，且明确SCI/SSCI/CSSCI/CSCD/EI收录；或具名资政成果有采纳机构和年份",
+        "excerpt": "2.辜毅.城乡养老保险制度整合的可持续性发展研究[J].经济体制改革，2015(04):37-42. CSSCI来源期刊",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1230/6075.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "10分 · 国家教学成果奖、全国教学奖励、明确主持具名国家一流课程或明确指导全国获奖",
+        "excerpt": "1.主持，2023年国家级虚拟仿真实验教学一流本科课程，智慧城市社会管理与公共服务供给虚拟仿真实验",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1230/6075.htm"
+      }
+    ],
+    "directoryOrder": 14,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "6145",
+    "name": "郭雨晖",
+    "title": "讲师",
+    "departments": [
+      "信息管理系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1230/6145.htm",
+    "researchDirections": [
+      "数字政府治理"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "C",
+    "evidenceScore": 44,
+    "evidenceLabel": "部分证据可核对",
+    "verdict": "已摘录外部认可、项目证据、成果证据、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 12,
+      "projects": 12,
+      "publications": 16,
+      "recognition": 0,
+      "training": 4
+    },
+    "hardSignals": [
+      "省级高层次人才、学术技术带头人或省级科研社科一等奖、特等奖"
+    ],
+    "highlights": "官网研究领域：数字政府治理。",
+    "limitations": [
+      "学术任职未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "项目按该条公开的资助与角色信息计分，未将未注明的个人角色视为主持。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "外部认可",
+        "conclusion": "12分 · 省级高层次人才、学术技术带头人或省级科研社科一等奖、特等奖",
+        "excerpt": "四川省第二十次社会科学优秀成果奖 一等奖",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1230/6145.htm"
+      },
+      {
+        "type": "项目证据",
+        "conclusion": "12分 · 国家项目角色未明确、省部具体项目，或市校项目明确主持",
+        "excerpt": "1.教育部人文社会科学研究项目青年基金项目-区域协调视域下数字政府内外双向失衡性识别与优化路径研究",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1230/6145.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "16分 · 具名成果有发表出处或出版机构，并有发表年份",
+        "excerpt": "3.郭雨晖,汤志伟,赵迪,王研.国家创新系统下日本超智能社会对我国智慧社会建设的启示.科技管理研究,2020",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1230/6145.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "4分 · 官网列出具名教学课程",
+        "excerpt": "本科生：管理运筹学、统计学、综合实验实践II-数据统计与分析",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1230/6145.htm"
+      }
+    ],
+    "directoryOrder": 15,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "6030",
+    "name": "韩洪",
+    "title": "教授",
+    "departments": [
+      "新闻传播系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1231/6030.htm",
+    "researchDirections": [
+      "发展传播",
+      "边疆传播",
+      "传媒与社会治理"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "A",
+    "evidenceScore": 62,
+    "evidenceLabel": "多项证据明确",
+    "verdict": "已摘录外部认可、项目证据、成果证据、学术任职、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 18,
+      "projects": 4,
+      "publications": 20,
+      "recognition": 16,
+      "training": 4
+    },
+    "hardSignals": [
+      "中央部委或中国社科院正式科研成果奖，或教育部新世纪优秀人才"
+    ],
+    "highlights": "官网研究领域：发展传播、边疆传播、传媒与社会治理。",
+    "limitations": [
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "外部认可",
+        "conclusion": "18分 · 中央部委或中国社科院正式科研成果奖，或教育部新世纪优秀人才",
+        "excerpt": "韩洪，笔名“韩鸿”，电子科技大学公共管理学院教授，副院长，教育部“新世纪优秀人才”，全国广播电视和网络视听行业领军人才，四川省高层次人才，电子科技大学“百人计划\"入选者。",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1231/6030.htm"
+      },
+      {
+        "type": "项目证据",
+        "conclusion": "4分 · 只有项目经历概述或资助类别，未摘录具名项目",
+        "excerpt": "1.主持国家社科基金课题五项（其中重点课题一项）",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1231/6030.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "20分 · 该项成果有出处和年份，且明确SCI/SSCI/CSSCI/CSCD/EI收录；或具名资政成果有采纳机构和年份",
+        "excerpt": "1.喜马拉雅地区藏文报刊的创办与传播：基于欧美馆藏档案的考察，《新闻与传播研究》，2022.7，CSSCI来源期刊",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1231/6030.htm"
+      },
+      {
+        "type": "学术任职",
+        "conclusion": "16分 · 全国或国际学术组织理事、委员、秘书长或会长等任职",
+        "excerpt": "1.中国高校影视学会民族影视专委会副理事长",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1231/6030.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "4分 · 官网列出具名教学课程",
+        "excerpt": "本科生：影视节目制作与鉴赏",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1231/6030.htm"
+      }
+    ],
+    "directoryOrder": 16,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "6109",
+    "name": "韩啸",
+    "title": "特聘研究员",
+    "departments": [
+      "行政管理系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1231/6109.htm",
+    "researchDirections": [
+      "数字政府治理"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "A",
+    "evidenceScore": 72,
+    "evidenceLabel": "多项证据明确",
+    "verdict": "已摘录外部认可、项目证据、成果证据、学术任职、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 18,
+      "projects": 20,
+      "publications": 16,
+      "recognition": 12,
+      "training": 6
+    },
+    "hardSignals": [
+      "中央部委或中国社科院正式科研成果奖，或教育部新世纪优秀人才"
+    ],
+    "highlights": "官网研究领域：数字政府治理。",
+    "limitations": [
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "外部认可",
+        "conclusion": "18分 · 中央部委或中国社科院正式科研成果奖，或教育部新世纪优秀人才",
+        "excerpt": "2.民政部全国政策理论研究二等奖",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1231/6109.htm"
+      },
+      {
+        "type": "项目证据",
+        "conclusion": "20分 · 具名或有唯一编号的国家项目，明确本人主持或负责",
+        "excerpt": "1.主持，国家社科基金后期资助重点项目“数智时代的政府首席数据官研究”，在研",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1231/6109.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "16分 · 具名成果有发表出处或出版机构，并有发表年份",
+        "excerpt": "1.韩啸.把生活世界的经验带回公共管理量化研究之中[J].公共管理与政策评论，2026（1）",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1231/6109.htm"
+      },
+      {
+        "type": "学术任职",
+        "conclusion": "12分 · 具名期刊编委、主编，或省级学术组织领导职务",
+        "excerpt": "6.《电子科技大学学报（社科版）》“数智公共治理”栏目青年编委",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1231/6109.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "6分 · 校级教学荣誉或明确学生指导奖励",
+        "excerpt": "8.电子科技大学教学成果奖（本科、研究生）一等奖",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1231/6109.htm"
+      }
+    ],
+    "directoryOrder": 17,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "6077",
+    "name": "胡腾",
+    "title": "副教授",
+    "departments": [
+      "法学系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1231/6077.htm",
+    "researchDirections": [
+      "公共政策理论与方法",
+      "法理学"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "C",
+    "evidenceScore": 36,
+    "evidenceLabel": "部分证据可核对",
+    "verdict": "已摘录项目证据、成果证据、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 0,
+      "projects": 12,
+      "publications": 16,
+      "recognition": 0,
+      "training": 8
+    },
+    "hardSignals": [],
+    "highlights": "官网研究领域：公共政策理论与方法、法理学。",
+    "limitations": [
+      "外部认可未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "学术任职未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "项目按该条公开的资助与角色信息计分，未将未注明的个人角色视为主持。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "项目证据",
+        "conclusion": "12分 · 国家项目角色未明确、省部具体项目，或市校项目明确主持",
+        "excerpt": "1.网络空间生态系统与政府网络治理新路径，四川省哲学社会科学规划项目一般项目，2013.09-2015.12，参研",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1231/6077.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "16分 · 具名成果有发表出处或出版机构，并有发表年份",
+        "excerpt": "4.胡腾.中国传统法律文化当代价值的实现路径[J].中学政治教学参考,2021,10",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1231/6077.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "8分 · 省级教学奖励或省级一流课程",
+        "excerpt": "1.省级教学成果二等奖,推进课程思政，聚焦新四会，建设工科《人类文明经典赏析》核心通识课程群,四川省,2021，排3",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1231/6077.htm"
+      }
+    ],
+    "directoryOrder": 18,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "7071",
+    "name": "黄剑锋",
+    "title": "副教授",
+    "departments": [
+      "公共政策系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1231/7071.htm",
+    "researchDirections": [
+      "社会政策",
+      "社会保障政策"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "A",
+    "evidenceScore": 64,
+    "evidenceLabel": "多项证据明确",
+    "verdict": "已摘录外部认可、项目证据、成果证据、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 18,
+      "projects": 20,
+      "publications": 20,
+      "recognition": 0,
+      "training": 6
+    },
+    "hardSignals": [
+      "中央部委或中国社科院正式科研成果奖，或教育部新世纪优秀人才"
+    ],
+    "highlights": "官网研究领域：社会政策、社会保障政策。",
+    "limitations": [
+      "学术任职未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "外部认可",
+        "conclusion": "18分 · 中央部委或中国社科院正式科研成果奖，或教育部新世纪优秀人才",
+        "excerpt": "1.民政部全国民政政策理论研究二等奖（2020年）、三等奖（2022年、2024年）",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1231/7071.htm"
+      },
+      {
+        "type": "项目证据",
+        "conclusion": "20分 · 具名或有唯一编号的国家项目，明确本人主持或负责",
+        "excerpt": "1.主持，2022年国家社会科学基金青年项目“数字化转型背景下提升智慧康养服务可及性的路径分析研究”（22CGL031）",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1231/7071.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "20分 · 该项成果有出处和年份，且明确SCI/SSCI/CSSCI/CSCD/EI收录；或具名资政成果有采纳机构和年份",
+        "excerpt": "1.黄剑锋，张会平.数字化协同：场景融合何以化解公共服务数字化转型的“技术悬浮”？——基于上海市“互联网医院+养老院”的案例分析[J].电子政务，2025(3). CSSCI来源期刊",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1231/7071.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "6分 · 校级教学荣誉或明确学生指导奖励",
+        "excerpt": "5.电子科技大学优秀班主任（2024年）",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1231/7071.htm"
+      }
+    ],
+    "directoryOrder": 19,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "6093",
+    "name": "黄小洵",
+    "title": "副教授",
+    "departments": [
+      "法学系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1231/6093.htm",
+    "researchDirections": [
+      "中国科技政策的实践与创新",
+      "数据安全与政策"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "B",
+    "evidenceScore": 48,
+    "evidenceLabel": "已有成型证据",
+    "verdict": "已摘录项目证据、成果证据、学术任职、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 0,
+      "projects": 16,
+      "publications": 16,
+      "recognition": 8,
+      "training": 8
+    },
+    "hardSignals": [],
+    "highlights": "官网研究领域：中国科技政策的实践与创新、数据安全与政策。",
+    "limitations": [
+      "外部认可未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "项目证据",
+        "conclusion": "16分 · 省部项目明确主持，或国家项目明确参与、参研、主研",
+        "excerpt": "1.主持2023年教育部社科课题一般项目“大遗址文化遗产法治保障研究——基于三星堆遗址的实证分析”",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1231/6093.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "16分 · 具名成果有发表出处或出版机构，并有发表年份",
+        "excerpt": "1.“公众人物姓名商标注册的法律规制——以公众人物姓名与注册商标权利冲突为视角，《北方法学》2017年第2期，（中国社会科学文摘全文收录）",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1231/6093.htm"
+      },
+      {
+        "type": "学术任职",
+        "conclusion": "8分 · 其他具名学术或公共组织任职、会员身份",
+        "excerpt": "1.中国知识产权政策与管理专委会委员；",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1231/6093.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "8分 · 省级教学奖励或省级一流课程",
+        "excerpt": "5.主持四川省一流线下课程《知识产权法学》",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1231/6093.htm"
+      }
+    ],
+    "directoryOrder": 20,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "6036",
+    "name": "蒋国银",
+    "title": "教授",
+    "departments": [
+      "信息管理系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1233/6036.htm",
+    "researchDirections": [
+      "数字治理方法",
+      "信息资源管理",
+      "平台经济"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "S",
+    "evidenceScore": 80,
+    "evidenceLabel": "门槛信号明确",
+    "verdict": "个人门槛有明确官网依据。已摘录外部认可、项目证据、成果证据、学术任职、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 24,
+      "projects": 20,
+      "publications": 16,
+      "recognition": 16,
+      "training": 4
+    },
+    "hardSignals": [
+      "明确主持具名国家社科基金重大项目或任该项目首席专家"
+    ],
+    "highlights": "官网研究领域：数字治理方法、信息资源管理、平台经济。",
+    "limitations": [
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "外部认可",
+        "conclusion": "24分 · 明确主持具名国家社科基金重大项目或任该项目首席专家",
+        "excerpt": "1.国家社科基金重大项目：促进平台经济规范健康持续发展研究(主持)， 2022.12 – 2027.11",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1233/6036.htm"
+      },
+      {
+        "type": "项目证据",
+        "conclusion": "20分 · 具名或有唯一编号的国家项目，明确本人主持或负责",
+        "excerpt": "1.国家社科基金重大项目：促进平台经济规范健康持续发展研究(主持)， 2022.12 – 2027.11",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1233/6036.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "16分 · 具名成果有发表出处或出版机构，并有发表年份",
+        "excerpt": "2. Why ride-hailing platform firms are reluctant to share data with governments: Evidence from China[J]. International Journal of Information Management, 2026.",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1233/6036.htm"
+      },
+      {
+        "type": "学术任职",
+        "conclusion": "16分 · 全国或国际学术组织理事、委员、秘书长或会长等任职",
+        "excerpt": "1.中国企业运筹学会常务理事",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1233/6036.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "4分 · 官网列出具名教学课程",
+        "excerpt": "本科生：社会计算、数据挖掘与大数据分析、信息管理与信息系统专业导论、信息管理与信息系统专业前沿",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1233/6036.htm"
+      }
+    ],
+    "directoryOrder": 21,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "6101",
+    "name": "姜海",
+    "title": "副教授",
+    "departments": [
+      "新闻传播系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1233/6101.htm",
+    "researchDirections": [
+      "社会医学",
+      "健康传播",
+      "医学社会学"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "A",
+    "evidenceScore": 62,
+    "evidenceLabel": "多项证据明确",
+    "verdict": "已摘录外部认可、项目证据、成果证据、学术任职、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 12,
+      "projects": 12,
+      "publications": 16,
+      "recognition": 16,
+      "training": 6
+    },
+    "hardSignals": [
+      "省级高层次人才、学术技术带头人或省级科研社科一等奖、特等奖"
+    ],
+    "highlights": "官网研究领域：社会医学、健康传播、医学社会学。",
+    "limitations": [
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "项目按该条公开的资助与角色信息计分，未将未注明的个人角色视为主持。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "外部认可",
+        "conclusion": "12分 · 省级高层次人才、学术技术带头人或省级科研社科一等奖、特等奖",
+        "excerpt": "入选四川省高层次人才项目计划",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1233/6101.htm"
+      },
+      {
+        "type": "项目证据",
+        "conclusion": "12分 · 国家项目角色未明确、省部具体项目，或市校项目明确主持",
+        "excerpt": "2018年国家社会科学基金青年项目：健康中国战略背景下新媒体融入对老龄人口健康传播的路径研究。（项目号：18CXW015；结项等级：良好）",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1233/6101.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "16分 · 具名成果有发表出处或出版机构，并有发表年份",
+        "excerpt": "姜海，冯磊（2022）：《新中国医学出版历程：探索、建构与创新》，《中国出版》（20）,47-51.",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1233/6101.htm"
+      },
+      {
+        "type": "学术任职",
+        "conclusion": "16分 · 全国或国际学术组织理事、委员、秘书长或会长等任职",
+        "excerpt": "中国新闻史学会（国家一级学会）健康传播专业委员会 成员",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1233/6101.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "6分 · 校级教学荣誉或明确学生指导奖励",
+        "excerpt": "2024年：获电子科技大学2023年度（校级/院级）“优秀班主任”称号；",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1233/6101.htm"
+      }
+    ],
+    "directoryOrder": 22,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "8133",
+    "name": "康健",
+    "title": "副教授",
+    "departments": [
+      "行政管理系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1234/8133.htm",
+    "researchDirections": [
+      "公共服务数智化",
+      "公共服务与共同富裕"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "A",
+    "evidenceScore": 62,
+    "evidenceLabel": "多项证据明确",
+    "verdict": "已摘录项目证据、成果证据、学术任职、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 0,
+      "projects": 20,
+      "publications": 20,
+      "recognition": 12,
+      "training": 10
+    },
+    "hardSignals": [],
+    "highlights": "官网研究领域：公共服务数智化、公共服务与共同富裕。",
+    "limitations": [
+      "外部认可未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "项目证据",
+        "conclusion": "20分 · 具名或有唯一编号的国家项目，明确本人主持或负责",
+        "excerpt": "1.主持，2022年度国家社科基金青年项目：基本公共服务均等化推动共同富裕的政策效应评估与路径优化研究（22CZZ027），在研。",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1234/8133.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "20分 · 该项成果有出处和年份，且明确SCI/SSCI/CSSCI/CSCD/EI收录；或具名资政成果有采纳机构和年份",
+        "excerpt": "1. 康健、薛宇晴：界面营造与信任重塑：人工智能社会治理实验何以实现社区合作治理？——基于成都市七道堰社区试点的案例分析，《电子政务》2025年第8期。CSSCI来源期刊",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1234/8133.htm"
+      },
+      {
+        "type": "学术任职",
+        "conclusion": "12分 · 具名期刊编委、主编，或省级学术组织领导职务",
+        "excerpt": "1.《东北大学学报》(社会科学版)（北大中文核心、CSSCI期刊）青年编委；《河北大学学报》（哲学社会科学版）（北大中文核心、CSSCI扩展版期刊）青年编委；“公共管理共同体”公众号第一届、第二届青年编委，“政管学人”公众号第一届学术编委。",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1234/8133.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "10分 · 国家教学成果奖、全国教学奖励、明确主持具名国家一流课程或明确指导全国获奖",
+        "excerpt": "1. 第一指导教师，第十八届“挑战杯”全国大学生课外学术科技作品竞赛主赛道全国特等奖（2023）",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1234/8133.htm"
+      }
+    ],
+    "directoryOrder": 23,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "6117",
+    "name": "匡亚林",
+    "title": "副教授",
+    "departments": [
+      "行政管理系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1234/6117.htm",
+    "researchDirections": [
+      "社会保障政策研究",
+      "数字政府治理",
+      "数字社会治理"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "A",
+    "evidenceScore": 74,
+    "evidenceLabel": "多项证据明确",
+    "verdict": "已摘录外部认可、项目证据、成果证据、学术任职、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 12,
+      "projects": 20,
+      "publications": 20,
+      "recognition": 16,
+      "training": 6
+    },
+    "hardSignals": [
+      "省级高层次人才、学术技术带头人或省级科研社科一等奖、特等奖"
+    ],
+    "highlights": "官网研究领域：社会保障政策研究、数字政府治理、数字社会治理。",
+    "limitations": [
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "外部认可",
+        "conclusion": "12分 · 省级高层次人才、学术技术带头人或省级科研社科一等奖、特等奖",
+        "excerpt": "独立专著《福利制度变迁的路径依赖研究》于人民出版社出版，并获得四川省哲学社会科学成果奖一等奖；",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1234/6117.htm"
+      },
+      {
+        "type": "项目证据",
+        "conclusion": "20分 · 具名或有唯一编号的国家项目，明确本人主持或负责",
+        "excerpt": "1.主持，国家社科基金一般项目《基于用户画像的西部农村老年人数字社会融入困境与对策研究》(22BSH090)",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1234/6117.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "20分 · 该项成果有出处和年份，且明确SCI/SSCI/CSSCI/CSCD/EI收录；或具名资政成果有采纳机构和年份",
+        "excerpt": "匡亚林. 社会福利引论:福利体制模式的类型化考察 [J].国家行政学院学报,2018.03.CSSCI来源期刊",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1234/6117.htm"
+      },
+      {
+        "type": "学术任职",
+        "conclusion": "16分 · 全国或国际学术组织理事、委员、秘书长或会长等任职",
+        "excerpt": "1.中国社会保障学会理事",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1234/6117.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "6分 · 校级教学荣誉或明确学生指导奖励",
+        "excerpt": "所指导的学生蒋子恒、蒙春雨分别获得2023年、2025年《成电杰出研究生》",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1234/6117.htm"
+      }
+    ],
+    "directoryOrder": 24,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "8139",
+    "name": "李洁",
+    "title": "副教授",
+    "departments": [
+      "新闻传播系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1235/8139.htm",
+    "researchDirections": [
+      "智能媒体与社会",
+      "智能健康传播"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "C",
+    "evidenceScore": 46,
+    "evidenceLabel": "部分证据可核对",
+    "verdict": "已摘录项目证据、成果证据、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 0,
+      "projects": 16,
+      "publications": 20,
+      "recognition": 0,
+      "training": 10
+    },
+    "hardSignals": [],
+    "highlights": "官网研究领域：智能媒体与社会、智能健康传播。",
+    "limitations": [
+      "外部认可未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "学术任职未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "项目证据",
+        "conclusion": "16分 · 省部项目明确主持，或国家项目明确参与、参研、主研",
+        "excerpt": "1.主持，教育部哲社后期资助项目“情境崩溃与社交媒体倦怠：理论分析与实证检验研究”(24JHQ090)",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/8139.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "20分 · 该项成果有出处和年份，且明确SCI/SSCI/CSSCI/CSCD/EI收录；或具名资政成果有采纳机构和年份",
+        "excerpt": "6.李洁，李婧雯.人类用户对社交机器人的信任与互动：基于非语言、性别和类型的效果实验研究[J].西南民族大学学报(社会科学版)，2025,06.（CSSCI）",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/8139.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "10分 · 国家教学成果奖、全国教学奖励、明确主持具名国家一流课程或明确指导全国获奖",
+        "excerpt": "1.第十二届全国大学生市场调查分析大赛总决赛一等奖，优秀指导老师",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/8139.htm"
+      }
+    ],
+    "directoryOrder": 25,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "7968",
+    "name": "李书简",
+    "title": "副教授",
+    "departments": [
+      "城市管理系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1235/7968.htm",
+    "researchDirections": [
+      "城市基层治理",
+      "城市空间研究",
+      "社区传播"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "C",
+    "evidenceScore": 46,
+    "evidenceLabel": "部分证据可核对",
+    "verdict": "已摘录项目证据、成果证据、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 0,
+      "projects": 16,
+      "publications": 20,
+      "recognition": 0,
+      "training": 10
+    },
+    "hardSignals": [],
+    "highlights": "官网研究领域：城市基层治理、城市空间研究、社区传播。",
+    "limitations": [
+      "外部认可未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "学术任职未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "项目证据",
+        "conclusion": "16分 · 省部项目明确主持，或国家项目明确参与、参研、主研",
+        "excerpt": "1.主持教育部人文社科项目青年项目，外国旅居者互联网“区隔”行为的负社会效应与政府传播策略研究，2024.01至2026.12；",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/7968.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "20分 · 该项成果有出处和年份，且明确SCI/SSCI/CSSCI/CSCD/EI收录；或具名资政成果有采纳机构和年份",
+        "excerpt": "4.《高校美育赋能拔尖创新人才的培养规律与路径》，中国高等教育，CSSCI，1作，2025.03",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/7968.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "10分 · 国家教学成果奖、全国教学奖励、明确主持具名国家一流课程或明确指导全国获奖",
+        "excerpt": "1.主要成员，国家级教学成果奖二等奖，2023.08",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/7968.htm"
+      }
+    ],
+    "directoryOrder": 26,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "6079",
+    "name": "李欣",
+    "title": "副教授",
+    "departments": [
+      "法学系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1235/6079.htm",
+    "researchDirections": [
+      "行政管理",
+      "应急管理",
+      "城乡公共治理"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "B",
+    "evidenceScore": 48,
+    "evidenceLabel": "已有成型证据",
+    "verdict": "已摘录项目证据、成果证据、学术任职、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 0,
+      "projects": 12,
+      "publications": 20,
+      "recognition": 8,
+      "training": 8
+    },
+    "hardSignals": [],
+    "highlights": "官网研究领域：行政管理、应急管理、城乡公共治理。",
+    "limitations": [
+      "外部认可未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "项目按该条公开的资助与角色信息计分，未将未注明的个人角色视为主持。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "项目证据",
+        "conclusion": "12分 · 国家项目角色未明确、省部具体项目，或市校项目明确主持",
+        "excerpt": "1.主持，《模拟法庭竞赛综合训练实验》，校级教改项目",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/6079.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "20分 · 该项成果有出处和年份，且明确SCI/SSCI/CSSCI/CSCD/EI收录；或具名资政成果有采纳机构和年份",
+        "excerpt": "8.2008年：《盗窃虚拟财产的刑法规制》发表于《西南民族大学学报》 …学核心期刊，CSSCI来源期刊) 2008第11期；《单位犯罪自首的法律思考》、《夫妻间家庭暴力的危害与防治》发表于《西南民族大学学报》(综合性人文社会科学类核心期刊、中国人文社会科学核心期刊，CSSCI来源期刊)2008年10月法学研究，第一作者",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/6079.htm"
+      },
+      {
+        "type": "学术任职",
+        "conclusion": "8分 · 其他具名学术或公共组织任职、会员身份",
+        "excerpt": "1.四川省法学会刑法学分会理事",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/6079.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "8分 · 省级教学奖励或省级一流课程",
+        "excerpt": "3.《正当防卫虚拟仿真实践教学项目》2021年被认定为第二批省级一流本科课程-虚拟仿真实验教学，排名2",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/6079.htm"
+      }
+    ],
+    "directoryOrder": 27,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "6155",
+    "name": "梁健",
+    "title": "副教授",
+    "departments": [
+      "公共政策系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1235/6155.htm",
+    "researchDirections": [
+      "公共政策的理论与方法",
+      "公共行政基础理论与实践",
+      "基层治理"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "A",
+    "evidenceScore": 62,
+    "evidenceLabel": "多项证据明确",
+    "verdict": "已摘录项目证据、成果证据、学术任职、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 0,
+      "projects": 20,
+      "publications": 20,
+      "recognition": 12,
+      "training": 10
+    },
+    "hardSignals": [],
+    "highlights": "官网研究领域：公共政策的理论与方法、公共行政基础理论与实践、基层治理。",
+    "limitations": [
+      "外部认可未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "项目证据",
+        "conclusion": "20分 · 具名或有唯一编号的国家项目，明确本人主持或负责",
+        "excerpt": "1.主持：国家社科基金青年项目《政策执行共识的生成机理与建构路径研究》（24CZZ063)",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/6155.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "20分 · 该项成果有出处和年份，且明确SCI/SSCI/CSSCI/CSCD/EI收录；或具名资政成果有采纳机构和年份",
+        "excerpt": "1.梁健，袁孟月：《数智时代的公共政策执行：逻辑理路、实践模式与优化路径——基于“技术-制度-价值”的分析 》，电子政务（CSSCI），2026(04)",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/6155.htm"
+      },
+      {
+        "type": "学术任职",
+        "conclusion": "12分 · 具名期刊编委、主编，或省级学术组织领导职务",
+        "excerpt": "2.《成都理工大学学报（社会科学版）》《陕西理工大学学报（社会科学版）》《河北工程大学学报（社会科学版）》等学术期刊青年编委。",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/6155.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "10分 · 国家教学成果奖、全国教学奖励、明确主持具名国家一流课程或明确指导全国获奖",
+        "excerpt": "5.指导学生获第九届全国研究生公共管理案例大赛调研报告一等奖、案例二等奖2025.04、电子科大校内赛一等奖，2024.11；指导学生获第九届全国研究生公共管理案例大赛优秀奖2025.04、电子科大学校内赛一等奖（两项），2024.11",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/6155.htm"
+      }
+    ],
+    "directoryOrder": 28,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "6052",
+    "name": "刘春",
+    "title": "教授",
+    "departments": [
+      "公共政策系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1235/6052.htm",
+    "researchDirections": [
+      "数字信息管理与政策",
+      "农村信息化",
+      "数字鸿沟"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "B",
+    "evidenceScore": 52,
+    "evidenceLabel": "已有成型证据",
+    "verdict": "已摘录项目证据、成果证据、学术任职、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 0,
+      "projects": 20,
+      "publications": 16,
+      "recognition": 12,
+      "training": 4
+    },
+    "hardSignals": [],
+    "highlights": "官网研究领域：数字信息管理与政策、农村信息化、数字鸿沟。",
+    "limitations": [
+      "外部认可未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "项目证据",
+        "conclusion": "20分 · 具名或有唯一编号的国家项目，明确本人主持或负责",
+        "excerpt": "3.基于“生态系统”视角的大数据产业发展政策和治理规则研究,国家社会科学基金西部项目，2020.10-2021.12，主持",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/6052.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "16分 · 具名成果有发表出处或出版机构，并有发表年份",
+        "excerpt": "1.Jayakar, K.P., & Liu, C. (2023). Making Policy for the New Information Economy: Comparing China and India (1st ed.). Routledge. doi:10.4324/9780429287435",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/6052.htm"
+      },
+      {
+        "type": "学术任职",
+        "conclusion": "12分 · 具名期刊编委、主编，或省级学术组织领导职务",
+        "excerpt": "Telecommunications Policy副主编",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/6052.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "4分 · 官网列出具名教学课程",
+        "excerpt": "本科生：研究设计与专业写作",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/6052.htm"
+      }
+    ],
+    "directoryOrder": 29,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "6050",
+    "name": "刘灵辉",
+    "title": "教授",
+    "departments": [
+      "公共政策系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1235/6050.htm",
+    "researchDirections": [
+      "土地政策"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "A",
+    "evidenceScore": 72,
+    "evidenceLabel": "多项证据明确",
+    "verdict": "已摘录外部认可、项目证据、成果证据、学术任职、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 12,
+      "projects": 20,
+      "publications": 20,
+      "recognition": 16,
+      "training": 4
+    },
+    "hardSignals": [
+      "省级高层次人才、学术技术带头人或省级科研社科一等奖、特等奖"
+    ],
+    "highlights": "官网研究领域：土地政策。",
+    "limitations": [
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "外部认可",
+        "conclusion": "12分 · 省级高层次人才、学术技术带头人或省级科研社科一等奖、特等奖",
+        "excerpt": "刘灵辉，入选四川省高层次人才计划。",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/6050.htm"
+      },
+      {
+        "type": "项目证据",
+        "conclusion": "20分 · 具名或有唯一编号的国家项目，明确本人主持或负责",
+        "excerpt": "1.主持，2024年国家社会科学基金后期资助项目“长三角城市群共同富裕问题研究”（24FGLB042）",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/6050.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "20分 · 该项成果有出处和年份，且明确SCI/SSCI/CSSCI/CSCD/EI收录；或具名资政成果有采纳机构和年份",
+        "excerpt": "1.刘灵辉，罗意. 历史演变视角下的耕地撂荒问题研究 ——基于“压力-状态-响应”模型[J]. 西北农林科技大学学报(社会科学版) ,2025 ,25 (03) :94-103，CSSCI来源期刊.",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/6050.htm"
+      },
+      {
+        "type": "学术任职",
+        "conclusion": "16分 · 全国或国际学术组织理事、委员、秘书长或会长等任职",
+        "excerpt": "1.中国区域科学协会城市管理专业委员会副秘书长",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/6050.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "4分 · 官网列出具名教学课程",
+        "excerpt": "本科生：城市土地利用与管理、城市管理综合实验实践、城市住房管理、土地资源管理",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/6050.htm"
+      }
+    ],
+    "directoryOrder": 30,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "6056",
+    "name": "刘宣",
+    "title": "教授",
+    "departments": [
+      "城市管理系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1235/6056.htm",
+    "researchDirections": [
+      "城乡公共治理理论与方法",
+      "数字化城市治理",
+      "农村公共治理"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "A",
+    "evidenceScore": 68,
+    "evidenceLabel": "多项证据明确",
+    "verdict": "已摘录外部认可、项目证据、成果证据、学术任职、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 12,
+      "projects": 20,
+      "publications": 16,
+      "recognition": 16,
+      "training": 4
+    },
+    "hardSignals": [
+      "省级高层次人才、学术技术带头人或省级科研社科一等奖、特等奖"
+    ],
+    "highlights": "官网研究领域：城乡公共治理理论与方法、数字化城市治理、农村公共治理。",
+    "limitations": [
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "外部认可",
+        "conclusion": "12分 · 省级高层次人才、学术技术带头人或省级科研社科一等奖、特等奖",
+        "excerpt": "入选四川省高层次人才计划。",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/6056.htm"
+      },
+      {
+        "type": "项目证据",
+        "conclusion": "20分 · 具名或有唯一编号的国家项目，明确本人主持或负责",
+        "excerpt": "1.主持国家社会科学基金重点项目《新型城镇化背景下乡村数字化治理的分场景机制与发展模拟研究》",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/6056.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "16分 · 具名成果有发表出处或出版机构，并有发表年份",
+        "excerpt": "7.Tong, D.; Chu, J.; Han, Q.; Liu, X*. How Land Finance Drives Urban Expansion under Fiscal Pressure: Evidence from Chinese Cities. Land, 2022, 11(2), 253",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/6056.htm"
+      },
+      {
+        "type": "学术任职",
+        "conclusion": "16分 · 全国或国际学术组织理事、委员、秘书长或会长等任职",
+        "excerpt": "1.中国城市科学研究会新型城镇化与城乡规划研究专委会委员",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/6056.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "4分 · 官网列出具名教学课程",
+        "excerpt": "本科生：城市规划与设计、城市规划综合实践、城市发展战略规划、城市管理研究前沿、土地经济学",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/6056.htm"
+      }
+    ],
+    "directoryOrder": 31,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "6095",
+    "name": "刘燕",
+    "title": "副教授",
+    "departments": [
+      "城市管理系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1235/6095.htm",
+    "researchDirections": [
+      "城乡公共治理",
+      "府际协作",
+      "贫困治理"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "B",
+    "evidenceScore": 48,
+    "evidenceLabel": "已有成型证据",
+    "verdict": "已摘录项目证据、成果证据、学术任职、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 0,
+      "projects": 20,
+      "publications": 16,
+      "recognition": 8,
+      "training": 4
+    },
+    "hardSignals": [],
+    "highlights": "官网研究领域：城乡公共治理、府际协作、贫困治理。",
+    "limitations": [
+      "外部认可未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "项目证据",
+        "conclusion": "20分 · 具名或有唯一编号的国家项目，明确本人主持或负责",
+        "excerpt": "1.主持，国家社会科学基金项目“西部地区农村防返贫劳动激励政策研究”（编号：24XGL039），在研",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/6095.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "16分 · 具名成果有发表出处或出版机构，并有发表年份",
+        "excerpt": "2. 刘燕*,叶晴琳.动机与能力: 成都平原经济区大气污染协同治理的政策研究[J].公共管理与政策评论, 2022, 11(6):49-57",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/6095.htm"
+      },
+      {
+        "type": "学术任职",
+        "conclusion": "8分 · 其他具名学术或公共组织任职、会员身份",
+        "excerpt": "中国建筑学会会员。",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/6095.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "4分 · 官网列出具名教学课程",
+        "excerpt": "本科生：城市土地利用与管理、城市发展学、城市经济学",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/6095.htm"
+      }
+    ],
+    "directoryOrder": 32,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "6125",
+    "name": "刘永波",
+    "title": "讲师",
+    "departments": [
+      "法学系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1235/6125.htm",
+    "researchDirections": [
+      "国际法学",
+      "经济法学",
+      "法律与传统文化的交叉"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "E",
+    "evidenceScore": 12,
+    "evidenceLabel": "公开依据不足",
+    "verdict": "已摘录成果证据、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 0,
+      "projects": 0,
+      "publications": 8,
+      "recognition": 0,
+      "training": 4
+    },
+    "hardSignals": [],
+    "highlights": "官网研究领域：国际法学、经济法学、法律与传统文化的交叉。",
+    "limitations": [
+      "外部认可未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "项目证据未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "学术任职未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "成果证据",
+        "conclusion": "8分 · 具名成果，未摘录发表出处和年份",
+        "excerpt": "1.独著: 《国际经济法治研究》、《房地产法的理论与实务研究》",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/6125.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "4分 · 官网列出具名教学课程",
+        "excerpt": "本科生：国际法学、国际私法学、法律英语、婚姻家庭继承法学",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/6125.htm"
+      }
+    ],
+    "directoryOrder": 33,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "8143",
+    "name": "刘彧晗",
+    "title": "讲师",
+    "departments": [
+      "新闻传播系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1235/8143.htm",
+    "researchDirections": [
+      "数字平台治理",
+      "智能传播",
+      "认知神经传播"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "C",
+    "evidenceScore": 46,
+    "evidenceLabel": "部分证据可核对",
+    "verdict": "已摘录项目证据、成果证据、学术任职、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 0,
+      "projects": 20,
+      "publications": 20,
+      "recognition": 4,
+      "training": 2
+    },
+    "hardSignals": [],
+    "highlights": "官网研究领域：数字平台治理、智能传播、认知神经传播。",
+    "limitations": [
+      "外部认可未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "项目证据",
+        "conclusion": "20分 · 具名或有唯一编号的国家项目，明确本人主持或负责",
+        "excerpt": "1. 主持，博士后面上基金（资助编号：2025M773462）",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/8143.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "20分 · 该项成果有出处和年份，且明确SCI/SSCI/CSSCI/CSCD/EI收录；或具名资政成果有采纳机构和年份",
+        "excerpt": "1.刘彧晗,喻国明.理解生成式AI：融通机器智能与人类智能的算法媒介[J].新闻大学,2024,(06):50-61+120.[CSSCI]",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/8143.htm"
+      },
+      {
+        "type": "学术任职",
+        "conclusion": "4分 · 具名期刊审稿经历",
+        "excerpt": "1.《Frontiers in Psychology》期刊审稿人",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/8143.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "2分 · 仅有明确导师身份",
+        "excerpt": "讲师 、硕士生导师",
+        "sourceUrl": "https://spa.uestc.edu.cn/szdw/jsml/xsyq.htm"
+      }
+    ],
+    "directoryOrder": 34,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "6040",
+    "name": "刘裕",
+    "title": "教授",
+    "departments": [
+      "城市管理系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1235/6040.htm",
+    "researchDirections": [
+      "城市公共治理",
+      "城乡融合发展与治理",
+      "应急管理政策制定与执行"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "A",
+    "evidenceScore": 62,
+    "evidenceLabel": "多项证据明确",
+    "verdict": "已摘录外部认可、项目证据、成果证据、学术任职、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 12,
+      "projects": 12,
+      "publications": 16,
+      "recognition": 12,
+      "training": 10
+    },
+    "hardSignals": [
+      "省级高层次人才、学术技术带头人或省级科研社科一等奖、特等奖"
+    ],
+    "highlights": "官网研究领域：城市公共治理、城乡融合发展与治理、应急管理政策制定与执行。",
+    "limitations": [
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "项目按该条公开的资助与角色信息计分，未将未注明的个人角色视为主持。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "外部认可",
+        "conclusion": "12分 · 省级高层次人才、学术技术带头人或省级科研社科一等奖、特等奖",
+        "excerpt": "2.获四川省优秀教育科研成果一等奖1项，四川省社会科学优秀成果三等奖1项，四川省哲学社会科学成果优秀奖1项，四川省教育厅哲学社会科学科研成果二等奖1项。",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/6040.htm"
+      },
+      {
+        "type": "项目证据",
+        "conclusion": "12分 · 国家项目角色未明确、省部具体项目，或市校项目明确主持",
+        "excerpt": "1.国家社科基金项目：青少年合作行为的形成机制与合作教育改良，2015.12-2020.12。",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/6040.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "16分 · 具名成果有发表出处或出版机构，并有发表年份",
+        "excerpt": "1.高校教育服务公平评价及效应研究，独著，四川人民出版社，2011.05",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/6040.htm"
+      },
+      {
+        "type": "学术任职",
+        "conclusion": "12分 · 具名期刊编委、主编，或省级学术组织领导职务",
+        "excerpt": "1.四川省产业经济发展促进会副会长",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/6040.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "10分 · 国家教学成果奖、全国教学奖励、明确主持具名国家一流课程或明确指导全国获奖",
+        "excerpt": "1.作为主要成员，获国家级教学成果二等奖2项，四川省教学成果一等奖3项。",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/6040.htm"
+      }
+    ],
+    "directoryOrder": 35,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "9777",
+    "name": "刘哲依",
+    "title": "讲师",
+    "departments": [
+      "城市管理系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1235/9777.htm",
+    "researchDirections": [
+      "城市公共治理",
+      "地理大数据的城市治理实践",
+      "城市群与区域可持续发展"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "C",
+    "evidenceScore": 44,
+    "evidenceLabel": "部分证据可核对",
+    "verdict": "已摘录项目证据、成果证据、学术任职；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 0,
+      "projects": 20,
+      "publications": 20,
+      "recognition": 4,
+      "training": 0
+    },
+    "hardSignals": [],
+    "highlights": "官网研究领域：城市公共治理、地理大数据的城市治理实践、城市群与区域可持续发展。",
+    "limitations": [
+      "外部认可未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "培养教学未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "项目证据",
+        "conclusion": "20分 · 具名或有唯一编号的国家项目，明确本人主持或负责",
+        "excerpt": "1.国家自然科学基金青年科学基金项目C类，标度律视角下城际交互对城市集聚效应的影响机制研究, 2025-2027, 主持",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/9777.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "20分 · 该项成果有出处和年份，且明确SCI/SSCI/CSSCI/CSCD/EI收录；或具名资政成果有采纳机构和年份",
+        "excerpt": "1.Zheyi Liu, Weitao Wang, Wei Lang,…ultidimensional scale-adjusted analysis. Habitat International, 2025.12, 166, 103596. (SSCI JCR Q1, 中科院一区Top, IF: 7.0, 被引5次)",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/9777.htm"
+      },
+      {
+        "type": "学术任职",
+        "conclusion": "4分 · 具名期刊审稿经历",
+        "excerpt": "1.Humanities & Social Sciences Communications、Urban Climate、Journal of Urban Management等国际高影响力期刊审稿人",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/9777.htm"
+      }
+    ],
+    "directoryOrder": 36,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "6020",
+    "name": "刘智勇",
+    "title": "教授",
+    "departments": [
+      "行政管理系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1235/6020.htm",
+    "researchDirections": [
+      "应急管理",
+      "社会治理"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "A",
+    "evidenceScore": 64,
+    "evidenceLabel": "多项证据明确",
+    "verdict": "已摘录外部认可、项目证据、成果证据、学术任职、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 12,
+      "projects": 20,
+      "publications": 20,
+      "recognition": 8,
+      "training": 4
+    },
+    "hardSignals": [
+      "省级高层次人才、学术技术带头人或省级科研社科一等奖、特等奖"
+    ],
+    "highlights": "官网研究领域：应急管理、社会治理。",
+    "limitations": [
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "外部认可",
+        "conclusion": "12分 · 省级高层次人才、学术技术带头人或省级科研社科一等奖、特等奖",
+        "excerpt": "电子科技大学公共管理学院教授、博士生导师、教授委员会主任、党委委员，四川省高层次人才计划入选者。",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/6020.htm"
+      },
+      {
+        "type": "项目证据",
+        "conclusion": "20分 · 具名或有唯一编号的国家项目，明确本人主持或负责",
+        "excerpt": "1.主持，国家社会科学基金一般项目，《我国环境群体性事件合作治理模式研究》（编号：16BZZ044），结题",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/6020.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "20分 · 该项成果有出处和年份，且明确SCI/SSCI/CSSCI/CSCD/EI收录；或具名资政成果有采纳机构和年份",
+        "excerpt": "1.刘智勇.从协同治理走向合作治理：环境群体性事件治理模式的选择[J].上海行政学院学报，2023(03)，CSSCI来源期刊",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/6020.htm"
+      },
+      {
+        "type": "学术任职",
+        "conclusion": "8分 · 其他具名学术或公共组织任职、会员身份",
+        "excerpt": "1.四川省行政管理学会理事",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/6020.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "4分 · 官网列出具名教学课程",
+        "excerpt": "本科生:比较行政制度、政府公共关系学、秘书理论与实务",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/6020.htm"
+      }
+    ],
+    "directoryOrder": 37,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "6107",
+    "name": "龙怡",
+    "title": "副教授",
+    "departments": [
+      "公共政策系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1235/6107.htm",
+    "researchDirections": [
+      "教育政策",
+      "教育领导与管理",
+      "教育财政"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "B",
+    "evidenceScore": 56,
+    "evidenceLabel": "已有成型证据",
+    "verdict": "已摘录项目证据、成果证据、学术任职、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 0,
+      "projects": 16,
+      "publications": 20,
+      "recognition": 16,
+      "training": 4
+    },
+    "hardSignals": [],
+    "highlights": "官网研究领域：教育政策、教育领导与管理、教育财政。",
+    "limitations": [
+      "外部认可未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "项目证据",
+        "conclusion": "16分 · 省部项目明确主持，或国家项目明确参与、参研、主研",
+        "excerpt": "[1] 主持，2019年教育部人文社会科学研究青年项目“教育供给侧改革对家庭校外教育支出的影响研究”（19YJC880058）",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/6107.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "20分 · 该项成果有出处和年份，且明确SCI/SSCI/CSSCI/CSCD/EI收录；或具名资政成果有采纳机构和年份",
+        "excerpt": "[4] 谢梅，龙怡，郭淑怡. (2024). 评估与驱动:中国文化产业政策工具的效力分析. 西南民族大学学报（人文社会科学版），45（5）：212-220，CSSCI",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/6107.htm"
+      },
+      {
+        "type": "学术任职",
+        "conclusion": "16分 · 全国或国际学术组织理事、委员、秘书长或会长等任职",
+        "excerpt": "中国教育学会教育经济学分会 理事（第十届）",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/6107.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "4分 · 官网列出具名教学课程",
+        "excerpt": "本科生：社会学原理、研究设计与专业写作",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/6107.htm"
+      }
+    ],
+    "directoryOrder": 38,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "6105",
+    "name": "卢华锋",
+    "title": "副教授",
+    "departments": [
+      "法学系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1235/6105.htm",
+    "researchDirections": [
+      "宪法学",
+      "行政法学",
+      "法学教学研究"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "D",
+    "evidenceScore": 26,
+    "evidenceLabel": "可核对证据有限",
+    "verdict": "已摘录成果证据、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 0,
+      "projects": 0,
+      "publications": 20,
+      "recognition": 0,
+      "training": 6
+    },
+    "hardSignals": [],
+    "highlights": "官网研究领域：宪法学、行政法学、法学教学研究。",
+    "limitations": [
+      "外部认可未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "项目证据未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "学术任职未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "成果证据",
+        "conclusion": "20分 · 该项成果有出处和年份，且明确SCI/SSCI/CSSCI/CSCD/EI收录；或具名资政成果有采纳机构和年份",
+        "excerpt": "2.卢华锋.牛玉兵.邓小平行政立法思想探析[J].毛泽东思想研究，2006（1），CSSCI来源期刊",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/6105.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "6分 · 校级教学荣誉或明确学生指导奖励",
+        "excerpt": "于2004年、2012年两度获评科大青年教师教学优秀奖，2012年获得学校民法学优秀主讲教师称号。",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/6105.htm"
+      }
+    ],
+    "directoryOrder": 39,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "6034",
+    "name": "罗若愚",
+    "title": "教授",
+    "departments": [
+      "行政管理系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1235/6034.htm",
+    "researchDirections": [
+      "行政管理体制与改革",
+      "数字政府治理",
+      "中国公共政策实践与理论创新"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "A",
+    "evidenceScore": 72,
+    "evidenceLabel": "多项证据明确",
+    "verdict": "已摘录外部认可、项目证据、成果证据、学术任职、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 18,
+      "projects": 20,
+      "publications": 16,
+      "recognition": 8,
+      "training": 10
+    },
+    "hardSignals": [
+      "中央部委或中国社科院正式科研成果奖，或教育部新世纪优秀人才"
+    ],
+    "highlights": "官网研究领域：行政管理体制与改革、数字政府治理、中国公共政策实践与理论创新。",
+    "limitations": [
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "外部认可",
+        "conclusion": "18分 · 中央部委或中国社科院正式科研成果奖，或教育部新世纪优秀人才",
+        "excerpt": "1.2024年专著获得第九届“高等学校科学研究优秀成果奖(人文社会科学)”三等奖（排名1）。",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/6034.htm"
+      },
+      {
+        "type": "项目证据",
+        "conclusion": "20分 · 具名或有唯一编号的国家项目，明确本人主持或负责",
+        "excerpt": "1. 主持完成科技部国际科技合作专项课题“中美两国创新政策协同效应和跨部门协调机制的对比研究” (编号:2014KJBMDZM06 )。",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/6034.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "16分 · 具名成果有发表出处或出版机构，并有发表年份",
+        "excerpt": "1. 罗若愚著，《区域产业转移中我国西部地方政府合作治理研究》[M]，北京：人民出版社，2021年。获得第九届“高等学校科学研究优秀成果奖(人文社会科学)”三等奖和四川省第二十次社会科学优秀成果奖二等奖。",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/6034.htm"
+      },
+      {
+        "type": "学术任职",
+        "conclusion": "8分 · 其他具名学术或公共组织任职、会员身份",
+        "excerpt": "中共四川省委政策研究室智库专家、成德眉资城市管理智库专家。",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/6034.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "10分 · 国家教学成果奖、全国教学奖励、明确主持具名国家一流课程或明确指导全国获奖",
+        "excerpt": "3.2021年获得“第三届全国优秀MPA教师奖”。",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/6034.htm"
+      }
+    ],
+    "directoryOrder": 40,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "6137",
+    "name": "罗蕴丰",
+    "title": "讲师",
+    "departments": [
+      "公共政策系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1235/6137.htm",
+    "researchDirections": [
+      "教育政策"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "B",
+    "evidenceScore": 58,
+    "evidenceLabel": "已有成型证据",
+    "verdict": "已摘录外部认可、项目证据、成果证据、学术任职、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 8,
+      "projects": 16,
+      "publications": 20,
+      "recognition": 8,
+      "training": 6
+    },
+    "hardSignals": [
+      "省级科研、科技或社科成果二等奖、三等奖"
+    ],
+    "highlights": "官网研究领域：教育政策。",
+    "limitations": [
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "外部认可",
+        "conclusion": "8分 · 省级科研、科技或社科成果二等奖、三等奖",
+        "excerpt": "2.高校学生发展的公平与效率研究，四川省第十九次社会科学优秀成果奖三等奖，2021.10",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/6137.htm"
+      },
+      {
+        "type": "项目证据",
+        "conclusion": "16分 · 省部项目明确主持，或国家项目明确参与、参研、主研",
+        "excerpt": "1.主持，2023年教育部产学合作协同育人项目“理工类本科拔尖创新人才培养模式的探索与实践”（230702690214541）",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/6137.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "20分 · 该项成果有出处和年份，且明确SCI/SSCI/CSSCI/CSCD/EI收录；或具名资政成果有采纳机构和年份",
+        "excerpt": "10.金红昊,罗蕴丰*,刘鑫桥. 入读随迁子女定点学校如何影响教育结果 [J]. 教育学报, 2021, 17 (06): 182-192，CSSCI来源期刊",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/6137.htm"
+      },
+      {
+        "type": "学术任职",
+        "conclusion": "8分 · 其他具名学术或公共组织任职、会员身份",
+        "excerpt": "1.电子科技大学以色列研究中心研究员",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/6137.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "6分 · 校级教学荣誉或明确学生指导奖励",
+        "excerpt": "1.电子科技大学优秀班主任，2025.02",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1235/6137.htm"
+      }
+    ],
+    "directoryOrder": 41,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "8130",
+    "name": "门理想",
+    "title": "副教授",
+    "departments": [
+      "行政管理系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1236/8130.htm",
+    "researchDirections": [
+      "数字政府",
+      "数据治理"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "B",
+    "evidenceScore": 54,
+    "evidenceLabel": "已有成型证据",
+    "verdict": "已摘录项目证据、成果证据、学术任职、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 0,
+      "projects": 20,
+      "publications": 16,
+      "recognition": 8,
+      "training": 10
+    },
+    "hardSignals": [],
+    "highlights": "官网研究领域：数字政府、数据治理。",
+    "limitations": [
+      "外部认可未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "项目证据",
+        "conclusion": "20分 · 具名或有唯一编号的国家项目，明确本人主持或负责",
+        "excerpt": "1. 主持，国家社会科学基金青年项目：数据要素统一大市场背景下公共数据的协同运营路径研究",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1236/8130.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "16分 · 具名成果有发表出处或出版机构，并有发表年份",
+        "excerpt": "1.门理想,李其睿,魏筠筵. 公共数据授权运营的创新扩散特征与逻辑——基于251个地级市数据的事件史分析[J].中国公共政策评论,2025,28(02):230-248.",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1236/8130.htm"
+      },
+      {
+        "type": "学术任职",
+        "conclusion": "8分 · 其他具名学术或公共组织任职、会员身份",
+        "excerpt": "1. 四川省首批省级哲社重点实验室“数智公共治理重点实验室”研究成员",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1236/8130.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "10分 · 国家教学成果奖、全国教学奖励、明确主持具名国家一流课程或明确指导全国获奖",
+        "excerpt": "3. 第十四、十五届全国大学生市场调查与分析大赛全国三等奖，指导教师",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1236/8130.htm"
+      }
+    ],
+    "directoryOrder": 42,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "6115",
+    "name": "任莉莎",
+    "title": "副教授",
+    "departments": [
+      "法学系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1241/6115.htm",
+    "researchDirections": [
+      "公共政策理论与方法",
+      "民事诉讼法学"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "C",
+    "evidenceScore": 38,
+    "evidenceLabel": "部分证据可核对",
+    "verdict": "已摘录项目证据、成果证据、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 0,
+      "projects": 16,
+      "publications": 16,
+      "recognition": 0,
+      "training": 6
+    },
+    "hardSignals": [],
+    "highlights": "官网研究领域：公共政策理论与方法、民事诉讼法学。",
+    "limitations": [
+      "外部认可未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "学术任职未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "项目证据",
+        "conclusion": "16分 · 省部项目明确主持，或国家项目明确参与、参研、主研",
+        "excerpt": "1.参与2021年国家社科基金项目“法、检体制改革中的差异化问题研究”",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1241/6115.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "16分 · 具名成果有发表出处或出版机构，并有发表年份",
+        "excerpt": "1.论网络社会的自由与秩序，电子科技大学学报（社科版），2002.04",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1241/6115.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "6分 · 校级教学荣誉或明确学生指导奖励",
+        "excerpt": "获电子科技大学“本科优秀教学奖”",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1241/6115.htm"
+      }
+    ],
+    "directoryOrder": 43,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "6097",
+    "name": "任洋",
+    "title": "副教授",
+    "departments": [
+      "公共政策系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1241/6097.htm",
+    "researchDirections": [
+      "中国公共政策实践与理论创新"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "C",
+    "evidenceScore": 40,
+    "evidenceLabel": "部分证据可核对",
+    "verdict": "已摘录项目证据、成果证据、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 0,
+      "projects": 16,
+      "publications": 20,
+      "recognition": 0,
+      "training": 4
+    },
+    "hardSignals": [],
+    "highlights": "官网研究领域：中国公共政策实践与理论创新。",
+    "limitations": [
+      "外部认可未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "学术任职未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "项目证据",
+        "conclusion": "16分 · 省部项目明确主持，或国家项目明确参与、参研、主研",
+        "excerpt": "1.主持，教育部产学合作协同育人项目“基于模拟沙盘对抗平台软件的《城市生态学》课程实践教学研究”（批准号：201902242059）",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1241/6097.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "20分 · 该项成果有出处和年份，且明确SCI/SSCI/CSSCI/CSCD/EI收录；或具名资政成果有采纳机构和年份",
+        "excerpt": "1.任洋，Kuuluvainen Jari，姚顺波，薛彩霞，杨柳. 地权结构、村庄民主对农户林业投入的影响[J]. 西北农林科技大学学报(社会科学版), 2019, (1) : 128-136. (CSSCI)",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1241/6097.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "4分 · 官网列出具名教学课程",
+        "excerpt": "本科生：城市生态学、城市生态与环境管理、城市管理综合实验实践Ⅲ",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1241/6097.htm"
+      }
+    ],
+    "directoryOrder": 44,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "6026",
+    "name": "沈华",
+    "title": "教授",
+    "departments": [
+      "行政管理系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1242/6026.htm",
+    "researchDirections": [
+      "中国公共政策实践与理论创新",
+      "教育政策",
+      "教育财政",
+      "教育评价"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "A",
+    "evidenceScore": 66,
+    "evidenceLabel": "多项证据明确",
+    "verdict": "已摘录外部认可、项目证据、成果证据、学术任职、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 12,
+      "projects": 12,
+      "publications": 20,
+      "recognition": 16,
+      "training": 6
+    },
+    "hardSignals": [
+      "省级高层次人才、学术技术带头人或省级科研社科一等奖、特等奖"
+    ],
+    "highlights": "官网研究领域：中国公共政策实践与理论创新、教育政策、教育财政、教育评价。",
+    "limitations": [
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "项目按该条公开的资助与角色信息计分，未将未注明的个人角色视为主持。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "外部认可",
+        "conclusion": "12分 · 省级高层次人才、学术技术带头人或省级科研社科一等奖、特等奖",
+        "excerpt": "电子科技大学公共管理学院教授、博士生导师，入选四川省高层次人才计划。",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1242/6026.htm"
+      },
+      {
+        "type": "项目证据",
+        "conclusion": "12分 · 国家项目角色未明确、省部具体项目，或市校项目明确主持",
+        "excerpt": "1.国家社会科学基金一般项目:高校资助育人政策成效评价及影响因素研究。",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1242/6026.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "20分 · 该项成果有出处和年份，且明确SCI/SSCI/CSSCI/CSCD/EI收录；或具名资政成果有采纳机构和年份",
+        "excerpt": "1.Hua Shen，Adrian Ziderman. Student loans repayment and recovery: international comparisons. Higher Education，Volume 57, Issue 3, pp 315-333，2009（SSCI）",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1242/6026.htm"
+      },
+      {
+        "type": "学术任职",
+        "conclusion": "16分 · 全国或国际学术组织理事、委员、秘书长或会长等任职",
+        "excerpt": "1. 中国教育经济学会常务理事",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1242/6026.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "6分 · 校级教学荣誉或明确学生指导奖励",
+        "excerpt": "5.2016年电子科技大学教学成果奖二等奖",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1242/6026.htm"
+      }
+    ],
+    "directoryOrder": 45,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "6073",
+    "name": "史溢帆",
+    "title": "副教授",
+    "departments": [
+      "法学系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1242/6073.htm",
+    "researchDirections": [
+      "社会组织与社会治理",
+      "数字社会治理"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "A",
+    "evidenceScore": 70,
+    "evidenceLabel": "多项证据明确",
+    "verdict": "已摘录外部认可、项目证据、成果证据、学术任职、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 8,
+      "projects": 20,
+      "publications": 20,
+      "recognition": 12,
+      "training": 10
+    },
+    "hardSignals": [
+      "省级科研、科技或社科成果二等奖、三等奖"
+    ],
+    "highlights": "官网研究领域：社会组织与社会治理、数字社会治理。",
+    "limitations": [
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "外部认可",
+        "conclusion": "8分 · 省级科研、科技或社科成果二等奖、三等奖",
+        "excerpt": "4.四川省第十九次社会科学优秀成果奖二等奖，《中国司法经费管理体制改革研究》，排名2，2021年",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1242/6073.htm"
+      },
+      {
+        "type": "项目证据",
+        "conclusion": "20分 · 具名或有唯一编号的国家项目，明确本人主持或负责",
+        "excerpt": "4.主持，2018 年国家社会科学基金青年项目，检察机关提起行政公益诉讼运行机制与优化策略研究",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1242/6073.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "20分 · 该项成果有出处和年份，且明确SCI/SSCI/CSSCI/CSCD/EI收录；或具名资政成果有采纳机构和年份",
+        "excerpt": "2.史溢帆.从法制统一到权利救济：当代中国民事检察监督制度的功能变迁[J].兰州大学学报（社会科学版）2016（3）:101-107,CSSCI来源期刊",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1242/6073.htm"
+      },
+      {
+        "type": "学术任职",
+        "conclusion": "12分 · 具名期刊编委、主编，或省级学术组织领导职务",
+        "excerpt": "3.四川省法学会诉讼法学研究会理事，副秘书长",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1242/6073.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "10分 · 国家教学成果奖、全国教学奖励、明确主持具名国家一流课程或明确指导全国获奖",
+        "excerpt": "1.国家教学成果奖二等奖，《以核心素养为魂、“LSM+”为体，创新文科教学模式，推动学生终身发展》排名9，2018年",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1242/6073.htm"
+      }
+    ],
+    "directoryOrder": 46,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "6016",
+    "name": "汤志伟",
+    "title": "教授",
+    "departments": [
+      "信息管理系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1243/6016.htm",
+    "researchDirections": [
+      "数字政府建设",
+      "人工智能治理",
+      "数字经济政策"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "A",
+    "evidenceScore": 66,
+    "evidenceLabel": "多项证据明确",
+    "verdict": "已摘录外部认可、项目证据、成果证据、学术任职、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 12,
+      "projects": 12,
+      "publications": 12,
+      "recognition": 20,
+      "training": 10
+    },
+    "hardSignals": [
+      "省级高层次人才、学术技术带头人或省级科研社科一等奖、特等奖"
+    ],
+    "highlights": "官网研究领域：数字政府建设、人工智能治理、数字经济政策。",
+    "limitations": [
+      "官网有主持国家社科重大专项的概述；本版本未将概述自动归入具名条目，亦不将“重大专项”自动等同“重大项目”S门槛。",
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "项目按该条公开的资助与角色信息计分，未将未注明的个人角色视为主持。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "外部认可",
+        "conclusion": "12分 · 省级高层次人才、学术技术带头人或省级科研社科一等奖、特等奖",
+        "excerpt": "四川省高层次人才计划入选者",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1243/6016.htm"
+      },
+      {
+        "type": "项目证据",
+        "conclusion": "12分 · 国家项目角色未明确、省部具体项目，或市校项目明确主持",
+        "excerpt": "1.国家社科基金重大专项《建设智慧社会的顶层设计与实现路径研究》；",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1243/6016.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "12分 · 具名成果仅能确认发表出处或发表年份之一",
+        "excerpt": "1.《Identifying smart city archetypes from the bottom up: A content analysis of municipal plans》. Telecommunications Policy",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1243/6016.htm"
+      },
+      {
+        "type": "学术任职",
+        "conclusion": "20分 · 全国性学科评议、教学指导等正式委员会及其学科工作组任职",
+        "excerpt": "教育部公共管理类教学指导委员会委员",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1243/6016.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "10分 · 国家教学成果奖、全国教学奖励、明确主持具名国家一流课程或明确指导全国获奖",
+        "excerpt": "2.教学奖项：国家级教学成果二等奖、国家级精品视频公开课程、四川省一流课程、四川省教学成果一等奖、二等奖等",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1243/6016.htm"
+      }
+    ],
+    "directoryOrder": 47,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "6081",
+    "name": "王晓川",
+    "title": "副教授",
+    "departments": [
+      "行政管理系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1246/6081.htm",
+    "researchDirections": [
+      "社会治理"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "B",
+    "evidenceScore": 52,
+    "evidenceLabel": "已有成型证据",
+    "verdict": "已摘录外部认可、项目证据、成果证据、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 8,
+      "projects": 16,
+      "publications": 20,
+      "recognition": 0,
+      "training": 8
+    },
+    "hardSignals": [
+      "省级科研、科技或社科成果二等奖、三等奖"
+    ],
+    "highlights": "官网研究领域：社会治理。",
+    "limitations": [
+      "学术任职未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "外部认可",
+        "conclusion": "8分 · 省级科研、科技或社科成果二等奖、三等奖",
+        "excerpt": "14.荣获四川省第十四次哲学社会科学优秀成果奖三等奖-政府治理的网格机理，2010-3-179",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1246/6081.htm"
+      },
+      {
+        "type": "项目证据",
+        "conclusion": "16分 · 省部项目明确主持，或国家项目明确参与、参研、主研",
+        "excerpt": "10.参研自偏置稀土强磁铁氧体材料及关键制备技术，编号2022YFB3504801，金额46.13万，国家级重点项目，排名5",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1246/6081.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "20分 · 该项成果有出处和年份，且明确SCI/SSCI/CSSCI/CSCD/EI收录；或具名资政成果有采纳机构和年份",
+        "excerpt": "5.王晓川，全球化视阈中的社会形态理论，西南民族大学学报， 2008.02：89-92，CSSCI来源期刊",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1246/6081.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "8分 · 省级教学奖励或省级一流课程",
+        "excerpt": "7.荣获四川省一流课程-线下-管理学原理，YLKC00498，2022.12",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1246/6081.htm"
+      }
+    ],
+    "directoryOrder": 48,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "6085",
+    "name": "王怡",
+    "title": "副教授",
+    "departments": [
+      "法学系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1246/6085.htm",
+    "researchDirections": [
+      "行政管理体制与改革"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "B",
+    "evidenceScore": 54,
+    "evidenceLabel": "已有成型证据",
+    "verdict": "已摘录项目证据、成果证据、学术任职、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 0,
+      "projects": 20,
+      "publications": 20,
+      "recognition": 8,
+      "training": 6
+    },
+    "hardSignals": [],
+    "highlights": "官网研究领域：行政管理体制与改革。",
+    "limitations": [
+      "外部认可未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "项目证据",
+        "conclusion": "20分 · 具名或有唯一编号的国家项目，明确本人主持或负责",
+        "excerpt": "1.主持国家社会科学基金一般项目“共享经济下网络食品安全治理法治化研究”（22BFX111）",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1246/6085.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "20分 · 该项成果有出处和年份，且明确SCI/SSCI/CSSCI/CSCD/EI收录；或具名资政成果有采纳机构和年份",
+        "excerpt": "1.第一作者：全球治理转型中转基因食品贸易纠纷的解决之道——兼论我国的策略选择[J].西南民族大学学报(人文社科版),2018,39(04):69-74.CSSCI",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1246/6085.htm"
+      },
+      {
+        "type": "学术任职",
+        "conclusion": "8分 · 其他具名学术或公共组织任职、会员身份",
+        "excerpt": "四川省国际法学与涉外法治研究会理事",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1246/6085.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "6分 · 校级教学荣誉或明确学生指导奖励",
+        "excerpt": "1.2018~2019 年度青年教师教学竞赛校级二等奖",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1246/6085.htm"
+      }
+    ],
+    "directoryOrder": 49,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "9075",
+    "name": "卫劭华",
+    "title": "讲师",
+    "departments": [
+      "公共政策系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1246/9075.htm",
+    "researchDirections": [
+      "数字治理与公共政策"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "C",
+    "evidenceScore": 46,
+    "evidenceLabel": "部分证据可核对",
+    "verdict": "已摘录项目证据、成果证据、学术任职、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 0,
+      "projects": 16,
+      "publications": 20,
+      "recognition": 8,
+      "training": 2
+    },
+    "hardSignals": [],
+    "highlights": "官网研究领域：数字治理与公共政策。",
+    "limitations": [
+      "外部认可未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "项目证据",
+        "conclusion": "16分 · 省部项目明确主持，或国家项目明确参与、参研、主研",
+        "excerpt": "2.参与：国家自然科学基金项目《地方政府公共政策执行行为选择机制的演化博弈分析》",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1246/9075.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "20分 · 该项成果有出处和年份，且明确SCI/SSCI/CSSCI/CSCD/EI收录；或具名资政成果有采纳机构和年份",
+        "excerpt": "3.丁煌，卫劭华（通讯作者）：《生成式人工智能时代的政策科学研究》，《电子政务》（CSSCI），2024（10）",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1246/9075.htm"
+      },
+      {
+        "type": "学术任职",
+        "conclusion": "8分 · 其他具名学术或公共组织任职、会员身份",
+        "excerpt": "电子科技大学国家治理与公共政策研究院、武汉大学国家治理与公共政策研究中心研究人员。",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1246/9075.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "2分 · 仅有明确导师身份",
+        "excerpt": "讲师 、硕士生导师",
+        "sourceUrl": "https://spa.uestc.edu.cn/szdw/jsml/xsyq.htm"
+      }
+    ],
+    "directoryOrder": 50,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "6133",
+    "name": "温尔刚",
+    "title": "实验师",
+    "departments": [
+      "信息管理系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1246/6133.htm",
+    "researchDirections": [
+      "实践教学"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "D",
+    "evidenceScore": 24,
+    "evidenceLabel": "可核对证据有限",
+    "verdict": "已摘录项目证据、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 0,
+      "projects": 16,
+      "publications": 0,
+      "recognition": 0,
+      "training": 8
+    },
+    "hardSignals": [],
+    "highlights": "官网研究领域：实践教学。",
+    "limitations": [
+      "外部认可未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "成果证据未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "学术任职未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "项目证据",
+        "conclusion": "16分 · 省部项目明确主持，或国家项目明确参与、参研、主研",
+        "excerpt": "5.文科虚拟仿真实验教学中心建设，教育部产学合作协同育人项目，202101034011，202108，负责（1），3，省部级",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1246/6133.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "8分 · 省级教学奖励或省级一流课程",
+        "excerpt": "4.饲养动物侵权虚拟仿真实践教学项目，四川省教育厅，省级一流课程，省级，7，2022.07",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1246/6133.htm"
+      }
+    ],
+    "directoryOrder": 51,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "6022",
+    "name": "吴卫军",
+    "title": "教授",
+    "departments": [
+      "法学系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1246/6022.htm",
+    "researchDirections": [
+      "行政法",
+      "行政救济程序",
+      "司法政策与司法改革",
+      "应急管理法治化"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "A",
+    "evidenceScore": 68,
+    "evidenceLabel": "多项证据明确",
+    "verdict": "已摘录外部认可、项目证据、成果证据、学术任职、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 12,
+      "projects": 20,
+      "publications": 16,
+      "recognition": 16,
+      "training": 4
+    },
+    "hardSignals": [
+      "省级高层次人才、学术技术带头人或省级科研社科一等奖、特等奖"
+    ],
+    "highlights": "官网研究领域：行政法、行政救济程序、司法政策与司法改革、应急管理法治化。",
+    "limitations": [
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "外部认可",
+        "conclusion": "12分 · 省级高层次人才、学术技术带头人或省级科研社科一等奖、特等奖",
+        "excerpt": "吴卫军，毕业于中国政法大学诉讼法学研究院，获法学博士学位，英国伯明翰大学访问学者，电子科技大学公共管理学院教授，四川省高层次人才计划入选者。",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1246/6022.htm"
+      },
+      {
+        "type": "项目证据",
+        "conclusion": "20分 · 具名或有唯一编号的国家项目，明确本人主持或负责",
+        "excerpt": "1.主持2021年度国家社科基金项目“法、检体制改革中的差异化问题研究”",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1246/6022.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "16分 · 具名成果有发表出处或出版机构，并有发表年份",
+        "excerpt": "1.《我国食品安全突发事件中政府信息公开的模式研究》（合著，第一作者），知识产权出版社,2023年",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1246/6022.htm"
+      },
+      {
+        "type": "学术任职",
+        "conclusion": "16分 · 全国或国际学术组织理事、委员、秘书长或会长等任职",
+        "excerpt": "1.中国刑事诉讼法学研究会理事",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1246/6022.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "4分 · 官网列出具名教学课程",
+        "excerpt": "本科生：行政诉讼法学专题研究、科研训练、社会科学实验班综合导论",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1246/6022.htm"
+      }
+    ],
+    "directoryOrder": 52,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "6054",
+    "name": "肖仕卫",
+    "title": "教授",
+    "departments": [
+      "法学系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1247/6054.htm",
+    "researchDirections": [
+      "行政法",
+      "数字政府治理"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "B",
+    "evidenceScore": 56,
+    "evidenceLabel": "已有成型证据",
+    "verdict": "已摘录外部认可、项目证据、成果证据、学术任职、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 12,
+      "projects": 12,
+      "publications": 20,
+      "recognition": 8,
+      "training": 4
+    },
+    "hardSignals": [
+      "省级高层次人才、学术技术带头人或省级科研社科一等奖、特等奖"
+    ],
+    "highlights": "官网研究领域：行政法、数字政府治理。",
+    "limitations": [
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "项目按该条公开的资助与角色信息计分，未将未注明的个人角色视为主持。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "外部认可",
+        "conclusion": "12分 · 省级高层次人才、学术技术带头人或省级科研社科一等奖、特等奖",
+        "excerpt": "曾在美国维拉司法研究所、瑞士苏黎世大学访学，入选四川省高层次人才计划。",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1247/6054.htm"
+      },
+      {
+        "type": "项目证据",
+        "conclusion": "12分 · 国家项目角色未明确、省部具体项目，或市校项目明确主持",
+        "excerpt": "1.“和谐社会的构建与人民内部矛盾解决体系的完善”子课题，国家社科基金2005年重大招标项目",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1247/6054.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "20分 · 该项成果有出处和年份，且明确SCI/SSCI/CSSCI/CSCD/EI收录；或具名资政成果有采纳机构和年份",
+        "excerpt": "1.《刑事法治的“第三领域”：中国刑事和解制度的结构定位与功能分析》，载《中外法学》2007年第6期【CSSCI期刊,独著，约2万字】。该文为人大复印资料《诉讼法学 司法制度》2008年第3期全文转载",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1247/6054.htm"
+      },
+      {
+        "type": "学术任职",
+        "conclusion": "8分 · 其他具名学术或公共组织任职、会员身份",
+        "excerpt": "1.四川省政协社法委立法协商专家",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1247/6054.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "4分 · 官网列出具名教学课程",
+        "excerpt": "本科生：宪法学、法学综合实验、大学生创业法律风险防范",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1247/6054.htm"
+      }
+    ],
+    "directoryOrder": 53,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "6018",
+    "name": "谢梅",
+    "title": "教授",
+    "departments": [
+      "新闻传播系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1247/6018.htm",
+    "researchDirections": [
+      "数字治理理论与方法",
+      "传播理论与技术",
+      "文化产业管理"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "A",
+    "evidenceScore": 72,
+    "evidenceLabel": "多项证据明确",
+    "verdict": "已摘录外部认可、项目证据、成果证据、学术任职、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 12,
+      "projects": 20,
+      "publications": 20,
+      "recognition": 16,
+      "training": 4
+    },
+    "hardSignals": [
+      "省级高层次人才、学术技术带头人或省级科研社科一等奖、特等奖"
+    ],
+    "highlights": "官网研究领域：数字治理理论与方法、传播理论与技术、文化产业管理。",
+    "limitations": [
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "外部认可",
+        "conclusion": "12分 · 省级高层次人才、学术技术带头人或省级科研社科一等奖、特等奖",
+        "excerpt": "6.文化四川：文化体制改革与四川文化强省建设的探索和实践，四川省第十四次哲学社会科学优秀成果一等奖（参与），2010",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1247/6018.htm"
+      },
+      {
+        "type": "项目证据",
+        "conclusion": "20分 · 具名或有唯一编号的国家项目，明确本人主持或负责",
+        "excerpt": "1.主持，2014年国家社会科学基金一般项目“文博资源转化利用的模式研究”（14BGL162）",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1247/6018.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "20分 · 该项成果有出处和年份，且明确SCI/SSCI/CSSCI/CSCD/EI收录；或具名资政成果有采纳机构和年份",
+        "excerpt": "1.谢梅.新时代城市善治的实践探索[J].人民论坛,2023(12):103-05.CSSCI来源期刊",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1247/6018.htm"
+      },
+      {
+        "type": "学术任职",
+        "conclusion": "16分 · 全国或国际学术组织理事、委员、秘书长或会长等任职",
+        "excerpt": "1.中国文化产业协会文化元宇宙专委会副秘书长",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1247/6018.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "4分 · 官网列出具名教学课程",
+        "excerpt": "本科生：中外文学通论、品味国学",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1247/6018.htm"
+      }
+    ],
+    "directoryOrder": 54,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "6038",
+    "name": "杨菁",
+    "title": "教授",
+    "departments": [
+      "城市管理系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1248/6038.htm",
+    "researchDirections": [
+      "城市行政体制改革",
+      "城市治理数字化转型"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "S",
+    "evidenceScore": 92,
+    "evidenceLabel": "门槛信号明确",
+    "verdict": "个人门槛有明确官网依据。已摘录外部认可、项目证据、成果证据、学术任职、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 30,
+      "projects": 20,
+      "publications": 12,
+      "recognition": 20,
+      "training": 10
+    },
+    "hardSignals": [
+      "本人院士、国家高层次人才、学术会士或国家级科研奖励"
+    ],
+    "highlights": "官网研究领域：城市行政体制改革、城市治理数字化转型。",
+    "limitations": [
+      "官网表述为“国家级重大人才计划青年学者”，未公开具体计划名称；本项目保留原称谓，不推定为其他具体人才称号。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "外部认可",
+        "conclusion": "30分 · 本人院士、国家高层次人才、学术会士或国家级科研奖励",
+        "excerpt": "现任电子科技大学公共管理学院教授、博导、副院长，国家级重大人才计划青年学者",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1248/6038.htm"
+      },
+      {
+        "type": "项目证据",
+        "conclusion": "20分 · 具名或有唯一编号的国家项目，明确本人主持或负责",
+        "excerpt": "1.国家社会科学基金一般项目：国家治理视角下新冠疫情对国民社会心态的影响与应对研究，2022，负责人",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1248/6038.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "12分 · 具名成果仅能确认发表出处或发表年份之一",
+        "excerpt": "新中国建立初期城市行政体制研究（1949-1957年）——以重庆为例（四川人民出版社）",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1248/6038.htm"
+      },
+      {
+        "type": "学术任职",
+        "conclusion": "20分 · 全国性学科评议、教学指导等正式委员会及其学科工作组任职",
+        "excerpt": "1.国务院学位委员会公共管理学科评议组“城乡公共治理”学科建设工作组成员",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1248/6038.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "10分 · 国家教学成果奖、全国教学奖励、明确主持具名国家一流课程或明确指导全国获奖",
+        "excerpt": "1. 国家教学成果二等奖3项（2022年、2018年、2014年）",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1248/6038.htm"
+      }
+    ],
+    "directoryOrder": 55,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "6119",
+    "name": "杨柳",
+    "title": "副教授",
+    "departments": [
+      "城市管理系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1248/6119.htm",
+    "researchDirections": [
+      "农村公共治理"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "C",
+    "evidenceScore": 40,
+    "evidenceLabel": "部分证据可核对",
+    "verdict": "已摘录项目证据、成果证据、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 0,
+      "projects": 16,
+      "publications": 20,
+      "recognition": 0,
+      "training": 4
+    },
+    "hardSignals": [],
+    "highlights": "官网研究领域：农村公共治理。",
+    "limitations": [
+      "外部认可未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "学术任职未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "项目证据",
+        "conclusion": "16分 · 省部项目明确主持，或国家项目明确参与、参研、主研",
+        "excerpt": "主持，教育部人文社会科学研究项目“普遍道德、公共领导力与小型农田水利设施村民自治研究”（编号：20YJC790162）",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1248/6119.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "20分 · 该项成果有出处和年份，且明确SCI/SSCI/CSSCI/CSCD/EI收录；或具名资政成果有采纳机构和年份",
+        "excerpt": "3.Yang Liu, Ren Yang. Has China’s new round of collective forestland tenure reform caused an increase in rural labor transfer? Land, 2020, 9(9): 284. (SSCI)",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1248/6119.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "4分 · 官网列出具名教学课程",
+        "excerpt": "本科生：城市社会学，城市管理综合实验实践I（城市田野调查）",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1248/6119.htm"
+      }
+    ],
+    "directoryOrder": 56,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "6060",
+    "name": "杨曦",
+    "title": "副教授",
+    "departments": [
+      "公共政策系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1248/6060.htm",
+    "researchDirections": [
+      "教育政策",
+      "教育领导与管理",
+      "教育评价"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "A",
+    "evidenceScore": 62,
+    "evidenceLabel": "多项证据明确",
+    "verdict": "已摘录外部认可、项目证据、成果证据、学术任职、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 12,
+      "projects": 12,
+      "publications": 16,
+      "recognition": 12,
+      "training": 10
+    },
+    "hardSignals": [
+      "省级高层次人才、学术技术带头人或省级科研社科一等奖、特等奖"
+    ],
+    "highlights": "官网研究领域：教育政策、教育领导与管理、教育评价。",
+    "limitations": [
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "项目按该条公开的资助与角色信息计分，未将未注明的个人角色视为主持。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "外部认可",
+        "conclusion": "12分 · 省级高层次人才、学术技术带头人或省级科研社科一等奖、特等奖",
+        "excerpt": "1.2008年、2010年荣获四川省教育科学科研成果一等奖",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1248/6060.htm"
+      },
+      {
+        "type": "项目证据",
+        "conclusion": "12分 · 国家项目角色未明确、省部具体项目，或市校项目明确主持",
+        "excerpt": "1.四川省科技计划项目“四川省教育治理统筹联动机制研究”,",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1248/6060.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "16分 · 具名成果有发表出处或出版机构，并有发表年份",
+        "excerpt": "1.杨曦.苗寨乡校——西南地区少数民族教育内源发展研究[M].北京:华文出版社,2010",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1248/6060.htm"
+      },
+      {
+        "type": "学术任职",
+        "conclusion": "12分 · 具名期刊编委、主编，或省级学术组织领导职务",
+        "excerpt": "2.四川省教育人才工委秘书长",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1248/6060.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "10分 · 国家教学成果奖、全国教学奖励、明确主持具名国家一流课程或明确指导全国获奖",
+        "excerpt": "2.2013年荣获国家教学成果奖二等奖",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1248/6060.htm"
+      }
+    ],
+    "directoryOrder": 57,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "6135",
+    "name": "尹婧文",
+    "title": "副教授",
+    "departments": [
+      "城市管理系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1248/6135.htm",
+    "researchDirections": [
+      "智慧城市",
+      "未来城市",
+      "创新管理"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "B",
+    "evidenceScore": 58,
+    "evidenceLabel": "已有成型证据",
+    "verdict": "已摘录项目证据、成果证据、学术任职、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 0,
+      "projects": 20,
+      "publications": 20,
+      "recognition": 12,
+      "training": 6
+    },
+    "hardSignals": [],
+    "highlights": "官网研究领域：智慧城市、未来城市、创新管理。",
+    "limitations": [
+      "外部认可未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "项目证据",
+        "conclusion": "20分 · 具名或有唯一编号的国家项目，明确本人主持或负责",
+        "excerpt": "1. 主持，国家社会科学基金青年项目“智慧城市实验平台赋能城市数字化转型的机制及路径优化研究”（24CGL116）。",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1248/6135.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "20分 · 该项成果有出处和年份，且明确SCI/SSCI/CSSCI/CSCD/EI收录；或具名资政成果有采纳机构和年份",
+        "excerpt": "1. Yin, J. (2022). Understanding th…f expectation in making the open Programmable Harbour City (OPHC),[J] Technology Analysis & Strategic Management, 1-14.SSCI.",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1248/6135.htm"
+      },
+      {
+        "type": "学术任职",
+        "conclusion": "12分 · 具名期刊编委、主编，或省级学术组织领导职务",
+        "excerpt": "1. 2024-至今，任期刊《Futures》的编委。",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1248/6135.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "6分 · 校级教学荣誉或明确学生指导奖励",
+        "excerpt": "1. 城市人类学，第三届电子科技大学教师教学创新大赛，三等奖， 2023.02。",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1248/6135.htm"
+      }
+    ],
+    "directoryOrder": 58,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "8726",
+    "name": "尹熙成",
+    "title": "副教授",
+    "departments": [
+      "信息管理系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1248/8726.htm",
+    "researchDirections": [
+      "人工智能治理",
+      "算法治理",
+      "网络舆情"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "B",
+    "evidenceScore": 52,
+    "evidenceLabel": "已有成型证据",
+    "verdict": "已摘录项目证据、成果证据、学术任职、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 0,
+      "projects": 20,
+      "publications": 16,
+      "recognition": 12,
+      "training": 4
+    },
+    "hardSignals": [],
+    "highlights": "官网研究领域：人工智能治理、算法治理、网络舆情。",
+    "limitations": [
+      "外部认可未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "项目证据",
+        "conclusion": "20分 · 具名或有唯一编号的国家项目，明确本人主持或负责",
+        "excerpt": "国家自然科学基金青年项目，权衡双边利益的知识密集型众包任务推荐研究：基于多任务深度学习, 2024-2026，主持；",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1248/8726.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "16分 · 具名成果有发表出处或出版机构，并有发表年份",
+        "excerpt": "3. Yin X, Wang H, Wang W, et al. Task recommendation in crowdsourcing systems: A bibliometric analysis[J]. Technology in Society, 2020, 63: 101337.",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1248/8726.htm"
+      },
+      {
+        "type": "学术任职",
+        "conclusion": "12分 · 具名期刊编委、主编，或省级学术组织领导职务",
+        "excerpt": "SSCI期刊《Humanities and Social Sciences Communications》编委",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1248/8726.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "4分 · 官网列出具名教学课程",
+        "excerpt": "本科生：IT项目管理、数据可视化",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1248/8726.htm"
+      }
+    ],
+    "directoryOrder": 59,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "6046",
+    "name": "曾维希",
+    "title": "教授",
+    "departments": [
+      "城市管理系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1249/6046.htm",
+    "researchDirections": [
+      "城乡融合发展与治理",
+      "社区心理学",
+      "行为公共政策"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "A",
+    "evidenceScore": 68,
+    "evidenceLabel": "多项证据明确",
+    "verdict": "已摘录外部认可、项目证据、成果证据、学术任职、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 12,
+      "projects": 20,
+      "publications": 20,
+      "recognition": 8,
+      "training": 8
+    },
+    "hardSignals": [
+      "省级高层次人才、学术技术带头人或省级科研社科一等奖、特等奖"
+    ],
+    "highlights": "官网研究领域：城乡融合发展与治理、社区心理学、行为公共政策。",
+    "limitations": [
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "外部认可",
+        "conclusion": "12分 · 省级高层次人才、学术技术带头人或省级科研社科一等奖、特等奖",
+        "excerpt": "曾维希，心理学博士，管理学博士后，入选四川省高层次人才。",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1249/6046.htm"
+      },
+      {
+        "type": "项目证据",
+        "conclusion": "20分 · 具名或有唯一编号的国家项目，明确本人主持或负责",
+        "excerpt": "1.生命历程视角下流动人口二代的社会心态与风险应对研究. 国家社科基金一般项目，2023.09-2025.12，主持",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1249/6046.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "20分 · 该项成果有出处和年份，且明确SCI/SSCI/CSSCI/CSCD/EI收录；或具名资政成果有采纳机构和年份",
+        "excerpt": "1.曾维希.激活心理资本构建面向乡村振兴的心理脱贫动力机制，教育部采用,2022",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1249/6046.htm"
+      },
+      {
+        "type": "学术任职",
+        "conclusion": "8分 · 其他具名学术或公共组织任职、会员身份",
+        "excerpt": "美国行政管理学会会员",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1249/6046.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "8分 · 省级教学奖励或省级一流课程",
+        "excerpt": "3.四川省一流本科课程（线上线下混合）,心理学漫谈,四川省教育厅,2023",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1249/6046.htm"
+      }
+    ],
+    "directoryOrder": 60,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "6042",
+    "name": "詹恂",
+    "title": "教授",
+    "departments": [
+      "新闻传播系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1249/6042.htm",
+    "researchDirections": [
+      "国际传播与周边传播",
+      "边疆传播与民族传播"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "B",
+    "evidenceScore": 56,
+    "evidenceLabel": "已有成型证据",
+    "verdict": "已摘录外部认可、项目证据、成果证据、学术任职、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 8,
+      "projects": 4,
+      "publications": 20,
+      "recognition": 16,
+      "training": 8
+    },
+    "hardSignals": [
+      "省级科研、科技或社科成果二等奖、三等奖"
+    ],
+    "highlights": "官网研究领域：国际传播与周边传播、边疆传播与民族传播。",
+    "limitations": [
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "外部认可",
+        "conclusion": "8分 · 省级科研、科技或社科成果二等奖、三等奖",
+        "excerpt": "6.获重庆市政府科技进步三等奖（2005年）",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1249/6042.htm"
+      },
+      {
+        "type": "项目证据",
+        "conclusion": "4分 · 只有项目经历概述或资助类别，未摘录具名项目",
+        "excerpt": "主持和完成2个国家级课题和18个省部级课题。",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1249/6042.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "20分 · 该项成果有出处和年份，且明确SCI/SSCI/CSSCI/CSCD/EI收录；或具名资政成果有采纳机构和年份",
+        "excerpt": "1.媒介融合视阈下我国涉藏州县铸牢中华民族共同体意识路径探析，民族学刊，2023.12，cssci来源期刊",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1249/6042.htm"
+      },
+      {
+        "type": "学术任职",
+        "conclusion": "16分 · 全国或国际学术组织理事、委员、秘书长或会长等任职",
+        "excerpt": "1.中国高校影视学会民族影视专委会常务理事",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1249/6042.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "8分 · 省级教学奖励或省级一流课程",
+        "excerpt": "1.四川省一流本科课程（2022年）",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1249/6042.htm"
+      }
+    ],
+    "directoryOrder": 61,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "6069",
+    "name": "张帆",
+    "title": "副教授",
+    "departments": [
+      "法学系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1249/6069.htm",
+    "researchDirections": [
+      "行政法",
+      "行政职能",
+      "行政监督"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "A",
+    "evidenceScore": 64,
+    "evidenceLabel": "多项证据明确",
+    "verdict": "已摘录外部认可、项目证据、成果证据、学术任职、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 8,
+      "projects": 20,
+      "publications": 20,
+      "recognition": 8,
+      "training": 8
+    },
+    "hardSignals": [
+      "省级科研、科技或社科成果二等奖、三等奖"
+    ],
+    "highlights": "官网研究领域：行政法、行政职能、行政监督。",
+    "limitations": [
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "外部认可",
+        "conclusion": "8分 · 省级科研、科技或社科成果二等奖、三等奖",
+        "excerpt": "1.研究报告《四川省民间集资监管的对策建议》被四川省省委书记作肯定性批示，获四川省第十六次社会科学优秀成果三等奖（排名1）",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1249/6069.htm"
+      },
+      {
+        "type": "项目证据",
+        "conclusion": "20分 · 具名或有唯一编号的国家项目，明确本人主持或负责",
+        "excerpt": "1.主持，国家社科基金一般项目“公共风险预防视角下数字身份的类型化法律保障体系研究”（编号：24BFX062）",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1249/6069.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "20分 · 该项成果有出处和年份，且明确SCI/SSCI/CSSCI/CSCD/EI收录；或具名资政成果有采纳机构和年份",
+        "excerpt": "1.张帆、唐清利.社会征信体系构建中的信息公开、权义平衡与立法重构——以个人隐私权保护为中心[J].湖南社会科学,2014,(06):74-78 CSSCI来源期刊",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1249/6069.htm"
+      },
+      {
+        "type": "学术任职",
+        "conclusion": "8分 · 其他具名学术或公共组织任职、会员身份",
+        "excerpt": "1.四川省法学会金融法学会理事",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1249/6069.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "8分 · 省级教学奖励或省级一流课程",
+        "excerpt": "11.主研，省级一流本科课程:社会保障与我们的生活（2022年）",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1249/6069.htm"
+      }
+    ],
+    "directoryOrder": 62,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "6048",
+    "name": "张会平",
+    "title": "教授",
+    "departments": [
+      "信息管理系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1249/6048.htm",
+    "researchDirections": [
+      "数字政府",
+      "数据治理",
+      "人工智能治理"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "A",
+    "evidenceScore": 70,
+    "evidenceLabel": "多项证据明确",
+    "verdict": "已摘录外部认可、项目证据、成果证据、学术任职、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 12,
+      "projects": 12,
+      "publications": 16,
+      "recognition": 20,
+      "training": 10
+    },
+    "hardSignals": [
+      "省级高层次人才、学术技术带头人或省级科研社科一等奖、特等奖"
+    ],
+    "highlights": "官网研究领域：数字政府、数据治理、人工智能治理。",
+    "limitations": [
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "项目按该条公开的资助与角色信息计分，未将未注明的个人角色视为主持。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "外部认可",
+        "conclusion": "12分 · 省级高层次人才、学术技术带头人或省级科研社科一等奖、特等奖",
+        "excerpt": "4.报告《建设智慧社会的顶层设计与实现路径研究》，获四川省社会科学优秀成果一等奖，2025年",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1249/6048.htm"
+      },
+      {
+        "type": "项目证据",
+        "conclusion": "12分 · 国家项目角色未明确、省部具体项目，或市校项目明确主持",
+        "excerpt": "[1]国家社会科学基金项目(21XGL005)“城市推进数据要素跨界流动的协同治理研究”",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1249/6048.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "16分 · 具名成果有发表出处或出版机构，并有发表年份",
+        "excerpt": "[1]张会平，等. 大数据驱动的公共服务跨层级联动创新[M]. 北京：科学出版社, 2022.",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1249/6048.htm"
+      },
+      {
+        "type": "学术任职",
+        "conclusion": "20分 · 全国性学科评议、教学指导等正式委员会及其学科工作组任职",
+        "excerpt": "1.国务院学位委员会公共管理评议组数字公共治理二级学科建设工作组成员",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1249/6048.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "10分 · 国家教学成果奖、全国教学奖励、明确主持具名国家一流课程或明确指导全国获奖",
+        "excerpt": "1.成果“核心素养为魂、核心素养为‘LSM+’为体，创新融合式文科教学，推动学生终身发展”，获国家级教学成果二等奖，2018年",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1249/6048.htm"
+      }
+    ],
+    "directoryOrder": 63,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "6129",
+    "name": "张剑玉",
+    "title": "讲师",
+    "departments": [
+      "行政管理系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1249/6129.htm",
+    "researchDirections": [
+      "公共政策分析",
+      "人工智能与社会治理",
+      "现代城市与治理"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "B",
+    "evidenceScore": 50,
+    "evidenceLabel": "已有成型证据",
+    "verdict": "已摘录外部认可、项目证据、成果证据、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 8,
+      "projects": 16,
+      "publications": 20,
+      "recognition": 0,
+      "training": 6
+    },
+    "hardSignals": [
+      "省级科研、科技或社科成果二等奖、三等奖"
+    ],
+    "highlights": "官网研究领域：公共政策分析、人工智能与社会治理、现代城市与治理。",
+    "limitations": [
+      "学术任职未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "外部认可",
+        "conclusion": "8分 · 省级科研、科技或社科成果二等奖、三等奖",
+        "excerpt": "4. 2014年12月，获四川省第16次社会科学优秀成果奖三等奖（排名第三）",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1249/6129.htm"
+      },
+      {
+        "type": "项目证据",
+        "conclusion": "16分 · 省部项目明确主持，或国家项目明确参与、参研、主研",
+        "excerpt": "1. 新型城镇化视野下四川省特色小镇建设问题研究,四川省哲学社会科学研究“十三五”规划项目，2017.07 。主持，已结题。",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1249/6129.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "20分 · 该项成果有出处和年份，且明确SCI/SSCI/CSSCI/CSCD/EI收录；或具名资政成果有采纳机构和年份",
+        "excerpt": "[1] 大数据时代城市管理过程中的公共政策创新研究，福建论坛（哲学社会科学版），2014（3），CSSCI.",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1249/6129.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "6分 · 校级教学荣誉或明确学生指导奖励",
+        "excerpt": "1. 2021年1月，获研究生课程《政治学》教学质量优良奖。",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1249/6129.htm"
+      }
+    ],
+    "directoryOrder": 64,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "6089",
+    "name": "张龙鹏",
+    "title": "教授",
+    "departments": [
+      "信息管理系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1249/6089.htm",
+    "researchDirections": [
+      "数字政府治理",
+      "数字经济政策"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "B",
+    "evidenceScore": 58,
+    "evidenceLabel": "已有成型证据",
+    "verdict": "已摘录外部认可、项目证据、成果证据、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 18,
+      "projects": 20,
+      "publications": 16,
+      "recognition": 0,
+      "training": 4
+    },
+    "hardSignals": [
+      "中央部委或中国社科院正式科研成果奖，或教育部新世纪优秀人才"
+    ],
+    "highlights": "官网研究领域：数字政府治理、数字经济政策。",
+    "limitations": [
+      "学术任职未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "外部认可",
+        "conclusion": "18分 · 中央部委或中国社科院正式科研成果奖，或教育部新世纪优秀人才",
+        "excerpt": "1.区域产业转移中我国西部地方政府合作治理研究，第九届高等学校科学研究优秀成果奖（人文社会科学）三等奖，2024.7，排名2",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1249/6089.htm"
+      },
+      {
+        "type": "项目证据",
+        "conclusion": "20分 · 具名或有唯一编号的国家项目，明确本人主持或负责",
+        "excerpt": "1.国家社会科学基金项目，全球价值链视角下人工智能产业融合的效应与路径研究，2020.09-2023.06，主持",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1249/6089.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "16分 · 具名成果有发表出处或出版机构，并有发表年份",
+        "excerpt": "1.张龙鹏, 汤志伟, 曾志敏. 技术与民生：在线政务服务影响公共服务满意度的经验研究[J]. 中国行政管理, 2020(2): 45-53",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1249/6089.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "4分 · 官网列出具名教学课程",
+        "excerpt": "本科生：经济学原理、计量经济学",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1249/6089.htm"
+      }
+    ],
+    "directoryOrder": 65,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "6028",
+    "name": "赵蜀蓉",
+    "title": "教授",
+    "departments": [
+      "行政管理系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1249/6028.htm",
+    "researchDirections": [
+      "公共管理与国际政治研究",
+      "全球化背景下社会治理与经济发展研究"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "A",
+    "evidenceScore": 74,
+    "evidenceLabel": "多项证据明确",
+    "verdict": "已摘录外部认可、项目证据、成果证据、学术任职、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 18,
+      "projects": 12,
+      "publications": 20,
+      "recognition": 16,
+      "training": 8
+    },
+    "hardSignals": [
+      "中央部委或中国社科院正式科研成果奖，或教育部新世纪优秀人才"
+    ],
+    "highlights": "官网研究领域：公共管理与国际政治研究、全球化背景下社会治理与经济发展研究。",
+    "limitations": [
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "项目按该条公开的资助与角色信息计分，未将未注明的个人角色视为主持。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "外部认可",
+        "conclusion": "18分 · 中央部委或中国社科院正式科研成果奖，或教育部新世纪优秀人才",
+        "excerpt": "1. 编著《中国脱贫攻坚调研报告》荣获第十二届中国社会科学院优秀科研成果三等奖；",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1249/6028.htm"
+      },
+      {
+        "type": "项目证据",
+        "conclusion": "12分 · 国家项目角色未明确、省部具体项目，或市校项目明确主持",
+        "excerpt": "1. 四川省哲学社会科学”十四五“规划重点项目：《“数字丝绸之路”背景下四川企业与西非数字经济合作的安全风险识别及防范化解机制研究》（项目批准号：SCJJ23ND61），在研；",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1249/6028.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "20分 · 该项成果有出处和年份，且明确SCI/SSCI/CSSCI/CSCD/EI收录；或具名资政成果有采纳机构和年份",
+        "excerpt": "1. 许有款,赵蜀蓉.财政分权视角下新质生产力对城乡融合发展的影响研究——基于双重机器学习模型的实证检验[J].经济问题探索,2025,(06):174-190.(CSSCI)",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1249/6028.htm"
+      },
+      {
+        "type": "学术任职",
+        "conclusion": "16分 · 全国或国际学术组织理事、委员、秘书长或会长等任职",
+        "excerpt": "5. 中国非洲史研究会副秘书长（2022 年-）",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1249/6028.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "8分 · 省级教学奖励或省级一流课程",
+        "excerpt": "1. 大学生MOOC课程《全球化与世界政治研究》认定为四川省省级一流本科课程（2021年）",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1249/6028.htm"
+      }
+    ],
+    "directoryOrder": 66,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "6131",
+    "name": "钟毅",
+    "title": "讲师",
+    "departments": [
+      "信息管理系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1249/6131.htm",
+    "researchDirections": [
+      "数字社会治理"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "C",
+    "evidenceScore": 36,
+    "evidenceLabel": "部分证据可核对",
+    "verdict": "已摘录项目证据、成果证据、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 0,
+      "projects": 16,
+      "publications": 16,
+      "recognition": 0,
+      "training": 4
+    },
+    "hardSignals": [],
+    "highlights": "官网研究领域：数字社会治理。",
+    "limitations": [
+      "外部认可未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "学术任职未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "项目证据",
+        "conclusion": "16分 · 省部项目明确主持，或国家项目明确参与、参研、主研",
+        "excerpt": "1.主持，教育部2020年产学合作协同育人项目：线上线下融合的《信息系统分析与设计》课程改革",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1249/6131.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "16分 · 具名成果有发表出处或出版机构，并有发表年份",
+        "excerpt": "1.Zhong Yi, Ma Jie. Application of Personalized Recommendation Services in E-Government. 2012 INTERNATIONAL CONFERENCE ON PUBLIC ADMINISTRATION（8th）,2012.10",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1249/6131.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "4分 · 官网列出具名教学课程",
+        "excerpt": "本科生：面向对象程序设计、Python语言应用、信息系统分析与设计",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1249/6131.htm"
+      }
+    ],
+    "directoryOrder": 67,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "6067",
+    "name": "周美多",
+    "title": "副教授",
+    "departments": [
+      "行政管理系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1249/6067.htm",
+    "researchDirections": [
+      "行政管理体制与改革"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "C",
+    "evidenceScore": 46,
+    "evidenceLabel": "部分证据可核对",
+    "verdict": "已摘录项目证据、成果证据、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 0,
+      "projects": 20,
+      "publications": 20,
+      "recognition": 0,
+      "training": 6
+    },
+    "hardSignals": [],
+    "highlights": "官网研究领域：行政管理体制与改革。",
+    "limitations": [
+      "外部认可未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "学术任职未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "项目证据",
+        "conclusion": "20分 · 具名或有唯一编号的国家项目，明确本人主持或负责",
+        "excerpt": "1.主持，2011年国家自然科学基金资助项目“均等与增长:转移支付对县级公共服务财政投入的影响——基于2003年至今中国县级数据的实证研究”(71103026)",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1249/6067.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "20分 · 该项成果有出处和年份，且明确SCI/SSCI/CSSCI/CSCD/EI收录；或具名资政成果有采纳机构和年份",
+        "excerpt": "1.周美多.政府间预算：转移支付分配的本质与挑战[J].当代财经，2022（10）：28-39，CSSCI来源期刊,人大复印《财政与税务》2023年第2期全文转载",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1249/6067.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "6分 · 校级教学荣誉或明确学生指导奖励",
+        "excerpt": "电子科技大学2019年“五粮液本科教学奖教金”考核内容与方式改革专项奖一等奖",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1249/6067.htm"
+      }
+    ],
+    "directoryOrder": 68,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  },
+  {
+    "profileId": "6123",
+    "name": "朱强",
+    "title": "讲师",
+    "departments": [
+      "信息管理系"
+    ],
+    "profileUrl": "https://spa.uestc.edu.cn/info/1249/6123.htm",
+    "researchDirections": [
+      "数字政府治理",
+      "数字社会治理"
+    ],
+    "focusKeywords": [],
+    "evidenceGrade": "C",
+    "evidenceScore": 32,
+    "evidenceLabel": "部分证据可核对",
+    "verdict": "已摘录项目证据、成果证据、培养教学；按各项最高可支持档位计分。",
+    "scoreComponents": {
+      "hardSignal": 0,
+      "projects": 12,
+      "publications": 16,
+      "recognition": 0,
+      "training": 4
+    },
+    "hardSignals": [],
+    "highlights": "官网研究领域：数字政府治理、数字社会治理。",
+    "limitations": [
+      "外部认可未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "学术任职未摘录到符合本规则的依据，0分不表示没有相关经历。",
+      "本次摘录未确认S级所需的个人国家级门槛或具名国家社科重大项目主持证据。",
+      "项目按该条公开的资助与角色信息计分，未将未注明的个人角色视为主持。",
+      "本分数不是能力排名；官网记录未逐项向资助方、出版社或颁奖单位交叉核验，历史经历可能已变化。"
+    ],
+    "evidenceSnippets": [
+      {
+        "type": "项目证据",
+        "conclusion": "12分 · 国家项目角色未明确、省部具体项目，或市校项目明确主持",
+        "excerpt": "1.国家社会科学基金重点项目(批准号: 14AKS020) 项目名称: 当代大学生马克思主义观教育链研究，排名第2。",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1249/6123.htm"
+      },
+      {
+        "type": "成果证据",
+        "conclusion": "16分 · 具名成果有发表出处或出版机构，并有发表年份",
+        "excerpt": "1.副主编，《计算机信息处理综合教程》，经济科学出版社，2008.1，全国高等教育自学考试指定教材",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1249/6123.htm"
+      },
+      {
+        "type": "培养教学",
+        "conclusion": "4分 · 官网列出具名教学课程",
+        "excerpt": "本科生：计算机网络技术原理与应用、数据库应用、数据挖掘与大数据分析",
+        "sourceUrl": "https://spa.uestc.edu.cn/info/1249/6123.htm"
+      }
+    ],
+    "directoryOrder": 69,
+    "collectedAt": "2026-09-20",
+    "reviewStatus": "官网证据已核对",
+    "rubricVersion": "spa-official-evidence-v2"
+  }
+]

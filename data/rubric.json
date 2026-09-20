@@ -1,0 +1,178 @@
+{
+  "version": "spa-official-evidence-v2",
+  "scope": "官网公开证据强度；不是教师能力或学术质量排名；不跨学院比较",
+  "components": {
+    "hardSignal": {
+      "label": "外部认可",
+      "max": 30,
+      "criteria": [
+        {
+          "criterion": "national_personal",
+          "points": 30,
+          "description": "本人院士、国家高层次人才、学术会士或国家级科研奖励"
+        },
+        {
+          "criterion": "national_major_lead",
+          "points": 24,
+          "description": "明确主持具名国家社科基金重大项目或任该项目首席专家"
+        },
+        {
+          "criterion": "ministerial_recognition",
+          "points": 18,
+          "description": "中央部委或中国社科院正式科研成果奖，或教育部新世纪优秀人才"
+        },
+        {
+          "criterion": "provincial_first_or_talent",
+          "points": 12,
+          "description": "省级高层次人才、学术技术带头人或省级科研社科一等奖、特等奖"
+        },
+        {
+          "criterion": "provincial_award",
+          "points": 8,
+          "description": "省级科研、科技或社科成果二等奖、三等奖"
+        }
+      ]
+    },
+    "projects": {
+      "label": "项目证据",
+      "max": 20,
+      "criteria": [
+        {
+          "criterion": "national_lead",
+          "points": 20,
+          "description": "具名或有唯一编号的国家项目，明确本人主持或负责"
+        },
+        {
+          "criterion": "provincial_lead_or_national_participation",
+          "points": 16,
+          "description": "省部项目明确主持，或国家项目明确参与、参研、主研"
+        },
+        {
+          "criterion": "concrete_supported",
+          "points": 12,
+          "description": "国家项目角色未明确、省部具体项目，或市校项目明确主持"
+        },
+        {
+          "criterion": "named_project",
+          "points": 8,
+          "description": "其他具名项目，有具体条目但缺少上述支持信息"
+        },
+        {
+          "criterion": "project_overview",
+          "points": 4,
+          "description": "只有项目经历概述或资助类别，未摘录具名项目"
+        }
+      ]
+    },
+    "publications": {
+      "label": "成果证据",
+      "max": 20,
+      "criteria": [
+        {
+          "criterion": "indexed_or_adopted",
+          "points": 20,
+          "description": "该项成果有出处和年份，且明确SCI/SSCI/CSSCI/CSCD/EI收录；或具名资政成果有采纳机构和年份"
+        },
+        {
+          "criterion": "complete_citation",
+          "points": 16,
+          "description": "具名成果有发表出处或出版机构，并有发表年份"
+        },
+        {
+          "criterion": "partial_citation",
+          "points": 12,
+          "description": "具名成果仅能确认发表出处或发表年份之一"
+        },
+        {
+          "criterion": "named_work",
+          "points": 8,
+          "description": "具名成果，未摘录发表出处和年份"
+        },
+        {
+          "criterion": "publication_overview",
+          "points": 4,
+          "description": "只有发表或出版概述，未摘录具体成果"
+        }
+      ]
+    },
+    "recognition": {
+      "label": "学术任职",
+      "max": 20,
+      "criteria": [
+        {
+          "criterion": "national_committee",
+          "points": 20,
+          "description": "全国性学科评议、教学指导等正式委员会及其学科工作组任职"
+        },
+        {
+          "criterion": "national_society",
+          "points": 16,
+          "description": "全国或国际学术组织理事、委员、秘书长或会长等任职"
+        },
+        {
+          "criterion": "editor_or_provincial_lead",
+          "points": 12,
+          "description": "具名期刊编委、主编，或省级学术组织领导职务"
+        },
+        {
+          "criterion": "named_appointment",
+          "points": 8,
+          "description": "其他具名学术或公共组织任职、会员身份"
+        },
+        {
+          "criterion": "named_reviewing",
+          "points": 4,
+          "description": "具名期刊审稿经历"
+        }
+      ]
+    },
+    "training": {
+      "label": "培养教学",
+      "max": 10,
+      "criteria": [
+        {
+          "criterion": "national_teaching",
+          "points": 10,
+          "description": "国家教学成果奖、全国教学奖励、明确主持具名国家一流课程或明确指导全国获奖"
+        },
+        {
+          "criterion": "provincial_teaching",
+          "points": 8,
+          "description": "省级教学奖励或省级一流课程"
+        },
+        {
+          "criterion": "teaching_or_guidance_award",
+          "points": 6,
+          "description": "校级教学荣誉或明确学生指导奖励"
+        },
+        {
+          "criterion": "named_course",
+          "points": 4,
+          "description": "官网列出具名教学课程"
+        },
+        {
+          "criterion": "mentor",
+          "points": 2,
+          "description": "仅有明确导师身份"
+        }
+      ]
+    }
+  },
+  "grading": {
+    "S": "分数≥72，且有明确个人国家级门槛或具名国家社科重大项目主持证据",
+    "A": "分数≥62，且未满足S条件",
+    "B": "48–61",
+    "C": "32–47",
+    "D": "16–31",
+    "E": "0–15"
+  },
+  "notes": [
+    "每分项只取最高一档，不按项目、论文、称号数量累计。",
+    "姓名、职称、研究领域和导师身份本身不产生外部认可分。",
+    "SCI/SSCI/CSSCI/CSCD/EI收录只认该条成果的明示标注，不将概述迁移到单篇。",
+    "国家项目指国家自然科学/社会科学基金、全国教育规划、科技部项目、中国博士后科学基金等官网明示资助。",
+    "教育部一般科研项目按省部档；国家重大项目子课题负责人或参与者不打开S门槛。",
+    "同一重大项目可分别支持资助角色分和重大项目门槛分；两者明确披露，不是独立来源重复验证。",
+    "含省略号的摘录保留原文顺序，完整表述请查看官网。"
+  ]
+}
