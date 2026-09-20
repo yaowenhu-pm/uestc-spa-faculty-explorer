@@ -1,15 +1,17 @@
 {
-  "generatedAt": "2026-09-20T00:00:00+08:00",
+  "generatedAt": "2026-09-21T00:00:00+08:00",
   "sourceCollectedAt": "2026-09-20",
+  "ruleReviewedAt": "2026-09-21",
   "teacherCount": 69,
   "departmentCount": 6,
   "gradeDistribution": {
-    "S": 2,
-    "A": 24,
-    "B": 21,
-    "C": 18,
-    "D": 3,
-    "E": 1
+    "S": 1,
+    "A": 11,
+    "B": 15,
+    "C": 20,
+    "D": 16,
+    "E": 1,
+    "U": 5
   },
   "departmentDistribution": {
     "信息管理系": 12,
@@ -21,7 +23,7 @@
     "法学系": 11
   },
   "reviewDistribution": {
-    "官网证据已核对": 69
+    "逐条官网证据已核对": 69
   },
-  "rubricVersion": "spa-official-evidence-v2"
+  "rubricVersion": "spa-research-profile-v3"
 }

@@ -143,9 +143,28 @@ dialog::backdrop { background: #19284170; backdrop-filter: blur(3px); }
 
 .evidence-source { display:inline-flex; margin-top:9px; color:var(--blue); font-size:12px; }
 .evidence-source:hover { text-decoration:underline; text-underline-offset:3px; }
+.author-verification { display:block; width:fit-content; margin-top:6px; overflow-wrap:anywhere; }
 .dialog-body > .dialog-disclaimer { margin-top:26px; padding:12px 15px; border-radius:8px; background:#eff6f4; color:#5c797d; font-size:12px; line-height:1.85; }
 .dialog-body > .share-status { margin:10px 0 0; color:var(--blue); font-size:12px; }
 .share-status:empty { display:none; }
+.badge.grade-U,.dialog-grade.grade-U { border:1px solid #e3e8e8; background:#f7f9f9; color:#87979d; }
+.dialog-body > .grade-reason { margin-top:0; color:var(--ink); font-size:15px; line-height:1.85; }
+.dialog-body > .coverage-summary { margin:9px 0 20px; color:var(--muted); font-size:12px; line-height:1.8; }
+.scoring-details { margin:16px 0 24px; padding:13px 0; border-top:1px solid var(--line); border-bottom:1px solid var(--line); }
+.scoring-details > summary,.evidence-group > summary { color:#42616d; font-size:13px; cursor:pointer; }
+.scoring-details > summary:focus-visible,.evidence-group > summary:focus-visible { outline-offset:3px; border-radius:3px; }
+.scoring-details .component-list { margin:17px 0; }
+.scoring-details ul,.insufficient-state ul { margin:12px 0 0; padding-left:19px; color:var(--muted); font-size:13px; line-height:1.85; }
+.scoring-details li + li,.insufficient-state li + li { margin-top:7px; }
+.assessment-limitations h3 { margin:18px 0 0; color:#526d76; font-size:13px; font-weight:500; }
+.insufficient-state { margin:18px 0 24px; padding:17px 19px; border:1px solid var(--line); border-radius:9px; background:#f7f9f8; }
+.insufficient-state h3 { margin:0; color:#526b75; font-size:15px; font-weight:500; }
+.evidence-group { border-bottom:1px solid var(--line); }
+.evidence-group > summary { padding:13px 0; }
+.evidence-group > summary > span { float:right; color:#89999f; font-size:12px; }
+.evidence-group-body { padding:2px 0 8px; }
+.evidence-group .evidence-item { padding:13px 0; }
+.evidence-group .evidence-item > b,.evidence-group .evidence-item blockquote { font-size:13px; }
 
 @media (max-width:1100px) {
   .directory-toolbar { gap:20px; }

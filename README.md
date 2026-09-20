@@ -1,12 +1,20 @@
 # UESTC SPA Faculty Explorer
 
-电子科技大学公共管理学院教师研究方向与官网证据导航，收录69位教师。
+电子科技大学公共管理学院教师研究方向与公开履历导航，收录69位教师。
 
-[访问网站](https://yaowenhu-pm.github.io/uestc-spa-faculty-explorer/) · [实现方案](./IMPLEMENTATION.md) · [Figma设计](https://www.figma.com/design/byIMpOiumrSh1zPMdhvCfz?node-id=2-2)
+[访问网站](https://yaowenhu-pm.github.io/uestc-spa-faculty-explorer/) · [分级方案](./RATING_PLAN.md) · [69人重评对照](./RATING_REVIEW.md) · [实现方案](./IMPLEMENTATION.md) · [Figma设计](https://www.figma.com/design/byIMpOiumrSh1zPMdhvCfz?node-id=2-2)
 
-本项目参考 [uestc-scse-faculty-explorer](https://github.com/yaowenhu-pm/uestc-scse-faculty-explorer)，将学院官网的研究方向、项目、成果和荣誉整理为可检索、可筛选的静态网站。S/A/B/C/D/E标注官网证据强度，不是教师能力或教学质量排名。
+参考 [uestc-scse-faculty-explorer](https://github.com/yaowenhu-pm/uestc-scse-faculty-explorer)，将学院官网的研究方向、项目、成果和任职整理为静态目录。支持搜索、学系／职称／分级联合筛选、教师详情、原文依据和可分享的筛选及教师链接，适配桌面、手机与键盘操作。
 
-支持姓名与研究方向搜索、学系/职称/评级联合筛选、教师详情、原文证据及可分享的筛选和教师链接。默认按S至E等级排序，同级按分数降序；可切换官网目录或姓名排序。页面适配桌面与手机，支持键盘操作。
+S/A/B/C/D/E表示本项目对可核对公开履历信号的分级，不是教师能力或学术质量排名。资料不足为U，页面显示“—”，不显示低总分。默认按S至E再U排列，同级按分数降序；可切换官网目录或姓名排序。不按期望分布设置名额。
+
+## 规则与数据
+
+当前规则版本：`spa-research-profile-v3`。官网快照：2026-09-20；规则审阅：2026-09-21。近期窗口为2021–2026年，仅包含快照中已列成果。
+
+五项上限为科研认可30、科研项目30、代表成果25、学术服务10、培养教学5。先判断资料是否足够，再应用分数与S/A额外门槛；项目角色、代表作出处与年份均保留依据。具体条件见[完整方案](./RATING_PLAN.md)及[网站说明](./methodology.html)。规则参考分类和多类型代表作的思路，不按期刊指标评价个人。
+
+基础资料来自[教师目录](https://spa.uestc.edu.cn/szdw/jsml/xsszm.htm)、[学系目录](https://spa.uestc.edu.cn/szdw/jsml/xsyq.htm)及教师详情页。部分英文缩写署名以同一作品的Crossref DOI元数据补核全名与顺序，详情保留独立出处；补核日期为2026-09-21。只用于消除署名歧义，不据此计算影响力，未获补证仍为未知。资料数量是本次选取证据的数量，不是教师职业生涯总量；更新规则不表示重新采集官网。
 
 ## 本地运行
 
@@ -17,45 +25,24 @@ npm run check
 npm run serve
 ```
 
-打开 `http://127.0.0.1:4173`。
-
-## 数据更新
-
-公开数据由白名单导出器生成：
+打开 `http://127.0.0.1:4173`。构建仅读取仓库内已脱敏的 `data/faculty.source.json`，不需要私人采集材料、账号、API密钥或在线抓取。
 
 ```powershell
 npm run data
 npm run validate
+npm run build
 ```
 
-构建仅读取仓库内已脱敏的 `data/faculty.source.json`，无需私人数据、账号、API密钥或在线采集。分级代码、说明和数据带有统一规则版本；同一输入可复现同一输出。
+分别用于生成公开数据、校验，以及完成检查并打包 `_site/`。同一公开输入与规则版本可复现同一输出。
 
-当前规则版本为 `spa-official-evidence-v2`，完整档位见 [data/rubric.json](./data/rubric.json) 和[评级说明](./methodology.html)。分项最高30/20/20/20/10分，S级需要总分和明确门槛同时满足。
+## 更新与发布
 
-官网来源为[教师目录](https://spa.uestc.edu.cn/szdw/jsml/xsszm.htm)、[学系目录](https://spa.uestc.edu.cn/szdw/jsml/xsyq.htm)及教师详情页。初始快照日期为2026年9月20日。更新时先核对原文和证据归属，再修改公开输入并运行检查；如教师人数发生变化，应同步更新完整性约束和测试。
+逐人核对官网原文，更新公开输入中的项目、代表作和本人角色，运行检查并进行桌面／手机验证。名录变化时同步修改人数完整性约束。权重或门槛变化须更新规则版本与说明，不根据计算后的分布反推规则。
 
-公开数据不包含邮箱、电话、办公地点、照片、完整履历、原始HTML、抓取日志或浏览器状态。CI再次检查字段白名单和敏感文本。`data-version.json` 中的SHA-256仅校验仓库内公开输入的一致性。
+PR运行校验，`main`通过后由GitHub Actions部署GitHub Pages。Pages来源设为GitHub Actions。发布包由白名单脚本生成，仅包含页面、样式、脚本、数据说明和生成后的公开JSON；原始采集材料与构建输入不进入网站包。具体白名单见 [scripts/stage-site.mjs](./scripts/stage-site.mjs)。
 
-## 发布
-
-PR运行校验，`main`通过校验后由GitHub Actions部署到GitHub Pages。仓库的Pages来源需设为GitHub Actions。发布脚本只复制以下文件：
-
-本地可运行 `npm run build` 完成校验并生成 `_site/` 发布包。
-
-- `index.html`
-- `methodology.html`
-- `404.html`
-- `styles.css`
-- `app.js`
-- `data/faculty.public.json`
-- `data/statistics.json`
-- `data/data-version.json`
-- `DATA_NOTICE.md`
-
-GitHub Actions 不直接访问学院官网；官网刷新在本地可见浏览器环境中完成，复核后再生成公开数据。
-
-部署失败可在Actions查看校验和发布日志；回滚可恢复已验证的提交后重新发布。
+CI不直接访问学院官网。`data-version.json`中的SHA-256只用于验证公开输入的一致性；独立署名补核以逐条`authorVerification`出处为准，不表示所有事实都已向资助方、出版社或颁奖单位核验。部署失败可查看Actions日志，回滚通过恢复已验证的提交并重新部署。
 
 ## 许可与数据说明
 
-原创代码采用 MIT License。学院官网数据、教师资料和证据摘录不属于 MIT 授权范围，详见 [DATA_NOTICE.md](./DATA_NOTICE.md)。
+原创代码采用MIT License；学院官网内容、教师资料和摘录不属于MIT授权范围。公开数据不含邮箱、电话、办公地点、照片、完整履历、原始HTML、运行日志或浏览器状态。详见 [DATA_NOTICE.md](./DATA_NOTICE.md)。

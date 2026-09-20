@@ -3,10 +3,10 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="电子科技大学公共管理学院教师研究导航。检索教师研究方向，按学系、职称和官网证据评级筛选。">
+  <meta name="description" content="电子科技大学公共管理学院教师研究导航。检索教师研究方向，按学系、职称和公开履历分级筛选。">
   <meta name="theme-color" content="#ffffff">
   <title>公管教师研究导航 · UESTC SPA Faculty Explorer</title>
-  <link rel="stylesheet" href="./styles.css">
+  <link rel="stylesheet" href="./styles.css?v=20260921-v3">
 </head>
 <body>
   <a class="skip-link" href="#explore">跳转到教师检索</a>
@@ -21,21 +21,21 @@
         <div class="search-row">
           <label class="search-field"><span class="sr-only">搜索教师或研究方向</span><input id="search" type="search" placeholder="搜索姓名或研究方向" autocomplete="off"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m21 21-4.35-4.35m2.35-5.65a8 8 0 1 1-16 0 8 8 0 0 1 16 0Z"/></svg></label>
           <label class="select-field"><span class="sr-only">按职称筛选</span><select id="title" aria-label="按职称筛选"><option value="">全部职称</option></select></label>
-          <label class="select-field"><span class="sr-only">按官网证据评级筛选</span><select id="grade" aria-label="按官网证据评级筛选"><option value="">全部评级</option><option value="S">S 级</option><option value="A">A 级</option><option value="B">B 级</option><option value="C">C 级</option><option value="D">D 级</option><option value="E">E 级</option></select></label>
+          <label class="select-field"><span class="sr-only">按公开履历分级筛选</span><select id="grade" aria-label="按公开履历分级筛选"><option value="">全部分级</option><option value="S">S 级</option><option value="A">A 级</option><option value="B">B 级</option><option value="C">C 级</option><option value="D">D 级</option><option value="E">E 级</option><option value="U">资料不足</option></select></label>
         </div>
       </div>
       <div class="department-row">
         <div id="department-tabs" class="department-tabs" role="group" aria-label="按学系或目录筛选"><button type="button" class="active" data-department="" aria-pressed="true">全部</button></div>
-        <label class="sort-field"><span class="sr-only">排序</span><select id="sort" aria-label="排序方式"><option value="score">评级从高到低</option><option value="directory">官网目录顺序</option><option value="name">姓名拼音</option></select></label>
+        <label class="sort-field"><span class="sr-only">排序</span><select id="sort" aria-label="排序方式"><option value="score">分级从高到低</option><option value="directory">官网目录顺序</option><option value="name">姓名拼音</option></select></label>
       </div>
       <div id="active-filter-row" class="active-filter-row" hidden><div id="active-filters" class="active-filters" aria-label="当前筛选条件"></div><button id="reset-filters" class="text-button" type="button">清空筛选</button></div>
       <div id="faculty-grid" class="faculty-grid" aria-busy="true"><div class="loading-state">正在载入教师资料…</div></div>
       <div class="pagination"><span id="display-count"></span><button id="load-more" class="button load-more" type="button" hidden>加载更多 <span aria-hidden="true">↓</span></button></div>
     </section>
   </main>
-  <footer><div><a href="https://spa.uestc.edu.cn/szdw/jsml/xsszm.htm" target="_blank" rel="noreferrer">来源：学院官网</a><span>资料采集：<span id="snapshot-date">2026-09-20</span></span></div><div><a href="./methodology.html">官网证据评级说明</a><a href="https://github.com/yaowenhu-pm/uestc-spa-faculty-explorer" target="_blank" rel="noreferrer">GitHub ↗</a></div></footer>
+  <footer><div><a href="https://spa.uestc.edu.cn/szdw/jsml/xsszm.htm" target="_blank" rel="noreferrer">来源：学院官网</a><span>资料采集：<span id="snapshot-date">2026-09-20</span></span></div><div><a href="./methodology.html">公开履历分级说明</a><a href="https://github.com/yaowenhu-pm/uestc-spa-faculty-explorer" target="_blank" rel="noreferrer">GitHub ↗</a></div></footer>
   <dialog id="faculty-dialog" aria-labelledby="dialog-name"><button id="dialog-close" class="dialog-close" aria-label="关闭详情" type="button">×</button><div id="dialog-content"></div></dialog>
   <template id="empty-template"><div class="empty-state"><strong>没有找到匹配的教师</strong><p>换个关键词，或移除筛选条件。</p><button class="button secondary" type="button" data-reset>清空筛选</button></div></template>
-  <script type="module" src="./app.js?v=20260921-sort"></script>
+  <script type="module" src="./app.js?v=20260921-v3"></script>
 </body>
 </html>
