@@ -1,7 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import fs from 'node:fs/promises';
-import {buildFaculty,gradeForScore,validateSource,assertSafe,assessEvidence,workPoints,RUBRIC_VERSION} from '../scripts/build-public-data.mjs';
+import {buildFaculty,gradeForScore,subgradeForScore,validateSource,assertSafe,assessEvidence,workPoints,RUBRIC_VERSION} from '../scripts/build-public-data.mjs';
 const source=JSON.parse(await fs.readFile(new URL('../data/faculty.source.json',import.meta.url),'utf8'));
 const faculty=JSON.parse(await fs.readFile(new URL('../data/faculty.public.json',import.meta.url),'utf8'));
 const work=(year=2025,role='first-listed',venue='研究期刊')=>({component:'publications',criterion:'research_article',title:`研究成果${year}`,year,role,venue,excerpt:`张三，研究成果，研究期刊，${year}`,sourceUrl:source[0].profileUrl});
@@ -20,6 +20,22 @@ test('grade gates are applied before intervals and are not population quotas',()
   assert.equal(gradeForScore(74,{projects:17,publications:14}),'B');
   assert.equal(gradeForScore(60,{projects:0,publications:15}),'A');
   assert.equal(gradeForScore(99,{eligible:false,hasGate:true,projects:30}),'U');
+});
+test('plus and minus bands have fixed five-point boundaries within each base grade',()=>{
+  for(const [grade,low]of [['A',60],['B',45],['C',30],['D',15]]){
+    assert.deepEqual([low,low+4,low+5,low+9,low+10,low+14].map(score=>subgradeForScore(grade,score)),[`${grade}-`,`${grade}-`,grade,grade,`${grade}+`,`${grade}+`]);
+  }
+  assert.equal(subgradeForScore('S',88),'S');
+  assert.equal(subgradeForScore('E',12),'E');
+  assert.equal(subgradeForScore('U',null),'U');
+});
+test('high scores cannot use plus labels to bypass S or A research gates',()=>{
+  const grade=(score,options)=>subgradeForScore(gradeForScore(score,options),score);
+  assert.equal(grade(79,{projects:27}),'A+');
+  assert.equal(grade(79,{hasGate:true,projects:27}),'S');
+  assert.equal(grade(79,{projects:17,publications:14}),'B+');
+  assert.equal(grade(60,{projects:17,publications:15}),'A-');
+  assert.equal(grade(99,{eligible:false,hasGate:true,projects:30}),'U');
 });
 test('one youth project does not max out projects; repeat independent leadership is bounded',()=>{
   assert.equal(assessEvidence([project()]).scoreComponents.projects,12);
@@ -57,6 +73,7 @@ test('insufficient records retain known evidence but expose no numeric total',()
   const input=structuredClone(source);input[0].evidence=[];
   const output=buildFaculty(input)[0];
   assert.equal(output.evidenceGrade,'U');assert.equal(output.evidenceScore,null);
+  assert.equal(output.evidenceSubgrade,'U');
   assert.equal(output.assessmentStatus,'insufficient');
 });
 test('private fields and contacts are rejected before export',()=>{

@@ -13,6 +13,7 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "U",
+    "evidenceSubgrade": "U",
     "evidenceScore": null,
     "evidenceLabel": "资料不足",
     "verdict": "本次仅确认0件可定位成果、0项角色明确的科研项目，尚不足以按本规则分级。",
@@ -65,7 +66,7 @@
     "directoryOrder": 1,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "insufficient",
     "coverage": {
       "projects": 0,
@@ -80,6 +81,7 @@
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖0个近期年度，持续性加0分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -97,9 +99,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "C",
+    "evidenceSubgrade": "C+",
     "evidenceScore": 42,
     "evidenceLabel": "已有研究积累",
-    "verdict": "总分42，位于30–44分档；反映本次已确认的公开履历信号。",
+    "verdict": "总分42，进入C档；按40–44分分段细分为C+。",
     "scoreComponents": {
       "hardSignal": 6,
       "projects": 12,
@@ -185,7 +188,7 @@
     "directoryOrder": 2,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 4,
@@ -194,12 +197,13 @@
       "explicitRoleWorks": 5,
       "summary": "本次选取：4项角色明确项目 · 5件可定位成果，其中2021年以来5件。"
     },
-    "gradeReason": "总分42，位于30–44分档；反映本次已确认的公开履历信号。",
+    "gradeReason": "总分42，进入C档；按40–44分分段细分为C+。",
     "scoringNotes": [
       "科研项目：最高基础档12分；确认1项可计加分的独立国家主持项目，追加0分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖4个近期年度，持续性加3分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -217,9 +221,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "D",
+    "evidenceSubgrade": "D+",
     "evidenceScore": 29,
     "evidenceLabel": "已见部分研究经历",
-    "verdict": "总分29，位于15–29分档；反映本次已确认的公开履历信号。",
+    "verdict": "总分29，进入D档；按25–29分分段细分为D+。",
     "scoreComponents": {
       "hardSignal": 0,
       "projects": 12,
@@ -285,7 +290,7 @@
     "directoryOrder": 3,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 2,
@@ -294,12 +299,13 @@
       "explicitRoleWorks": 5,
       "summary": "本次选取：2项角色明确项目 · 5件可定位成果，其中2021年以来1件。"
     },
-    "gradeReason": "总分29，位于15–29分档；反映本次已确认的公开履历信号。",
+    "gradeReason": "总分29，进入D档；按25–29分分段细分为D+。",
     "scoringNotes": [
       "科研项目：最高基础档12分；确认1项可计加分的独立国家主持项目，追加0分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖1个近期年度，持续性加0分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -317,9 +323,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "B",
+    "evidenceSubgrade": "B-",
     "evidenceScore": 45,
     "evidenceLabel": "多项研究经历",
-    "verdict": "总分45，位于45–59分档；反映本次已确认的公开履历信号。",
+    "verdict": "总分45，进入B档；按45–49分分段细分为B−。",
     "scoreComponents": {
       "hardSignal": 6,
       "projects": 12,
@@ -412,7 +419,7 @@
     "directoryOrder": 4,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 4,
@@ -421,12 +428,13 @@
       "explicitRoleWorks": 3,
       "summary": "本次选取：4项角色明确项目 · 5件可定位成果，其中2021年以来5件。"
     },
-    "gradeReason": "总分45，位于45–59分档；反映本次已确认的公开履历信号。",
+    "gradeReason": "总分45，进入B档；按45–49分分段细分为B−。",
     "scoringNotes": [
       "科研项目：最高基础档12分；确认1项可计加分的独立国家主持项目，追加0分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖4个近期年度，持续性加3分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -445,9 +453,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "B",
+    "evidenceSubgrade": "B",
     "evidenceScore": 51,
     "evidenceLabel": "多项研究经历",
-    "verdict": "总分51，位于45–59分档；反映本次已确认的公开履历信号。",
+    "verdict": "总分51，进入B档；按50–54分分段细分为B。",
     "scoreComponents": {
       "hardSignal": 18,
       "projects": 21,
@@ -522,7 +531,7 @@
     "directoryOrder": 5,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 2,
@@ -531,12 +540,13 @@
       "explicitRoleWorks": 2,
       "summary": "本次选取：2项角色明确项目 · 5件可定位成果，其中2021年以来2件。"
     },
-    "gradeReason": "总分51，位于45–59分档；反映本次已确认的公开履历信号。",
+    "gradeReason": "总分51，进入B档；按50–54分分段细分为B。",
     "scoringNotes": [
       "科研项目：最高基础档18分；确认2项可计加分的独立国家主持项目，追加3分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖2个近期年度，持续性加0分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -554,9 +564,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "C",
+    "evidenceSubgrade": "C",
     "evidenceScore": 35,
     "evidenceLabel": "已有研究积累",
-    "verdict": "总分35，位于30–44分档；反映本次已确认的公开履历信号。",
+    "verdict": "总分35，进入C档；按35–39分分段细分为C。",
     "scoreComponents": {
       "hardSignal": 0,
       "projects": 12,
@@ -654,7 +665,7 @@
     "directoryOrder": 6,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 2,
@@ -663,12 +674,13 @@
       "explicitRoleWorks": 4,
       "summary": "本次选取：2项角色明确项目 · 5件可定位成果，其中2021年以来5件。"
     },
-    "gradeReason": "总分35，位于30–44分档；反映本次已确认的公开履历信号。",
+    "gradeReason": "总分35，进入C档；按35–39分分段细分为C。",
     "scoringNotes": [
       "科研项目：最高基础档12分；确认1项可计加分的独立国家主持项目，追加0分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖3个近期年度，持续性加3分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -686,6 +698,7 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "U",
+    "evidenceSubgrade": "U",
     "evidenceScore": null,
     "evidenceLabel": "资料不足",
     "verdict": "本次仅确认0件可定位成果、0项角色明确的科研项目，尚不足以按本规则分级。",
@@ -736,7 +749,7 @@
     "directoryOrder": 7,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "insufficient",
     "coverage": {
       "projects": 0,
@@ -751,6 +764,7 @@
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖0个近期年度，持续性加0分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -769,9 +783,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "A",
+    "evidenceSubgrade": "A",
     "evidenceScore": 69,
     "evidenceLabel": "较强研究履历",
-    "verdict": "总分69；项目达到18分研究门槛，符合A级条件。",
+    "verdict": "总分69；项目达到18分研究门槛，进入A档；按65–69分分段细分为A。",
     "scoreComponents": {
       "hardSignal": 22,
       "projects": 19,
@@ -869,7 +884,7 @@
     "directoryOrder": 8,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 5,
@@ -878,12 +893,13 @@
       "explicitRoleWorks": 5,
       "summary": "本次选取：5项角色明确项目 · 5件可定位成果，其中2021年以来5件。"
     },
-    "gradeReason": "总分69；项目达到18分研究门槛，符合A级条件。",
+    "gradeReason": "总分69；项目达到18分研究门槛，进入A档；按65–69分分段细分为A。",
     "scoringNotes": [
       "科研项目：最高基础档16分；确认2项可计加分的独立国家主持项目，追加3分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖4个近期年度，持续性加3分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -902,9 +918,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "B",
+    "evidenceSubgrade": "B",
     "evidenceScore": 52,
     "evidenceLabel": "多项研究经历",
-    "verdict": "总分52，位于45–59分档；反映本次已确认的公开履历信号。",
+    "verdict": "总分52，进入B档；按50–54分分段细分为B。",
     "scoreComponents": {
       "hardSignal": 18,
       "projects": 12,
@@ -997,7 +1014,7 @@
     "directoryOrder": 9,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 3,
@@ -1006,12 +1023,13 @@
       "explicitRoleWorks": 4,
       "summary": "本次选取：3项角色明确项目 · 5件可定位成果，其中2021年以来2件。"
     },
-    "gradeReason": "总分52，位于45–59分档；反映本次已确认的公开履历信号。",
+    "gradeReason": "总分52，进入B档；按50–54分分段细分为B。",
     "scoringNotes": [
       "科研项目：最高基础档12分；确认1项可计加分的独立国家主持项目，追加0分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖2个近期年度，持续性加0分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -1029,9 +1047,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "D",
+    "evidenceSubgrade": "D-",
     "evidenceScore": 18,
     "evidenceLabel": "已见部分研究经历",
-    "verdict": "总分18，位于15–29分档；反映本次已确认的公开履历信号。",
+    "verdict": "总分18，进入D档；按15–19分分段细分为D−。",
     "scoreComponents": {
       "hardSignal": 0,
       "projects": 0,
@@ -1092,7 +1111,7 @@
     "directoryOrder": 10,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 0,
@@ -1101,12 +1120,13 @@
       "explicitRoleWorks": 5,
       "summary": "本次选取：0项角色明确项目 · 5件可定位成果，其中2021年以来0件。"
     },
-    "gradeReason": "总分18，位于15–29分档；反映本次已确认的公开履历信号。",
+    "gradeReason": "总分18，进入D档；按15–19分分段细分为D−。",
     "scoringNotes": [
       "科研项目：最高基础档0分；确认0项可计加分的独立国家主持项目，追加0分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖0个近期年度，持续性加0分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -1125,9 +1145,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "C",
+    "evidenceSubgrade": "C+",
     "evidenceScore": 40,
     "evidenceLabel": "已有研究积累",
-    "verdict": "总分40，位于30–44分档；反映本次已确认的公开履历信号。",
+    "verdict": "总分40，进入C档；按40–44分分段细分为C+。",
     "scoreComponents": {
       "hardSignal": 6,
       "projects": 8,
@@ -1226,7 +1247,7 @@
     "directoryOrder": 11,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 5,
@@ -1235,12 +1256,13 @@
       "explicitRoleWorks": 4,
       "summary": "本次选取：5项角色明确项目 · 5件可定位成果，其中2021年以来5件。"
     },
-    "gradeReason": "总分40，位于30–44分档；反映本次已确认的公开履历信号。",
+    "gradeReason": "总分40，进入C档；按40–44分分段细分为C+。",
     "scoringNotes": [
       "科研项目：最高基础档8分；确认0项可计加分的独立国家主持项目，追加0分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖5个近期年度，持续性加5分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -1258,9 +1280,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "D",
+    "evidenceSubgrade": "D+",
     "evidenceScore": 28,
     "evidenceLabel": "已见部分研究经历",
-    "verdict": "总分28，位于15–29分档；反映本次已确认的公开履历信号。",
+    "verdict": "总分28，进入D档；按25–29分分段细分为D+。",
     "scoreComponents": {
       "hardSignal": 0,
       "projects": 8,
@@ -1344,7 +1367,7 @@
     "directoryOrder": 12,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 5,
@@ -1353,12 +1376,13 @@
       "explicitRoleWorks": 5,
       "summary": "本次选取：5项角色明确项目 · 5件可定位成果，其中2021年以来2件。"
     },
-    "gradeReason": "总分28，位于15–29分档；反映本次已确认的公开履历信号。",
+    "gradeReason": "总分28，进入D档；按25–29分分段细分为D+。",
     "scoringNotes": [
       "科研项目：最高基础档8分；确认0项可计加分的独立国家主持项目，追加0分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖1个近期年度，持续性加0分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -1376,9 +1400,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "C",
+    "evidenceSubgrade": "C",
     "evidenceScore": 38,
     "evidenceLabel": "已有研究积累",
-    "verdict": "总分38，位于30–44分档；反映本次已确认的公开履历信号。",
+    "verdict": "总分38，进入C档；按35–39分分段细分为C。",
     "scoreComponents": {
       "hardSignal": 6,
       "projects": 2,
@@ -1477,7 +1502,7 @@
     "directoryOrder": 13,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 0,
@@ -1486,12 +1511,13 @@
       "explicitRoleWorks": 5,
       "summary": "本次选取：0项角色明确项目 · 5件可定位成果，其中2021年以来5件。"
     },
-    "gradeReason": "总分38，位于30–44分档；反映本次已确认的公开履历信号。",
+    "gradeReason": "总分38，进入C档；按35–39分分段细分为C。",
     "scoringNotes": [
       "科研项目：最高基础档2分；确认0项可计加分的独立国家主持项目，追加0分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖3个近期年度，持续性加3分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -1509,9 +1535,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "C",
+    "evidenceSubgrade": "C",
     "evidenceScore": 36,
     "evidenceLabel": "已有研究积累",
-    "verdict": "总分36，位于30–44分档；反映本次已确认的公开履历信号。",
+    "verdict": "总分36，进入C档；按35–39分分段细分为C。",
     "scoreComponents": {
       "hardSignal": 0,
       "projects": 18,
@@ -1597,7 +1624,7 @@
     "directoryOrder": 14,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 5,
@@ -1606,12 +1633,13 @@
       "explicitRoleWorks": 4,
       "summary": "本次选取：5项角色明确项目 · 4件可定位成果，其中2021年以来1件。"
     },
-    "gradeReason": "总分36，位于30–44分档；反映本次已确认的公开履历信号。",
+    "gradeReason": "总分36，进入C档；按35–39分分段细分为C。",
     "scoringNotes": [
       "科研项目：最高基础档18分；确认1项可计加分的独立国家主持项目，追加0分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖1个近期年度，持续性加0分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -1628,9 +1656,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "C",
+    "evidenceSubgrade": "C",
     "evidenceScore": 35,
     "evidenceLabel": "已有研究积累",
-    "verdict": "总分35，位于30–44分档；反映本次已确认的公开履历信号。",
+    "verdict": "总分35，进入C档；按35–39分分段细分为C。",
     "scoreComponents": {
       "hardSignal": 18,
       "projects": 2,
@@ -1706,7 +1735,7 @@
     "directoryOrder": 15,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 0,
@@ -1715,12 +1744,13 @@
       "explicitRoleWorks": 4,
       "summary": "本次选取：0项角色明确项目 · 5件可定位成果，其中2021年以来1件。"
     },
-    "gradeReason": "总分35，位于30–44分档；反映本次已确认的公开履历信号。",
+    "gradeReason": "总分35，进入C档；按35–39分分段细分为C。",
     "scoringNotes": [
       "科研项目：最高基础档2分；确认0项可计加分的独立国家主持项目，追加0分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖1个近期年度，持续性加0分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -1739,9 +1769,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "C",
+    "evidenceSubgrade": "C",
     "evidenceScore": 38,
     "evidenceLabel": "已有研究积累",
-    "verdict": "总分38，位于30–44分档；反映本次已确认的公开履历信号。",
+    "verdict": "总分38，进入C档；按35–39分分段细分为C。",
     "scoreComponents": {
       "hardSignal": 22,
       "projects": 0,
@@ -1811,7 +1842,7 @@
     "directoryOrder": 16,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 0,
@@ -1820,12 +1851,13 @@
       "explicitRoleWorks": 0,
       "summary": "本次选取：0项角色明确项目 · 5件可定位成果，其中2021年以来2件。"
     },
-    "gradeReason": "总分38，位于30–44分档；反映本次已确认的公开履历信号。",
+    "gradeReason": "总分38，进入C档；按35–39分分段细分为C。",
     "scoringNotes": [
       "科研项目：最高基础档0分；确认0项可计加分的独立国家主持项目，追加0分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖2个近期年度，持续性加0分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -1842,9 +1874,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "A",
+    "evidenceSubgrade": "A+",
     "evidenceScore": 79,
     "evidenceLabel": "较强研究履历",
-    "verdict": "总分79；项目达到18分研究门槛，符合A级条件；未满足S级额外门槛。",
+    "verdict": "总分79；项目达到18分研究门槛，进入A档；按70分及以上分段细分为A+，尚未满足S级额外门槛。",
     "scoreComponents": {
       "hardSignal": 22,
       "projects": 27,
@@ -1942,7 +1975,7 @@
     "directoryOrder": 17,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 5,
@@ -1951,12 +1984,13 @@
       "explicitRoleWorks": 5,
       "summary": "本次选取：5项角色明确项目 · 5件可定位成果，其中2021年以来5件。"
     },
-    "gradeReason": "总分79；项目达到18分研究门槛，符合A级条件；未满足S级额外门槛。",
+    "gradeReason": "总分79；项目达到18分研究门槛，进入A档；按70分及以上分段细分为A+，尚未满足S级额外门槛。",
     "scoringNotes": [
       "科研项目：最高基础档24分；确认2项可计加分的独立国家主持项目，追加3分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖4个近期年度，持续性加3分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -1974,9 +2008,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "D",
+    "evidenceSubgrade": "D-",
     "evidenceScore": 19,
     "evidenceLabel": "已见部分研究经历",
-    "verdict": "总分19，位于15–29分档；反映本次已确认的公开履历信号。",
+    "verdict": "总分19，进入D档；按15–19分分段细分为D−。",
     "scoreComponents": {
       "hardSignal": 0,
       "projects": 3,
@@ -2048,7 +2083,7 @@
     "directoryOrder": 18,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 4,
@@ -2057,12 +2092,13 @@
       "explicitRoleWorks": 4,
       "summary": "本次选取：4项角色明确项目 · 4件可定位成果，其中2021年以来1件。"
     },
-    "gradeReason": "总分19，位于15–29分档；反映本次已确认的公开履历信号。",
+    "gradeReason": "总分19，进入D档；按15–19分分段细分为D−。",
     "scoringNotes": [
       "科研项目：最高基础档3分；确认0项可计加分的独立国家主持项目，追加0分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖1个近期年度，持续性加0分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -2080,9 +2116,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "B",
+    "evidenceSubgrade": "B",
     "evidenceScore": 50,
     "evidenceLabel": "多项研究经历",
-    "verdict": "总分50，位于45–59分档；反映本次已确认的公开履历信号。",
+    "verdict": "总分50，进入B档；按50–54分分段细分为B。",
     "scoreComponents": {
       "hardSignal": 22,
       "projects": 12,
@@ -2169,7 +2206,7 @@
     "directoryOrder": 19,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 4,
@@ -2178,12 +2215,13 @@
       "explicitRoleWorks": 4,
       "summary": "本次选取：4项角色明确项目 · 5件可定位成果，其中2021年以来1件。"
     },
-    "gradeReason": "总分50，位于45–59分档；反映本次已确认的公开履历信号。",
+    "gradeReason": "总分50，进入B档；按50–54分分段细分为B。",
     "scoringNotes": [
       "科研项目：最高基础档12分；确认1项可计加分的独立国家主持项目，追加0分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖1个近期年度，持续性加0分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -2201,9 +2239,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "D",
+    "evidenceSubgrade": "D-",
     "evidenceScore": 17,
     "evidenceLabel": "已见部分研究经历",
-    "verdict": "总分17，位于15–29分档；反映本次已确认的公开履历信号。",
+    "verdict": "总分17，进入D档；按15–19分分段细分为D−。",
     "scoreComponents": {
       "hardSignal": 0,
       "projects": 8,
@@ -2283,7 +2322,7 @@
     "directoryOrder": 20,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 4,
@@ -2292,12 +2331,13 @@
       "explicitRoleWorks": 0,
       "summary": "本次选取：4项角色明确项目 · 4件可定位成果，其中2021年以来0件。"
     },
-    "gradeReason": "总分17，位于15–29分档；反映本次已确认的公开履历信号。",
+    "gradeReason": "总分17，进入D档；按15–19分分段细分为D−。",
     "scoringNotes": [
       "科研项目：最高基础档8分；确认0项可计加分的独立国家主持项目，追加0分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖0个近期年度，持续性加0分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -2316,9 +2356,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "A",
+    "evidenceSubgrade": "A",
     "evidenceScore": 68,
     "evidenceLabel": "较强研究履历",
-    "verdict": "总分68；项目达到18分研究门槛，符合A级条件。",
+    "verdict": "总分68；项目达到18分研究门槛，进入A档；按65–69分分段细分为A。",
     "scoreComponents": {
       "hardSignal": 18,
       "projects": 30,
@@ -2418,7 +2459,7 @@
     "directoryOrder": 21,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 5,
@@ -2427,12 +2468,13 @@
       "explicitRoleWorks": 0,
       "summary": "本次选取：5项角色明确项目 · 5件可定位成果，其中2021年以来5件。"
     },
-    "gradeReason": "总分68；项目达到18分研究门槛，符合A级条件。",
+    "gradeReason": "总分68；项目达到18分研究门槛，进入A档；按65–69分分段细分为A。",
     "scoringNotes": [
       "科研项目：最高基础档30分；确认4项可计加分的独立国家主持项目，追加6分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖3个近期年度，持续性加3分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -2451,9 +2493,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "B",
+    "evidenceSubgrade": "B",
     "evidenceScore": 53,
     "evidenceLabel": "多项研究经历",
-    "verdict": "总分53，位于45–59分档；反映本次已确认的公开履历信号。",
+    "verdict": "总分53，进入B档；按50–54分分段细分为B。",
     "scoreComponents": {
       "hardSignal": 18,
       "projects": 2,
@@ -2552,7 +2595,7 @@
     "directoryOrder": 22,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 0,
@@ -2561,12 +2604,13 @@
       "explicitRoleWorks": 5,
       "summary": "本次选取：0项角色明确项目 · 5件可定位成果，其中2021年以来5件。"
     },
-    "gradeReason": "总分53，位于45–59分档；反映本次已确认的公开履历信号。",
+    "gradeReason": "总分53，进入B档；按50–54分分段细分为B。",
     "scoringNotes": [
       "科研项目：最高基础档2分；确认0项可计加分的独立国家主持项目，追加0分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖5个近期年度，持续性加5分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -2584,9 +2628,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "B",
+    "evidenceSubgrade": "B-",
     "evidenceScore": 45,
     "evidenceLabel": "多项研究经历",
-    "verdict": "总分45，位于45–59分档；反映本次已确认的公开履历信号。",
+    "verdict": "总分45，进入B档；按45–49分分段细分为B−。",
     "scoreComponents": {
       "hardSignal": 0,
       "projects": 12,
@@ -2676,7 +2721,7 @@
     "directoryOrder": 23,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 5,
@@ -2685,12 +2730,13 @@
       "explicitRoleWorks": 5,
       "summary": "本次选取：5项角色明确项目 · 5件可定位成果，其中2021年以来5件。"
     },
-    "gradeReason": "总分45，位于45–59分档；反映本次已确认的公开履历信号。",
+    "gradeReason": "总分45，进入B档；按45–49分分段细分为B−。",
     "scoringNotes": [
       "科研项目：最高基础档12分；确认1项可计加分的独立国家主持项目，追加0分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖4个近期年度，持续性加3分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -2709,9 +2755,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "A",
+    "evidenceSubgrade": "A",
     "evidenceScore": 69,
     "evidenceLabel": "较强研究履历",
-    "verdict": "总分69；项目达到18分研究门槛，符合A级条件。",
+    "verdict": "总分69；项目达到18分研究门槛，进入A档；按65–69分分段细分为A。",
     "scoreComponents": {
       "hardSignal": 18,
       "projects": 18,
@@ -2809,7 +2856,7 @@
     "directoryOrder": 24,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 5,
@@ -2818,12 +2865,13 @@
       "explicitRoleWorks": 5,
       "summary": "本次选取：5项角色明确项目 · 5件可定位成果，其中2021年以来5件。"
     },
-    "gradeReason": "总分69；项目达到18分研究门槛，符合A级条件。",
+    "gradeReason": "总分69；项目达到18分研究门槛，进入A档；按65–69分分段细分为A。",
     "scoringNotes": [
       "科研项目：最高基础档18分；确认1项可计加分的独立国家主持项目，追加0分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖5个近期年度，持续性加5分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -2841,9 +2889,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "C",
+    "evidenceSubgrade": "C",
     "evidenceScore": 36,
     "evidenceLabel": "已有研究积累",
-    "verdict": "总分36，位于30–44分档；反映本次已确认的公开履历信号。",
+    "verdict": "总分36，进入C档；按35–39分分段细分为C。",
     "scoreComponents": {
       "hardSignal": 0,
       "projects": 8,
@@ -2921,7 +2970,7 @@
     "directoryOrder": 25,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 4,
@@ -2930,12 +2979,13 @@
       "explicitRoleWorks": 5,
       "summary": "本次选取：4项角色明确项目 · 5件可定位成果，其中2021年以来5件。"
     },
-    "gradeReason": "总分36，位于30–44分档；反映本次已确认的公开履历信号。",
+    "gradeReason": "总分36，进入C档；按35–39分分段细分为C。",
     "scoringNotes": [
       "科研项目：最高基础档8分；确认0项可计加分的独立国家主持项目，追加0分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖3个近期年度，持续性加3分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -2954,9 +3004,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "C",
+    "evidenceSubgrade": "C-",
     "evidenceScore": 34,
     "evidenceLabel": "已有研究积累",
-    "verdict": "总分34，位于30–44分档；反映本次已确认的公开履历信号。",
+    "verdict": "总分34，进入C档；按30–34分分段细分为C−。",
     "scoreComponents": {
       "hardSignal": 0,
       "projects": 8,
@@ -3035,7 +3086,7 @@
     "directoryOrder": 26,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 4,
@@ -3044,12 +3095,13 @@
       "explicitRoleWorks": 4,
       "summary": "本次选取：4项角色明确项目 · 5件可定位成果，其中2021年以来5件。"
     },
-    "gradeReason": "总分34，位于30–44分档；反映本次已确认的公开履历信号。",
+    "gradeReason": "总分34，进入C档；按30–34分分段细分为C−。",
     "scoringNotes": [
       "科研项目：最高基础档8分；确认0项可计加分的独立国家主持项目，追加0分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖3个近期年度，持续性加3分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -3068,9 +3120,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "D",
+    "evidenceSubgrade": "D",
     "evidenceScore": 20,
     "evidenceLabel": "已见部分研究经历",
-    "verdict": "总分20，位于15–29分档；反映本次已确认的公开履历信号。",
+    "verdict": "总分20，进入D档；按20–24分分段细分为D。",
     "scoreComponents": {
       "hardSignal": 0,
       "projects": 0,
@@ -3131,7 +3184,7 @@
     "directoryOrder": 27,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 0,
@@ -3140,12 +3193,13 @@
       "explicitRoleWorks": 5,
       "summary": "本次选取：0项角色明确项目 · 5件可定位成果，其中2021年以来0件。"
     },
-    "gradeReason": "总分20，位于15–29分档；反映本次已确认的公开履历信号。",
+    "gradeReason": "总分20，进入D档；按20–24分分段细分为D。",
     "scoringNotes": [
       "科研项目：最高基础档0分；确认0项可计加分的独立国家主持项目，追加0分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖0个近期年度，持续性加0分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -3164,9 +3218,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "B",
+    "evidenceSubgrade": "B-",
     "evidenceScore": 47,
     "evidenceLabel": "多项研究经历",
-    "verdict": "总分47，位于45–59分档；反映本次已确认的公开履历信号。",
+    "verdict": "总分47，进入B档；按45–49分分段细分为B−。",
     "scoreComponents": {
       "hardSignal": 0,
       "projects": 12,
@@ -3256,7 +3311,7 @@
     "directoryOrder": 28,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 5,
@@ -3265,12 +3320,13 @@
       "explicitRoleWorks": 5,
       "summary": "本次选取：5项角色明确项目 · 5件可定位成果，其中2021年以来5件。"
     },
-    "gradeReason": "总分47，位于45–59分档；反映本次已确认的公开履历信号。",
+    "gradeReason": "总分47，进入B档；按45–49分分段细分为B−。",
     "scoringNotes": [
       "科研项目：最高基础档12分；确认1项可计加分的独立国家主持项目，追加0分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖5个近期年度，持续性加5分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -3289,9 +3345,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "C",
+    "evidenceSubgrade": "C",
     "evidenceScore": 36,
     "evidenceLabel": "已有研究积累",
-    "verdict": "总分36，位于30–44分档；反映本次已确认的公开履历信号。",
+    "verdict": "总分36，进入C档；按35–39分分段细分为C。",
     "scoreComponents": {
       "hardSignal": 0,
       "projects": 15,
@@ -3382,7 +3439,7 @@
     "directoryOrder": 29,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 5,
@@ -3391,12 +3448,13 @@
       "explicitRoleWorks": 1,
       "summary": "本次选取：5项角色明确项目 · 5件可定位成果，其中2021年以来5件。"
     },
-    "gradeReason": "总分36，位于30–44分档；反映本次已确认的公开履历信号。",
+    "gradeReason": "总分36，进入C档；按35–39分分段细分为C。",
     "scoringNotes": [
       "科研项目：最高基础档12分；确认2项可计加分的独立国家主持项目，追加3分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖3个近期年度，持续性加3分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -3413,9 +3471,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "A",
+    "evidenceSubgrade": "A+",
     "evidenceScore": 76,
     "evidenceLabel": "较强研究履历",
-    "verdict": "总分76；项目达到18分研究门槛，符合A级条件；未满足S级额外门槛。",
+    "verdict": "总分76；项目达到18分研究门槛，进入A档；按70分及以上分段细分为A+，尚未满足S级额外门槛。",
     "scoreComponents": {
       "hardSignal": 18,
       "projects": 24,
@@ -3513,7 +3572,7 @@
     "directoryOrder": 30,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 5,
@@ -3522,12 +3581,13 @@
       "explicitRoleWorks": 5,
       "summary": "本次选取：5项角色明确项目 · 5件可定位成果，其中2021年以来5件。"
     },
-    "gradeReason": "总分76；项目达到18分研究门槛，符合A级条件；未满足S级额外门槛。",
+    "gradeReason": "总分76；项目达到18分研究门槛，进入A档；按70分及以上分段细分为A+，尚未满足S级额外门槛。",
     "scoringNotes": [
       "科研项目：最高基础档18分；确认3项可计加分的独立国家主持项目，追加6分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖5个近期年度，持续性加5分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -3546,9 +3606,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "A",
+    "evidenceSubgrade": "A+",
     "evidenceScore": 76,
     "evidenceLabel": "较强研究履历",
-    "verdict": "总分76；项目达到18分研究门槛，符合A级条件；未满足S级额外门槛。",
+    "verdict": "总分76；项目达到18分研究门槛，进入A档；按70分及以上分段细分为A+，尚未满足S级额外门槛。",
     "scoreComponents": {
       "hardSignal": 18,
       "projects": 30,
@@ -3659,7 +3720,7 @@
     "directoryOrder": 31,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 5,
@@ -3668,12 +3729,13 @@
       "explicitRoleWorks": 5,
       "summary": "本次选取：5项角色明确项目 · 5件可定位成果，其中2021年以来3件。"
     },
-    "gradeReason": "总分76；项目达到18分研究门槛，符合A级条件；未满足S级额外门槛。",
+    "gradeReason": "总分76；项目达到18分研究门槛，进入A档；按70分及以上分段细分为A+，尚未满足S级额外门槛。",
     "scoringNotes": [
       "科研项目：最高基础档24分；确认3项可计加分的独立国家主持项目，追加6分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖3个近期年度，持续性加3分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -3692,9 +3754,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "D",
+    "evidenceSubgrade": "D+",
     "evidenceScore": 29,
     "evidenceLabel": "已见部分研究经历",
-    "verdict": "总分29，位于15–29分档；反映本次已确认的公开履历信号。",
+    "verdict": "总分29，进入D档；按25–29分分段细分为D+。",
     "scoreComponents": {
       "hardSignal": 0,
       "projects": 12,
@@ -3779,7 +3842,7 @@
     "directoryOrder": 32,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 4,
@@ -3788,12 +3851,13 @@
       "explicitRoleWorks": 3,
       "summary": "本次选取：4项角色明确项目 · 5件可定位成果，其中2021年以来3件。"
     },
-    "gradeReason": "总分29，位于15–29分档；反映本次已确认的公开履历信号。",
+    "gradeReason": "总分29，进入D档；按25–29分分段细分为D+。",
     "scoringNotes": [
       "科研项目：最高基础档12分；确认1项可计加分的独立国家主持项目，追加0分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖2个近期年度，持续性加0分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -3812,6 +3876,7 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "U",
+    "evidenceSubgrade": "U",
     "evidenceScore": null,
     "evidenceLabel": "资料不足",
     "verdict": "本次仅确认0件可定位成果、0项角色明确的科研项目，尚不足以按本规则分级。",
@@ -3852,7 +3917,7 @@
     "directoryOrder": 33,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "insufficient",
     "coverage": {
       "projects": 0,
@@ -3867,6 +3932,7 @@
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖0个近期年度，持续性加0分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -3885,9 +3951,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "D",
+    "evidenceSubgrade": "D+",
     "evidenceScore": 29,
     "evidenceLabel": "已见部分研究经历",
-    "verdict": "总分29，位于15–29分档；反映本次已确认的公开履历信号。",
+    "verdict": "总分29，进入D档；按25–29分分段细分为D+。",
     "scoreComponents": {
       "hardSignal": 6,
       "projects": 4,
@@ -3962,7 +4029,7 @@
     "directoryOrder": 34,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 1,
@@ -3971,12 +4038,13 @@
       "explicitRoleWorks": 2,
       "summary": "本次选取：1项角色明确项目 · 5件可定位成果，其中2021年以来5件。"
     },
-    "gradeReason": "总分29，位于15–29分档；反映本次已确认的公开履历信号。",
+    "gradeReason": "总分29，进入D档；按25–29分分段细分为D+。",
     "scoringNotes": [
       "科研项目：最高基础档4分；确认0项可计加分的独立国家主持项目，追加0分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖3个近期年度，持续性加3分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -3995,9 +4063,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "B",
+    "evidenceSubgrade": "B-",
     "evidenceScore": 47,
     "evidenceLabel": "多项研究经历",
-    "verdict": "总分47，位于45–59分档；反映本次已确认的公开履历信号。",
+    "verdict": "总分47，进入B档；按45–49分分段细分为B−。",
     "scoreComponents": {
       "hardSignal": 18,
       "projects": 2,
@@ -4097,7 +4166,7 @@
     "directoryOrder": 35,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 0,
@@ -4106,12 +4175,13 @@
       "explicitRoleWorks": 3,
       "summary": "本次选取：0项角色明确项目 · 5件可定位成果，其中2021年以来3件。"
     },
-    "gradeReason": "总分47，位于45–59分档；反映本次已确认的公开履历信号。",
+    "gradeReason": "总分47，进入B档；按45–49分分段细分为B−。",
     "scoringNotes": [
       "科研项目：最高基础档2分；确认0项可计加分的独立国家主持项目，追加0分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖3个近期年度，持续性加3分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -4130,9 +4200,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "C",
+    "evidenceSubgrade": "C-",
     "evidenceScore": 30,
     "evidenceLabel": "已有研究积累",
-    "verdict": "总分30，位于30–44分档；反映本次已确认的公开履历信号。",
+    "verdict": "总分30，进入C档；按30–34分分段细分为C−。",
     "scoreComponents": {
       "hardSignal": 0,
       "projects": 12,
@@ -4211,7 +4282,7 @@
     "directoryOrder": 36,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 4,
@@ -4220,12 +4291,13 @@
       "explicitRoleWorks": 2,
       "summary": "本次选取：4项角色明确项目 · 5件可定位成果，其中2021年以来5件。"
     },
-    "gradeReason": "总分30，位于30–44分档；反映本次已确认的公开履历信号。",
+    "gradeReason": "总分30，进入C档；按30–34分分段细分为C−。",
     "scoringNotes": [
       "科研项目：最高基础档12分；确认1项可计加分的独立国家主持项目，追加0分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖4个近期年度，持续性加3分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -4243,9 +4315,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "A",
+    "evidenceSubgrade": "A+",
     "evidenceScore": 70,
     "evidenceLabel": "较强研究履历",
-    "verdict": "总分70；项目达到18分研究门槛，符合A级条件。",
+    "verdict": "总分70；项目达到18分研究门槛，进入A档；按70分及以上分段细分为A+。",
     "scoreComponents": {
       "hardSignal": 22,
       "projects": 21,
@@ -4343,7 +4416,7 @@
     "directoryOrder": 37,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 5,
@@ -4352,12 +4425,13 @@
       "explicitRoleWorks": 5,
       "summary": "本次选取：5项角色明确项目 · 5件可定位成果，其中2021年以来5件。"
     },
-    "gradeReason": "总分70；项目达到18分研究门槛，符合A级条件。",
+    "gradeReason": "总分70；项目达到18分研究门槛，进入A档；按70分及以上分段细分为A+。",
     "scoringNotes": [
       "科研项目：最高基础档18分；确认2项可计加分的独立国家主持项目，追加3分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖3个近期年度，持续性加3分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -4376,9 +4450,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "C",
+    "evidenceSubgrade": "C-",
     "evidenceScore": 34,
     "evidenceLabel": "已有研究积累",
-    "verdict": "总分34，位于30–44分档；反映本次已确认的公开履历信号。",
+    "verdict": "总分34，进入C档；按30–34分分段细分为C−。",
     "scoreComponents": {
       "hardSignal": 0,
       "projects": 8,
@@ -4451,7 +4526,7 @@
     "directoryOrder": 38,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 2,
@@ -4460,12 +4535,13 @@
       "explicitRoleWorks": 4,
       "summary": "本次选取：2项角色明确项目 · 5件可定位成果，其中2021年以来3件。"
     },
-    "gradeReason": "总分34，位于30–44分档；反映本次已确认的公开履历信号。",
+    "gradeReason": "总分34，进入C档；按30–34分分段细分为C−。",
     "scoringNotes": [
       "科研项目：最高基础档8分；确认0项可计加分的独立国家主持项目，追加0分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖3个近期年度，持续性加3分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -4484,9 +4560,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "D",
+    "evidenceSubgrade": "D-",
     "evidenceScore": 17,
     "evidenceLabel": "已见部分研究经历",
-    "verdict": "总分17，位于15–29分档；反映本次已确认的公开履历信号。",
+    "verdict": "总分17，进入D档；按15–19分分段细分为D−。",
     "scoreComponents": {
       "hardSignal": 0,
       "projects": 0,
@@ -4541,7 +4618,7 @@
     "directoryOrder": 39,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 0,
@@ -4550,12 +4627,13 @@
       "explicitRoleWorks": 5,
       "summary": "本次选取：0项角色明确项目 · 5件可定位成果，其中2021年以来0件。"
     },
-    "gradeReason": "总分17，位于15–29分档；反映本次已确认的公开履历信号。",
+    "gradeReason": "总分17，进入D档；按15–19分分段细分为D−。",
     "scoringNotes": [
       "科研项目：最高基础档0分；确认0项可计加分的独立国家主持项目，追加0分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖0个近期年度，持续性加0分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -4574,9 +4652,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "A",
+    "evidenceSubgrade": "A",
     "evidenceScore": 69,
     "evidenceLabel": "较强研究履历",
-    "verdict": "总分69；项目达到18分研究门槛，符合A级条件。",
+    "verdict": "总分69；项目达到18分研究门槛，进入A档；按65–69分分段细分为A。",
     "scoreComponents": {
       "hardSignal": 22,
       "projects": 21,
@@ -4675,7 +4754,7 @@
     "directoryOrder": 40,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 5,
@@ -4684,12 +4763,13 @@
       "explicitRoleWorks": 4,
       "summary": "本次选取：5项角色明确项目 · 5件可定位成果，其中2021年以来3件。"
     },
-    "gradeReason": "总分69；项目达到18分研究门槛，符合A级条件。",
+    "gradeReason": "总分69；项目达到18分研究门槛，进入A档；按65–69分分段细分为A。",
     "scoringNotes": [
       "科研项目：最高基础档18分；确认2项可计加分的独立国家主持项目，追加3分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖3个近期年度，持续性加3分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -4706,9 +4786,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "C",
+    "evidenceSubgrade": "C-",
     "evidenceScore": 31,
     "evidenceLabel": "已有研究积累",
-    "verdict": "总分31，位于30–44分档；反映本次已确认的公开履历信号。",
+    "verdict": "总分31，进入C档；按30–34分分段细分为C−。",
     "scoreComponents": {
       "hardSignal": 6,
       "projects": 8,
@@ -4777,7 +4858,7 @@
     "directoryOrder": 41,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 1,
@@ -4786,12 +4867,13 @@
       "explicitRoleWorks": 2,
       "summary": "本次选取：1项角色明确项目 · 5件可定位成果，其中2021年以来3件。"
     },
-    "gradeReason": "总分31，位于30–44分档；反映本次已确认的公开履历信号。",
+    "gradeReason": "总分31，进入C档；按30–34分分段细分为C−。",
     "scoringNotes": [
       "科研项目：最高基础档8分；确认0项可计加分的独立国家主持项目，追加0分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖3个近期年度，持续性加3分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -4809,9 +4891,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "C",
+    "evidenceSubgrade": "C",
     "evidenceScore": 39,
     "evidenceLabel": "已有研究积累",
-    "verdict": "总分39，位于30–44分档；反映本次已确认的公开履历信号。",
+    "verdict": "总分39，进入C档；按35–39分分段细分为C。",
     "scoreComponents": {
       "hardSignal": 0,
       "projects": 12,
@@ -4883,7 +4966,7 @@
     "directoryOrder": 42,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 3,
@@ -4892,12 +4975,13 @@
       "explicitRoleWorks": 5,
       "summary": "本次选取：3项角色明确项目 · 5件可定位成果，其中2021年以来4件。"
     },
-    "gradeReason": "总分39，位于30–44分档；反映本次已确认的公开履历信号。",
+    "gradeReason": "总分39，进入C档；按35–39分分段细分为C。",
     "scoringNotes": [
       "科研项目：最高基础档12分；确认1项可计加分的独立国家主持项目，追加0分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖3个近期年度，持续性加3分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -4915,9 +4999,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "D",
+    "evidenceSubgrade": "D-",
     "evidenceScore": 17,
     "evidenceLabel": "已见部分研究经历",
-    "verdict": "总分17，位于15–29分档；反映本次已确认的公开履历信号。",
+    "verdict": "总分17，进入D档；按15–19分分段细分为D−。",
     "scoreComponents": {
       "hardSignal": 0,
       "projects": 8,
@@ -5009,7 +5094,7 @@
     "directoryOrder": 43,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 5,
@@ -5018,12 +5103,13 @@
       "explicitRoleWorks": 0,
       "summary": "本次选取：5项角色明确项目 · 5件可定位成果，其中2021年以来0件。"
     },
-    "gradeReason": "总分17，位于15–29分档；反映本次已确认的公开履历信号。",
+    "gradeReason": "总分17，进入D档；按15–19分分段细分为D−。",
     "scoringNotes": [
       "科研项目：最高基础档8分；确认0项可计加分的独立国家主持项目，追加0分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖0个近期年度，持续性加0分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -5040,9 +5126,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "D",
+    "evidenceSubgrade": "D-",
     "evidenceScore": 19,
     "evidenceLabel": "已见部分研究经历",
-    "verdict": "总分19，位于15–29分档；反映本次已确认的公开履历信号。",
+    "verdict": "总分19，进入D档；按15–19分分段细分为D−。",
     "scoreComponents": {
       "hardSignal": 0,
       "projects": 8,
@@ -5115,7 +5202,7 @@
     "directoryOrder": 44,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 3,
@@ -5124,12 +5211,13 @@
       "explicitRoleWorks": 1,
       "summary": "本次选取：3项角色明确项目 · 5件可定位成果，其中2021年以来3件。"
     },
-    "gradeReason": "总分19，位于15–29分档；反映本次已确认的公开履历信号。",
+    "gradeReason": "总分19，进入D档；按15–19分分段细分为D−。",
     "scoringNotes": [
       "科研项目：最高基础档8分；确认0项可计加分的独立国家主持项目，追加0分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖2个近期年度，持续性加0分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -5149,9 +5237,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "B",
+    "evidenceSubgrade": "B-",
     "evidenceScore": 47,
     "evidenceLabel": "多项研究经历",
-    "verdict": "总分47，位于45–59分档；反映本次已确认的公开履历信号。",
+    "verdict": "总分47，进入B档；按45–49分分段细分为B−。",
     "scoreComponents": {
       "hardSignal": 18,
       "projects": 2,
@@ -5250,7 +5339,7 @@
     "directoryOrder": 45,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 0,
@@ -5259,12 +5348,13 @@
       "explicitRoleWorks": 5,
       "summary": "本次选取：0项角色明确项目 · 5件可定位成果，其中2021年以来4件。"
     },
-    "gradeReason": "总分47，位于45–59分档；反映本次已确认的公开履历信号。",
+    "gradeReason": "总分47，进入B档；按45–49分分段细分为B−。",
     "scoringNotes": [
       "科研项目：最高基础档2分；确认0项可计加分的独立国家主持项目，追加0分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖2个近期年度，持续性加0分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -5282,9 +5372,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "B",
+    "evidenceSubgrade": "B-",
     "evidenceScore": 46,
     "evidenceLabel": "多项研究经历",
-    "verdict": "总分46，位于45–59分档；反映本次已确认的公开履历信号。",
+    "verdict": "总分46，进入B档；按45–49分分段细分为B−。",
     "scoreComponents": {
       "hardSignal": 10,
       "projects": 12,
@@ -5371,7 +5462,7 @@
     "directoryOrder": 46,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 3,
@@ -5380,12 +5471,13 @@
       "explicitRoleWorks": 4,
       "summary": "本次选取：3项角色明确项目 · 5件可定位成果，其中2021年以来1件。"
     },
-    "gradeReason": "总分46，位于45–59分档；反映本次已确认的公开履历信号。",
+    "gradeReason": "总分46，进入B档；按45–49分分段细分为B−。",
     "scoringNotes": [
       "科研项目：最高基础档12分；确认1项可计加分的独立国家主持项目，追加0分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖1个近期年度，持续性加0分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -5404,6 +5496,7 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "U",
+    "evidenceSubgrade": "U",
     "evidenceScore": null,
     "evidenceLabel": "资料不足",
     "verdict": "本次仅确认0件可定位成果、0项角色明确的科研项目，尚不足以按本规则分级。",
@@ -5510,7 +5603,7 @@
     "directoryOrder": 47,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "insufficient",
     "coverage": {
       "projects": 0,
@@ -5525,6 +5618,7 @@
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖0个近期年度，持续性加0分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -5541,9 +5635,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "C",
+    "evidenceSubgrade": "C-",
     "evidenceScore": 34,
     "evidenceLabel": "已有研究积累",
-    "verdict": "总分34，位于30–44分档；反映本次已确认的公开履历信号。",
+    "verdict": "总分34，进入C档；按30–34分分段细分为C−。",
     "scoreComponents": {
       "hardSignal": 6,
       "projects": 6,
@@ -5636,7 +5731,7 @@
     "directoryOrder": 48,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 5,
@@ -5645,12 +5740,13 @@
       "explicitRoleWorks": 3,
       "summary": "本次选取：5项角色明确项目 · 5件可定位成果，其中2021年以来5件。"
     },
-    "gradeReason": "总分34，位于30–44分档；反映本次已确认的公开履历信号。",
+    "gradeReason": "总分34，进入C档；按30–34分分段细分为C−。",
     "scoringNotes": [
       "科研项目：最高基础档6分；确认0项可计加分的独立国家主持项目，追加0分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖3个近期年度，持续性加3分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -5667,9 +5763,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "C",
+    "evidenceSubgrade": "C",
     "evidenceScore": 37,
     "evidenceLabel": "已有研究积累",
-    "verdict": "总分37，位于30–44分档；反映本次已确认的公开履历信号。",
+    "verdict": "总分37，进入C档；按35–39分分段细分为C。",
     "scoreComponents": {
       "hardSignal": 0,
       "projects": 21,
@@ -5754,7 +5851,7 @@
     "directoryOrder": 49,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 5,
@@ -5763,12 +5860,13 @@
       "explicitRoleWorks": 4,
       "summary": "本次选取：5项角色明确项目 · 4件可定位成果，其中2021年以来0件。"
     },
-    "gradeReason": "总分37，位于30–44分档；反映本次已确认的公开履历信号。",
+    "gradeReason": "总分37，进入C档；按35–39分分段细分为C。",
     "scoringNotes": [
       "科研项目：最高基础档18分；确认2项可计加分的独立国家主持项目，追加3分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖0个近期年度，持续性加0分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -5785,9 +5883,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "D",
+    "evidenceSubgrade": "D+",
     "evidenceScore": 28,
     "evidenceLabel": "已见部分研究经历",
-    "verdict": "总分28，位于15–29分档；反映本次已确认的公开履历信号。",
+    "verdict": "总分28，进入D档；按25–29分分段细分为D+。",
     "scoreComponents": {
       "hardSignal": 0,
       "projects": 6,
@@ -5866,7 +5965,7 @@
     "directoryOrder": 50,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 4,
@@ -5875,12 +5974,13 @@
       "explicitRoleWorks": 4,
       "summary": "本次选取：4项角色明确项目 · 5件可定位成果，其中2021年以来5件。"
     },
-    "gradeReason": "总分28，位于15–29分档；反映本次已确认的公开履历信号。",
+    "gradeReason": "总分28，进入D档；按25–29分分段细分为D+。",
     "scoringNotes": [
       "科研项目：最高基础档6分；确认0项可计加分的独立国家主持项目，追加0分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖3个近期年度，持续性加3分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -5897,6 +5997,7 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "U",
+    "evidenceSubgrade": "U",
     "evidenceScore": null,
     "evidenceLabel": "资料不足",
     "verdict": "本次仅确认0件可定位成果、0项角色明确的科研项目，尚不足以按本规则分级。",
@@ -5925,7 +6026,7 @@
     "directoryOrder": 51,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "insufficient",
     "coverage": {
       "projects": 0,
@@ -5940,6 +6041,7 @@
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖0个近期年度，持续性加0分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -5959,9 +6061,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "B",
+    "evidenceSubgrade": "B+",
     "evidenceScore": 59,
     "evidenceLabel": "多项研究经历",
-    "verdict": "总分59，位于45–59分档；反映本次已确认的公开履历信号。",
+    "verdict": "总分59，进入B档；按55分及以上分段细分为B+。",
     "scoreComponents": {
       "hardSignal": 18,
       "projects": 15,
@@ -6060,7 +6163,7 @@
     "directoryOrder": 52,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 5,
@@ -6069,12 +6172,13 @@
       "explicitRoleWorks": 4,
       "summary": "本次选取：5项角色明确项目 · 5件可定位成果，其中2021年以来3件。"
     },
-    "gradeReason": "总分59，位于45–59分档；反映本次已确认的公开履历信号。",
+    "gradeReason": "总分59，进入B档；按55分及以上分段细分为B+。",
     "scoringNotes": [
       "科研项目：最高基础档12分；确认2项可计加分的独立国家主持项目，追加3分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖3个近期年度，持续性加3分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -6092,9 +6196,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "C",
+    "evidenceSubgrade": "C+",
     "evidenceScore": 41,
     "evidenceLabel": "已有研究积累",
-    "verdict": "总分41，位于30–44分档；反映本次已确认的公开履历信号。",
+    "verdict": "总分41，进入C档；按40–44分分段细分为C+。",
     "scoreComponents": {
       "hardSignal": 18,
       "projects": 2,
@@ -6194,7 +6299,7 @@
     "directoryOrder": 53,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 0,
@@ -6203,12 +6308,13 @@
       "explicitRoleWorks": 5,
       "summary": "本次选取：0项角色明确项目 · 5件可定位成果，其中2021年以来0件。"
     },
-    "gradeReason": "总分41，位于30–44分档；反映本次已确认的公开履历信号。",
+    "gradeReason": "总分41，进入C档；按40–44分分段细分为C+。",
     "scoringNotes": [
       "科研项目：最高基础档2分；确认0项可计加分的独立国家主持项目，追加0分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖0个近期年度，持续性加0分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -6227,9 +6333,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "A",
+    "evidenceSubgrade": "A",
     "evidenceScore": 68,
     "evidenceLabel": "较强研究履历",
-    "verdict": "总分68；项目达到18分研究门槛，符合A级条件。",
+    "verdict": "总分68；项目达到18分研究门槛，进入A档；按65–69分分段细分为A。",
     "scoreComponents": {
       "hardSignal": 18,
       "projects": 18,
@@ -6327,7 +6434,7 @@
     "directoryOrder": 54,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 5,
@@ -6336,12 +6443,13 @@
       "explicitRoleWorks": 5,
       "summary": "本次选取：5项角色明确项目 · 5件可定位成果，其中2021年以来5件。"
     },
-    "gradeReason": "总分68；项目达到18分研究门槛，符合A级条件。",
+    "gradeReason": "总分68；项目达到18分研究门槛，进入A档；按65–69分分段细分为A。",
     "scoringNotes": [
       "科研项目：最高基础档18分；确认1项可计加分的独立国家主持项目，追加0分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖3个近期年度，持续性加3分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -6359,6 +6467,7 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "S",
+    "evidenceSubgrade": "S",
     "evidenceScore": 88,
     "evidenceLabel": "国家级标志经历",
     "verdict": "总分88，且有明确的本人国家级科研认可或国家重大总项目主持证据，满足S级门槛。",
@@ -6449,7 +6558,7 @@
     "directoryOrder": 55,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 3,
@@ -6464,6 +6573,7 @@
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖3个近期年度，持续性加3分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -6480,9 +6590,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "D",
+    "evidenceSubgrade": "D",
     "evidenceScore": 20,
     "evidenceLabel": "已见部分研究经历",
-    "verdict": "总分20，位于15–29分档；反映本次已确认的公开履历信号。",
+    "verdict": "总分20，进入D档；按20–24分分段细分为D。",
     "scoreComponents": {
       "hardSignal": 0,
       "projects": 8,
@@ -6530,7 +6641,7 @@
     "directoryOrder": 56,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 1,
@@ -6539,12 +6650,13 @@
       "explicitRoleWorks": 3,
       "summary": "本次选取：1项角色明确项目 · 3件可定位成果，其中2021年以来2件。"
     },
-    "gradeReason": "总分20，位于15–29分档；反映本次已确认的公开履历信号。",
+    "gradeReason": "总分20，进入D档；按20–24分分段细分为D。",
     "scoringNotes": [
       "科研项目：最高基础档8分；确认0项可计加分的独立国家主持项目，追加0分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖2个近期年度，持续性加0分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -6563,9 +6675,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "B",
+    "evidenceSubgrade": "B-",
     "evidenceScore": 45,
     "evidenceLabel": "多项研究经历",
-    "verdict": "总分45，位于45–59分档；反映本次已确认的公开履历信号。",
+    "verdict": "总分45，进入B档；按45–49分分段细分为B−。",
     "scoreComponents": {
       "hardSignal": 18,
       "projects": 2,
@@ -6659,7 +6772,7 @@
     "directoryOrder": 57,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 0,
@@ -6668,12 +6781,13 @@
       "explicitRoleWorks": 5,
       "summary": "本次选取：0项角色明确项目 · 5件可定位成果，其中2021年以来0件。"
     },
-    "gradeReason": "总分45，位于45–59分档；反映本次已确认的公开履历信号。",
+    "gradeReason": "总分45，进入B档；按45–49分分段细分为B−。",
     "scoringNotes": [
       "科研项目：最高基础档2分；确认0项可计加分的独立国家主持项目，追加0分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖0个近期年度，持续性加0分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -6692,9 +6806,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "C",
+    "evidenceSubgrade": "C-",
     "evidenceScore": 31,
     "evidenceLabel": "已有研究积累",
-    "verdict": "总分31，位于30–44分档；反映本次已确认的公开履历信号。",
+    "verdict": "总分31，进入C档；按30–34分分段细分为C−。",
     "scoreComponents": {
       "hardSignal": 0,
       "projects": 12,
@@ -6768,7 +6883,7 @@
     "directoryOrder": 58,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 3,
@@ -6777,12 +6892,13 @@
       "explicitRoleWorks": 3,
       "summary": "本次选取：3项角色明确项目 · 3件可定位成果，其中2021年以来3件。"
     },
-    "gradeReason": "总分31，位于30–44分档；反映本次已确认的公开履历信号。",
+    "gradeReason": "总分31，进入C档；按30–34分分段细分为C−。",
     "scoringNotes": [
       "科研项目：最高基础档12分；确认1项可计加分的独立国家主持项目，追加0分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖2个近期年度，持续性加0分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -6801,9 +6917,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "B",
+    "evidenceSubgrade": "B+",
     "evidenceScore": 57,
     "evidenceLabel": "多项研究经历",
-    "verdict": "总分57，位于45–59分档；反映本次已确认的公开履历信号。",
+    "verdict": "总分57，进入B档；按55分及以上分段细分为B+。",
     "scoreComponents": {
       "hardSignal": 18,
       "projects": 12,
@@ -6920,7 +7037,7 @@
     "directoryOrder": 59,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 5,
@@ -6929,12 +7046,13 @@
       "explicitRoleWorks": 5,
       "summary": "本次选取：5项角色明确项目 · 5件可定位成果，其中2021年以来3件。"
     },
-    "gradeReason": "总分57，位于45–59分档；反映本次已确认的公开履历信号。",
+    "gradeReason": "总分57，进入B档；按55分及以上分段细分为B+。",
     "scoringNotes": [
       "科研项目：最高基础档12分；确认1项可计加分的独立国家主持项目，追加0分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖3个近期年度，持续性加3分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -6953,9 +7071,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "A",
+    "evidenceSubgrade": "A-",
     "evidenceScore": 63,
     "evidenceLabel": "较强研究履历",
-    "verdict": "总分63；项目达到18分研究门槛，符合A级条件。",
+    "verdict": "总分63；项目达到18分研究门槛，进入A档；按60–64分分段细分为A−。",
     "scoreComponents": {
       "hardSignal": 18,
       "projects": 21,
@@ -7054,7 +7173,7 @@
     "directoryOrder": 60,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 5,
@@ -7063,12 +7182,13 @@
       "explicitRoleWorks": 4,
       "summary": "本次选取：5项角色明确项目 · 5件可定位成果，其中2021年以来3件。"
     },
-    "gradeReason": "总分63；项目达到18分研究门槛，符合A级条件。",
+    "gradeReason": "总分63；项目达到18分研究门槛，进入A档；按60–64分分段细分为A−。",
     "scoringNotes": [
       "科研项目：最高基础档18分；确认2项可计加分的独立国家主持项目，追加3分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖3个近期年度，持续性加3分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -7086,9 +7206,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "D",
+    "evidenceSubgrade": "D+",
     "evidenceScore": 28,
     "evidenceLabel": "已见部分研究经历",
-    "verdict": "总分28，位于15–29分档；反映本次已确认的公开履历信号。",
+    "verdict": "总分28，进入D档；按25–29分分段细分为D+。",
     "scoreComponents": {
       "hardSignal": 6,
       "projects": 0,
@@ -7157,7 +7278,7 @@
     "directoryOrder": 61,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 0,
@@ -7166,12 +7287,13 @@
       "explicitRoleWorks": 0,
       "summary": "本次选取：0项角色明确项目 · 5件可定位成果，其中2021年以来5件。"
     },
-    "gradeReason": "总分28，位于15–29分档；反映本次已确认的公开履历信号。",
+    "gradeReason": "总分28，进入D档；按25–29分分段细分为D+。",
     "scoringNotes": [
       "科研项目：最高基础档0分；确认0项可计加分的独立国家主持项目，追加0分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖3个近期年度，持续性加3分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -7190,9 +7312,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "C",
+    "evidenceSubgrade": "C+",
     "evidenceScore": 42,
     "evidenceLabel": "已有研究积累",
-    "verdict": "总分42，位于30–44分档；反映本次已确认的公开履历信号。",
+    "verdict": "总分42，进入C档；按40–44分分段细分为C+。",
     "scoreComponents": {
       "hardSignal": 6,
       "projects": 18,
@@ -7291,7 +7414,7 @@
     "directoryOrder": 62,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 5,
@@ -7300,12 +7423,13 @@
       "explicitRoleWorks": 3,
       "summary": "本次选取：5项角色明确项目 · 5件可定位成果，其中2021年以来2件。"
     },
-    "gradeReason": "总分42，位于30–44分档；反映本次已确认的公开履历信号。",
+    "gradeReason": "总分42，进入C档；按40–44分分段细分为C+。",
     "scoringNotes": [
       "科研项目：最高基础档18分；确认1项可计加分的独立国家主持项目，追加0分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖1个近期年度，持续性加0分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -7324,9 +7448,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "A",
+    "evidenceSubgrade": "A-",
     "evidenceScore": 60,
     "evidenceLabel": "较强研究履历",
-    "verdict": "总分60；代表成果达到15分研究门槛，符合A级条件。",
+    "verdict": "总分60；代表成果达到15分研究门槛，进入A档；按60–64分分段细分为A−。",
     "scoreComponents": {
       "hardSignal": 18,
       "projects": 2,
@@ -7425,7 +7550,7 @@
     "directoryOrder": 63,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 0,
@@ -7434,12 +7559,13 @@
       "explicitRoleWorks": 5,
       "summary": "本次选取：0项角色明确项目 · 5件可定位成果，其中2021年以来5件。"
     },
-    "gradeReason": "总分60；代表成果达到15分研究门槛，符合A级条件。",
+    "gradeReason": "总分60；代表成果达到15分研究门槛，进入A档；按60–64分分段细分为A−。",
     "scoringNotes": [
       "科研项目：最高基础档2分；确认0项可计加分的独立国家主持项目，追加0分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖5个近期年度，持续性加5分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -7458,9 +7584,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "D",
+    "evidenceSubgrade": "D",
     "evidenceScore": 23,
     "evidenceLabel": "已见部分研究经历",
-    "verdict": "总分23，位于15–29分档；反映本次已确认的公开履历信号。",
+    "verdict": "总分23，进入D档；按20–24分分段细分为D。",
     "scoreComponents": {
       "hardSignal": 6,
       "projects": 8,
@@ -7536,7 +7663,7 @@
     "directoryOrder": 64,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 2,
@@ -7545,12 +7672,13 @@
       "explicitRoleWorks": 0,
       "summary": "本次选取：2项角色明确项目 · 5件可定位成果，其中2021年以来2件。"
     },
-    "gradeReason": "总分23，位于15–29分档；反映本次已确认的公开履历信号。",
+    "gradeReason": "总分23，进入D档；按20–24分分段细分为D。",
     "scoringNotes": [
       "科研项目：最高基础档8分；确认0项可计加分的独立国家主持项目，追加0分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖2个近期年度，持续性加0分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -7568,9 +7696,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "B",
+    "evidenceSubgrade": "B+",
     "evidenceScore": 58,
     "evidenceLabel": "多项研究经历",
-    "verdict": "总分58，位于45–59分档；反映本次已确认的公开履历信号。",
+    "verdict": "总分58，进入B档；按55分及以上分段细分为B+。",
     "scoreComponents": {
       "hardSignal": 22,
       "projects": 12,
@@ -7662,7 +7791,7 @@
     "directoryOrder": 65,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 5,
@@ -7671,12 +7800,13 @@
       "explicitRoleWorks": 5,
       "summary": "本次选取：5项角色明确项目 · 5件可定位成果，其中2021年以来5件。"
     },
-    "gradeReason": "总分58，位于45–59分档；反映本次已确认的公开履历信号。",
+    "gradeReason": "总分58，进入B档；按55分及以上分段细分为B+。",
     "scoringNotes": [
       "科研项目：最高基础档12分；确认1项可计加分的独立国家主持项目，追加0分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖4个近期年度，持续性加3分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -7694,9 +7824,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "B",
+    "evidenceSubgrade": "B+",
     "evidenceScore": 56,
     "evidenceLabel": "多项研究经历",
-    "verdict": "总分56，位于45–59分档；反映本次已确认的公开履历信号。",
+    "verdict": "总分56，进入B档；按55分及以上分段细分为B+。",
     "scoreComponents": {
       "hardSignal": 22,
       "projects": 2,
@@ -7796,7 +7927,7 @@
     "directoryOrder": 66,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 0,
@@ -7805,12 +7936,13 @@
       "explicitRoleWorks": 3,
       "summary": "本次选取：0项角色明确项目 · 5件可定位成果，其中2021年以来5件。"
     },
-    "gradeReason": "总分56，位于45–59分档；反映本次已确认的公开履历信号。",
+    "gradeReason": "总分56，进入B档；按55分及以上分段细分为B+。",
     "scoringNotes": [
       "科研项目：最高基础档2分；确认0项可计加分的独立国家主持项目，追加0分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖5个近期年度，持续性加5分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -7827,9 +7959,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "D",
+    "evidenceSubgrade": "D-",
     "evidenceScore": 15,
     "evidenceLabel": "已见部分研究经历",
-    "verdict": "总分15，位于15–29分档；反映本次已确认的公开履历信号。",
+    "verdict": "总分15，进入D档；按15–19分分段细分为D−。",
     "scoreComponents": {
       "hardSignal": 0,
       "projects": 8,
@@ -7878,7 +8011,7 @@
     "directoryOrder": 67,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 2,
@@ -7887,12 +8020,13 @@
       "explicitRoleWorks": 2,
       "summary": "本次选取：2项角色明确项目 · 2件可定位成果，其中2021年以来0件。"
     },
-    "gradeReason": "总分15，位于15–29分档；反映本次已确认的公开履历信号。",
+    "gradeReason": "总分15，进入D档；按15–19分分段细分为D−。",
     "scoringNotes": [
       "科研项目：最高基础档8分；确认0项可计加分的独立国家主持项目，追加0分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖0个近期年度，持续性加0分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -7909,9 +8043,10 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "C",
+    "evidenceSubgrade": "C-",
     "evidenceScore": 30,
     "evidenceLabel": "已有研究积累",
-    "verdict": "总分30，位于30–44分档；反映本次已确认的公开履历信号。",
+    "verdict": "总分30，进入C档；按30–34分分段细分为C−。",
     "scoreComponents": {
       "hardSignal": 0,
       "projects": 12,
@@ -7983,7 +8118,7 @@
     "directoryOrder": 68,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 3,
@@ -7992,12 +8127,13 @@
       "explicitRoleWorks": 5,
       "summary": "本次选取：3项角色明确项目 · 5件可定位成果，其中2021年以来1件。"
     },
-    "gradeReason": "总分30，位于30–44分档；反映本次已确认的公开履历信号。",
+    "gradeReason": "总分30，进入C档；按30–34分分段细分为C−。",
     "scoringNotes": [
       "科研项目：最高基础档12分；确认1项可计加分的独立国家主持项目，追加0分，合计上限30分。",
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖1个近期年度，持续性加0分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   },
@@ -8015,6 +8151,7 @@
     ],
     "focusKeywords": [],
     "evidenceGrade": "E",
+    "evidenceSubgrade": "E",
     "evidenceScore": 12,
     "evidenceLabel": "当前计分信号较少",
     "verdict": "总分12，位于0–14分档；反映本次已确认的公开履历信号。",
@@ -8079,7 +8216,7 @@
     "directoryOrder": 69,
     "collectedAt": "2026-09-20",
     "reviewStatus": "逐条官网证据已核对",
-    "rubricVersion": "spa-research-profile-v3",
+    "rubricVersion": "spa-research-profile-v3.1",
     "assessmentStatus": "graded",
     "coverage": {
       "projects": 2,
@@ -8094,6 +8231,7 @@
       "代表成果：最多5件，逐件定位1分、明确署名角色2分、2021年以来1分；选中成果覆盖1个近期年度，持续性加0分。",
       "科研认可、学术服务、培养教学各取最高一档。重大项目只在项目分中计分，也可作为S门槛，不重复获得科研认可分。",
       "A除总分60外，须项目≥18或代表成果≥15；S除总分75外，须本人国家级科研认可或国家重大总项目主持。未达到资料覆盖条件先列为资料不足。",
+      "先判基础档，再按档内分数细分：A−60–64、A65–69、A+70及以上；B−45–49、B50–54、B+55及以上；C−30–34、C35–39、C+40–44；D−15–19、D20–24、D+25–29。高分未过上一档门槛仍留本档+，S/E/资料不足不细分。",
       "分数是固定产品规则下的公开履历信号；未按人数配额划档，不把论文索引、期刊影响因子等同于个人成果质量。"
     ]
   }

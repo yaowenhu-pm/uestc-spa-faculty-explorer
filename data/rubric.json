@@ -1,5 +1,5 @@
 {
-  "version": "spa-research-profile-v3",
+  "version": "spa-research-profile-v3.1",
   "reviewedAt": "2026-09-21",
   "recentWindow": {
     "start": 2021,
@@ -221,6 +221,48 @@
     "D": "资料足够、15–29",
     "E": "资料足够、0–14",
     "U": "未达到核心研究资料覆盖条件，暂不分级、不展示总分"
+  },
+  "subgrading": {
+    "order": [
+      "S",
+      "A+",
+      "A",
+      "A-",
+      "B+",
+      "B",
+      "B-",
+      "C+",
+      "C",
+      "C-",
+      "D+",
+      "D",
+      "D-",
+      "E",
+      "U"
+    ],
+    "bands": {
+      "A": {
+        "minus": 60,
+        "plain": 65,
+        "plus": 70
+      },
+      "B": {
+        "minus": 45,
+        "plain": 50,
+        "plus": 55
+      },
+      "C": {
+        "minus": 30,
+        "plain": 35,
+        "plus": 40
+      },
+      "D": {
+        "minus": 15,
+        "plain": 20,
+        "plus": 25
+      }
+    },
+    "rule": "先按原门槛判基础档，再细分A至D的−/普通/+；S、E、U不细分。A+和B+的高分不能绕过上一档门槛。"
   },
   "coverageEligibility": [
     "至少3件题名、出处、年份齐全的成果",

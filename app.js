@@ -1,5 +1,5 @@
 const DEFAULT_SORT = "score";
-const gradeOrder = { S: 0, A: 1, B: 2, C: 3, D: 4, E: 5, U: 6 };
+const gradeOrder = { S: 0, "A+": 1, A: 2, "A-": 3, "B+": 4, B: 5, "B-": 6, "C+": 7, C: 8, "C-": 9, "D+": 10, D: 11, "D-": 12, E: 13, U: 14 };
 const state = { faculty: [], statistics: null, search: "", grade: "", department: "", title: "", sort: DEFAULT_SORT, profile: "", visible: 24 };
 const $ = (selector) => document.querySelector(selector);
 const componentLabels = { hardSignal: ["科研认可", 30], projects: ["科研项目", 30], publications: ["代表成果", 25], recognition: ["学术服务", 10], training: ["培养教学", 5] };
@@ -10,8 +10,16 @@ const normalize = (value) => String(value || "").normalize("NFKC").toLowerCase()
 const safeUrl = (value) => { try { const url = new URL(value); return ["https:", "http:"].includes(url.protocol) ? url.href : ""; } catch { return ""; } };
 const list = (value) => Array.isArray(value) ? value : [];
 const effectiveGrade = (item) => item.assessmentStatus === "insufficient" || item.evidenceScore == null || !["S", "A", "B", "C", "D", "E"].includes(item.evidenceGrade) ? "U" : item.evidenceGrade;
+const effectiveSubgrade = (item) => {
+  const base = effectiveGrade(item);
+  const subgrade = item.evidenceSubgrade;
+  return base !== "U" && typeof subgrade === "string" && Object.hasOwn(gradeOrder, subgrade) && subgrade[0] === base ? subgrade : base;
+};
+const displayGrade = (grade) => grade.replace("-", "−");
+const gradeFilterLabel = (grade) => grade === "U" ? "资料不足" : /^[ABCD]$/.test(grade) ? `${grade}档（全部）` : `${displayGrade(grade.replace(/0$/, ""))} 级`;
+const matchesGrade = (item, grade) => !grade || (/^[ABCD]$/.test(grade) ? effectiveGrade(item) === grade : effectiveSubgrade(item) === grade.replace(/0$/, ""));
 const isV3 = (item) => Boolean(item.assessmentStatus || item.coverage || /v3/i.test(item.rubricVersion || ""));
-const gradeDescription = (grade) => grade === "U" ? "资料不足，暂不分级" : `公开履历分级 ${grade} 级`;
+const gradeDescription = (grade) => grade === "U" ? "资料不足，暂不分级" : `公开履历分级 ${displayGrade(grade)} 级`;
 
 
 function updateUrl() {
@@ -25,18 +33,19 @@ function filteredFaculty() {
   const result = state.faculty.filter((item) => {
     const haystack = normalize([item.name, item.title, ...list(item.departments), ...list(item.researchDirections), ...list(item.focusKeywords)].join(" "));
     return (!needle || haystack.includes(needle))
-      && (!state.grade || effectiveGrade(item) === state.grade)
+      && matchesGrade(item, state.grade)
       && (!state.department || (state.department === "官网未列出" ? !list(item.departments).length : list(item.departments).includes(state.department)))
       && (!state.title || item.title === state.title);
   });
-  return result.sort((a, b) => state.sort === "name" ? a.name.localeCompare(b.name, "zh-CN") : state.sort === "directory" ? a.directoryOrder - b.directoryOrder : gradeOrder[effectiveGrade(a)] - gradeOrder[effectiveGrade(b)] || (Number(b.evidenceScore) || 0) - (Number(a.evidenceScore) || 0) || a.directoryOrder - b.directoryOrder);
+  return result.sort((a, b) => state.sort === "name" ? a.name.localeCompare(b.name, "zh-CN") : state.sort === "directory" ? a.directoryOrder - b.directoryOrder : gradeOrder[effectiveSubgrade(a)] - gradeOrder[effectiveSubgrade(b)] || (Number(b.evidenceScore) || 0) - (Number(a.evidenceScore) || 0) || a.directoryOrder - b.directoryOrder);
 }
 
 function renderCard(item) {
   const grade = effectiveGrade(item);
+  const subgrade = effectiveSubgrade(item);
   const keywords = [...new Set([...list(item.researchDirections), ...list(item.focusKeywords)])].slice(0, 3);
   return `<article class="faculty-card" tabindex="0" role="button" aria-label="查看${esc(item.name)}的公开资料" data-id="${esc(item.profileId)}">
-    <div class="card-top"><div class="identity"><h2>${esc(item.name)}</h2><p>${esc(item.title)}</p></div><b class="badge grade-${grade}" aria-label="${gradeDescription(grade)}" title="${gradeDescription(grade)}">${grade === "U" ? "—" : grade}</b></div>
+    <div class="card-top"><div class="identity"><h2>${esc(item.name)}</h2><p>${esc(item.title)}</p></div><b class="badge grade-${grade}${subgrade.length > 1 ? " grade-subdivision" : ""}" aria-label="${gradeDescription(subgrade)}" title="${gradeDescription(subgrade)}">${grade === "U" ? "—" : displayGrade(subgrade)}</b></div>
     <p class="card-department">${esc(list(item.departments).join(" / ") || "官网未列学系")}</p>
     <div class="research-directions">${keywords.length ? keywords.map((keyword) => `<span>${esc(keyword)}</span>`).join("") : "<span>官网未列研究方向</span>"}</div>
   </article>`;
@@ -67,7 +76,7 @@ function renderFilterState() {
   const active = ["search", "grade", "department", "title"].filter((key) => state[key]);
   $("#active-filter-row").hidden = !active.length && state.sort === DEFAULT_SORT;
   $("#active-filters").innerHTML = active.map((key) => {
-    const label = key === "search" ? `搜索：${state[key]}` : key === "grade" ? (state[key] === "U" ? "资料不足" : `分级 ${state[key]} 级`) : state[key];
+    const label = key === "search" ? `搜索：${state[key]}` : key === "grade" ? gradeFilterLabel(state[key]) : state[key];
     return `<button type="button" data-clear="${key}" aria-label="移除筛选：${esc(label)}">${esc(label)}<span aria-hidden="true">×</span></button>`;
   }).join("");
 }
@@ -116,6 +125,7 @@ function missingInformation(item) {
 function openDialog(item) {
   if (!item) return;
   const grade = effectiveGrade(item);
+  const subgrade = effectiveSubgrade(item);
   const insufficient = grade === "U";
   const labels = isV3(item) ? componentLabels : legacyComponentLabels;
   const reason = item.gradeReason || (insufficient ? "目前可核对的公开履历信息不足，暂不判定等级。" : compactVerdict(item.verdict));
@@ -126,8 +136,8 @@ function openDialog(item) {
   }).join("");
   const notes = list(item.scoringNotes).filter(Boolean);
   const limitations = list(item.limitations).filter(Boolean);
-  const breakdown = insufficient ? `<details class="scoring-details"><summary>资料不足 · 查看待补信息与判定细则</summary><div class="assessment-limitations"><h3>资料局限</h3><ul>${missingInformation(item).map((text) => `<li>${esc(text)}</li>`).join("")}</ul></div>${notes.length ? `<div class="assessment-limitations"><h3>判定细则</h3><ul>${notes.map((text) => `<li>${esc(text)}</li>`).join("")}</ul></div>` : ""}</details>` : `<div class="score-line"><strong>${esc(item.evidenceScore)}</strong><span>/ 100 · 公开履历分级 ${grade}</span></div><details class="scoring-details"><summary>查看分项与判定细则</summary><div class="component-list">${components}</div>${notes.length ? `<ul>${notes.map((text) => `<li>${esc(text)}</li>`).join("")}</ul>` : ""}${limitations.length ? `<div class="assessment-limitations"><h3>资料局限</h3><ul>${limitations.map((text) => `<li>${esc(text)}</li>`).join("")}</ul></div>` : ""}</details>`;
-  $("#dialog-content").innerHTML = `<div class="dialog-hero"><div><span class="kicker">教师公开履历</span><h2 id="dialog-name">${esc(item.name)}</h2><p>${esc(item.title)} · ${esc(list(item.departments).join(" / ") || "官网未列学系")}</p></div><div class="dialog-grade grade-${grade}" aria-label="${gradeDescription(grade)}">${insufficient ? "—" : grade}</div></div>
+  const breakdown = insufficient ? `<details class="scoring-details"><summary>资料不足 · 查看待补信息与判定细则</summary><div class="assessment-limitations"><h3>资料局限</h3><ul>${missingInformation(item).map((text) => `<li>${esc(text)}</li>`).join("")}</ul></div>${notes.length ? `<div class="assessment-limitations"><h3>判定细则</h3><ul>${notes.map((text) => `<li>${esc(text)}</li>`).join("")}</ul></div>` : ""}</details>` : `<div class="score-line"><strong>${esc(item.evidenceScore)}</strong><span>/ 100 · 公开履历分级 ${displayGrade(subgrade)}</span></div><details class="scoring-details"><summary>查看分项与判定细则</summary><div class="component-list">${components}</div>${notes.length ? `<ul>${notes.map((text) => `<li>${esc(text)}</li>`).join("")}</ul>` : ""}${limitations.length ? `<div class="assessment-limitations"><h3>资料局限</h3><ul>${limitations.map((text) => `<li>${esc(text)}</li>`).join("")}</ul></div>` : ""}</details>`;
+  $("#dialog-content").innerHTML = `<div class="dialog-hero"><div><span class="kicker">教师公开履历</span><h2 id="dialog-name">${esc(item.name)}</h2><p>${esc(item.title)} · ${esc(list(item.departments).join(" / ") || "官网未列学系")}</p></div><div class="dialog-grade grade-${grade}${subgrade.length > 1 ? " grade-subdivision" : ""}" aria-label="${gradeDescription(subgrade)}">${insufficient ? "—" : displayGrade(subgrade)}</div></div>
     <div class="dialog-body"><p class="grade-reason">${esc(reason)}</p>${coverageSummary ? `<p class="coverage-summary">${esc(coverageSummary)}</p>` : ""}
       ${breakdown}
       <section class="dialog-section"><h3>研究方向</h3><div class="keywords">${[...new Set([...list(item.researchDirections), ...list(item.focusKeywords)])].map((keyword) => `<span>${esc(keyword)}</span>`).join("") || "<span>官网未明确列出</span>"}</div></section>
@@ -222,7 +232,7 @@ function restoreUrl() {
 }
 
 async function init() {
-  const [facultyResponse, statisticsResponse] = await Promise.all([fetch("./data/faculty.public.json?v=20260921-v3"), fetch("./data/statistics.json?v=20260921-v3")]);
+  const [facultyResponse, statisticsResponse] = await Promise.all([fetch("./data/faculty.public.json?v=20260921-v3.1"), fetch("./data/statistics.json?v=20260921-v3.1")]);
   if (!facultyResponse.ok || !statisticsResponse.ok) throw new Error("数据加载失败");
   state.faculty = await facultyResponse.json(); state.statistics = await statisticsResponse.json();
   populateFilters(); renderStats(); bindControls(); restoreUrl();
