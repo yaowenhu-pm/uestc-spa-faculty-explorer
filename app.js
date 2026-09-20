@@ -1,6 +1,6 @@
 const DEFAULT_SORT = "score";
 const gradeOrder = { "S+": 0, S: 1, "S-": 2, "A+": 3, A: 4, "A-": 5, "B+": 6, B: 7, "B-": 8, "C+": 9, C: 10, "C-": 11, "D+": 12, D: 13, "D-": 14, "E+": 15, E: 16, "E-": 17, U: 18 };
-const state = { faculty: [], statistics: null, search: "", grade: "", department: "", title: "", sort: DEFAULT_SORT, profile: "", visible: 24 };
+const state = { faculty: [], statistics: null, search: "", grade: "", department: "", title: "", sort: DEFAULT_SORT, profile: "" };
 const $ = (selector) => document.querySelector(selector);
 const componentLabels = { hardSignal: ["科研认可", 30], projects: ["科研项目", 30], publications: ["代表成果", 25], recognition: ["学术服务", 10], training: ["培养教学", 5] };
 const legacyComponentLabels = { hardSignal: ["外部认可", 30], projects: ["项目证据", 20], publications: ["成果证据", 20], recognition: ["学术任职", 20], training: ["培养教学", 10] };
@@ -54,10 +54,7 @@ function renderCard(item) {
 function renderFaculty() {
   const result = filteredFaculty();
   $("#result-count").textContent = `${result.length} 位教师`;
-  const visible = result.slice(0, state.visible);
-  $("#faculty-grid").innerHTML = visible.length ? visible.map(renderCard).join("") : $("#empty-template").innerHTML;
-  $("#load-more").hidden = visible.length >= result.length;
-  $("#display-count").textContent = result.length ? `已显示 ${visible.length} / ${result.length} 位教师` : "";
+  $("#faculty-grid").innerHTML = result.length ? result.map(renderCard).join("") : $("#empty-template").innerHTML;
   $("#faculty-grid").setAttribute("aria-busy", "false");
   document.querySelectorAll(".faculty-card").forEach((card) => {
     const open = () => openDialog(state.faculty.find((item) => String(item.profileId) === card.dataset.id));
@@ -86,7 +83,7 @@ function syncControls() {
 }
 
 function resetFilters() {
-  Object.assign(state, { search: "", grade: "", department: "", title: "", sort: DEFAULT_SORT, visible: 24 });
+  Object.assign(state, { search: "", grade: "", department: "", title: "", sort: DEFAULT_SORT });
   syncControls();
   renderFaculty();
 }
@@ -170,12 +167,12 @@ function renderStats() {
 }
 
 function bindControls() {
-  $("#search").addEventListener("input", (event) => { state.search = event.target.value; state.visible = 24; renderFaculty(); });
-  ["grade", "title", "sort"].forEach((id) => $("#" + id).addEventListener("change", (event) => { state[id] = event.target.value; state.visible = 24; renderFaculty(); }));
+  $("#search").addEventListener("input", (event) => { state.search = event.target.value; renderFaculty(); });
+  ["grade", "title", "sort"].forEach((id) => $("#" + id).addEventListener("change", (event) => { state[id] = event.target.value; renderFaculty(); }));
   $("#department-tabs").addEventListener("click", (event) => {
     const button = event.target.closest("button[data-department]");
     if (!button) return;
-    state.department = button.dataset.department; state.visible = 24;
+    state.department = button.dataset.department;
     renderFaculty();
   });
   $("#department-tabs").addEventListener("focusin", (event) => {
@@ -195,14 +192,9 @@ function bindControls() {
   });
   $("#active-filters").addEventListener("click", (event) => {
     const button = event.target.closest("button[data-clear]"); if (!button) return;
-    state[button.dataset.clear] = ""; state.visible = 24;
+    state[button.dataset.clear] = "";
     syncControls(); renderFaculty();
     ($("#active-filters button") || $(".results-heading h1")).focus({ preventScroll: true });
-  });
-  $("#load-more").addEventListener("click", () => {
-    const firstNew = state.visible;
-    state.visible += 24; renderFaculty();
-    document.querySelectorAll(".faculty-card")[firstNew]?.focus({ preventScroll: true });
   });
   $("#dialog-close").addEventListener("click", () => $("#faculty-dialog").close());
   $("#faculty-dialog").addEventListener("close", () => {
@@ -224,7 +216,6 @@ function restoreUrl() {
   if (![...$("#department-tabs").querySelectorAll("button")].some((button) => button.dataset.department === state.department)) state.department = "";
   const profile = state.faculty.find((item) => String(item.profileId) === state.profile);
   if (!profile) state.profile = "";
-  state.visible = 24;
   syncControls(); renderFaculty();
   if (profile) openDialog(profile);
   else if ($("#faculty-dialog").open) $("#faculty-dialog").close();

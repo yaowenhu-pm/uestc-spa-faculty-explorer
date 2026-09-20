@@ -4,7 +4,7 @@
 
 [访问网站](https://yaowenhu-pm.github.io/uestc-spa-faculty-explorer/) · [分级方案](./RATING_PLAN.md) · [69人重评对照](./RATING_REVIEW.md) · [实现方案](./IMPLEMENTATION.md) · [Figma设计](https://www.figma.com/design/byIMpOiumrSh1zPMdhvCfz?node-id=2-2)
 
-参考 [uestc-scse-faculty-explorer](https://github.com/yaowenhu-pm/uestc-scse-faculty-explorer)，将学院官网的研究方向、项目、成果和任职整理为静态目录。支持搜索、学系／职称／分级联合筛选、教师详情、原文依据和可分享的筛选及教师链接，适配桌面、手机与键盘操作。
+参考 [uestc-scse-faculty-explorer](https://github.com/yaowenhu-pm/uestc-scse-faculty-explorer)，将学院官网的研究方向、项目、成果和任职整理为静态目录。支持搜索、学系／职称／分级联合筛选、教师详情、原文依据和可分享的筛选及教师链接，适配桌面、手机与键盘操作。目录一次显示全部69位教师，筛选后也显示全部匹配结果，可自然滚动到底，无需点击“加载更多”。
 
 S/A/B/C/D/E表示本项目对可核对公开履历信号的基础分级，不是教师能力或学术质量排名。每个基础档再按固定分数区间显示“-／标准／+”；只有资料不足U不细分，页面显示“—”，不显示低总分。默认按基础档S至E再U排列，同档按分数降序；可切换官网目录或姓名排序。细分阈值与人数无关，可以有空子档，不按人数三等分或期望分布设置名额。
 

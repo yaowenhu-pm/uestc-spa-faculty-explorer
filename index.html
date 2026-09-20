@@ -6,7 +6,7 @@
   <meta name="description" content="电子科技大学公共管理学院教师研究导航。检索教师研究方向，按学系、职称和公开履历分级筛选。">
   <meta name="theme-color" content="#ffffff">
   <title>公管教师研究导航 · UESTC SPA Faculty Explorer</title>
-  <link rel="stylesheet" href="./styles.css?v=20260921-v3.2">
+  <link rel="stylesheet" href="./styles.css?v=20260921-scroll">
 </head>
 <body>
   <a class="skip-link" href="#explore">跳转到教师检索</a>
@@ -39,12 +39,11 @@
       </div>
       <div id="active-filter-row" class="active-filter-row" hidden><div id="active-filters" class="active-filters" aria-label="当前筛选条件"></div><button id="reset-filters" class="text-button" type="button">清空筛选</button></div>
       <div id="faculty-grid" class="faculty-grid" aria-busy="true"><div class="loading-state">正在载入教师资料…</div></div>
-      <div class="pagination"><span id="display-count"></span><button id="load-more" class="button load-more" type="button" hidden>加载更多 <span aria-hidden="true">↓</span></button></div>
     </section>
   </main>
   <footer><div><a href="https://spa.uestc.edu.cn/szdw/jsml/xsszm.htm" target="_blank" rel="noreferrer">来源：学院官网</a><span>资料采集：<span id="snapshot-date">2026-09-20</span></span></div><div><a href="./methodology.html">公开履历分级说明</a><a href="https://github.com/yaowenhu-pm/uestc-spa-faculty-explorer" target="_blank" rel="noreferrer">GitHub ↗</a></div></footer>
   <dialog id="faculty-dialog" aria-labelledby="dialog-name"><button id="dialog-close" class="dialog-close" aria-label="关闭详情" type="button">×</button><div id="dialog-content"></div></dialog>
   <template id="empty-template"><div class="empty-state"><strong>没有找到匹配的教师</strong><p>换个关键词，或移除筛选条件。</p><button class="button secondary" type="button" data-reset>清空筛选</button></div></template>
-  <script type="module" src="./app.js?v=20260921-v3.2"></script>
+  <script type="module" src="./app.js?v=20260921-scroll"></script>
 </body>
 </html>

@@ -68,15 +68,11 @@ button,a,input,select { -webkit-tap-highlight-color:transparent; }
 .research-directions span { display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden; overflow-wrap:anywhere; }
 .keywords { display:flex; flex-wrap:wrap; align-content:flex-start; gap:7px; min-width:0; }
 .keywords span { max-width:100%; padding:3px 8px; border-radius:4px; background:#f0f5f3; color:#698279; font-size:13px; line-height:1.7; overflow-wrap:anywhere; }
-.pagination { display:flex; flex-direction:column; align-items:center; gap:12px; padding-top:28px; }
-.pagination > span { color:#82939a; font-size:11px; }
 .button { display:inline-flex; align-items:center; justify-content:center; gap:8px; min-height:42px; padding:9px 18px; border:1px solid transparent; border-radius:7px; font-size:13px; font-weight:500; line-height:1.6; cursor:pointer; }
 .primary { background:var(--blue); color:#fff; }
 .primary:hover { background:var(--blue-dark); }
 .secondary { border-color:var(--line); background:#fff; color:#5f7b7e; }
 .secondary:hover { border-color:#bad3ca; background:#f8faf9; }
-.load-more { min-width:145px; border-color:var(--line); background:#fff; color:#67817c; }
-.load-more:hover { border-color:#bad3ca; color:var(--blue); }
 .empty-state,.loading-state { grid-column:1/-1; padding:65px 24px; border:1px dashed #d6e1df; border-radius:var(--radius); text-align:center; }
 .empty-state strong { display:block; font-size:17px; font-weight:500; }
 .empty-state p,.loading-state { color:var(--muted); font-size:13px; }
@@ -212,7 +208,6 @@ dialog::backdrop { background: #19284170; backdrop-filter: blur(3px); }
   .badge { min-width:37px; height:37px; font-size:21px; }
   .badge.grade-subdivision { min-width:43px; font-size:19px; }
   .research-directions { font-size:15px; }
-  .pagination { padding-top:24px; }
   footer { align-items:flex-start; flex-direction:column; gap:13px; width:calc(100% - 40px); padding:20px 0 24px; font-size:11px; }
   footer > div { gap:15px; }
   dialog { width:calc(100vw - 24px); max-height:91vh; max-height:91dvh; border-radius:14px; }
