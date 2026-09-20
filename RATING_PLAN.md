@@ -201,7 +201,7 @@ v3.2沿用既有两级字段结构：`evidenceGrade`保存基础档，`evidenceS
 | `gradeReason` | 根据得分、门槛与资料情况生成的一句分级理由 |
 | `scoringNotes` | 分项计算、归属、缺失与口径说明 |
 
-`statistics.json`保留按基础档汇总的 `gradeDistribution`，增加按显示档位汇总的 `subgradeDistribution`。同一基础档内各细分人数之和必须等于该基础档人数，全部人数合计仍为69。字母单独出现时应结合字段语义区分：`evidenceGrade: "A"`指整个A基础档，`evidenceSubgrade: "A"`只指65–69分的中间区间。
+`statistics.json`同时保留按基础档汇总的 `gradeDistribution` 和按显示档位汇总的 `subgradeDistribution`。同一基础档内各细分人数之和必须等于该基础档人数，全部人数合计仍为69。字母单独出现时应结合字段语义区分：`evidenceGrade: "A"`指整个A基础档，`evidenceSubgrade: "A"`只指65–69分的中间区间。
 
 `scoreComponents`继续使用历史键名，含义对应科研认可、科研项目、代表成果、学术服务、培养教学。`evidenceSnippets`继续含 `type`、`conclusion`、`excerpt`、`sourceUrl`；可附`authorVerification`对象，含独立核对出处`sourceUrl`、`doi`、`authorFullName`和从1起算的`authorPosition`。页面仅在有该对象时显示署名核对链接。每个计分条目应能对应到原文；来源元数据应分别列明学院资料与Crossref署名补核。分级理由与细则从同一次计算生成，不能手写一个分数再事后配理由。
 
