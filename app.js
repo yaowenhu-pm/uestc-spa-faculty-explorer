@@ -1,4 +1,6 @@
-const state = { faculty: [], statistics: null, search: "", grade: "", department: "", title: "", sort: "directory", profile: "", visible: 24 };
+const DEFAULT_SORT = "score";
+const gradeOrder = { S: 0, A: 1, B: 2, C: 3, D: 4, E: 5 };
+const state = { faculty: [], statistics: null, search: "", grade: "", department: "", title: "", sort: DEFAULT_SORT, profile: "", visible: 24 };
 const $ = (selector) => document.querySelector(selector);
 const componentLabels = { hardSignal: ["外部认可", 30], projects: ["项目证据", 20], publications: ["成果证据", 20], recognition: ["学术任职", 20], training: ["培养教学", 10] };
 const esc = (value) => String(value ?? "").replace(/[&<>'"]/g, (char) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", "'": "&#39;", '"': "&quot;" })[char]);
@@ -8,7 +10,7 @@ const safeUrl = (value) => { try { const url = new URL(value); return ["https:",
 
 function updateUrl() {
   const params = new URLSearchParams();
-  for (const key of ["search", "grade", "department", "title", "sort", "profile"]) if (state[key] && !(key === "sort" && state[key] === "directory")) params.set(key, state[key]);
+  for (const key of ["search", "grade", "department", "title", "sort", "profile"]) if (state[key] && !(key === "sort" && state[key] === DEFAULT_SORT)) params.set(key, state[key]);
   history.replaceState(null, "", `${location.pathname}${params.size ? `?${params}` : ""}${location.hash}`);
 }
 
@@ -21,7 +23,7 @@ function filteredFaculty() {
       && (!state.department || (state.department === "官网未列出" ? !item.departments.length : item.departments.includes(state.department)))
       && (!state.title || item.title === state.title);
   });
-  return result.sort((a, b) => state.sort === "name" ? a.name.localeCompare(b.name, "zh-CN") : state.sort === "directory" ? a.directoryOrder - b.directoryOrder : b.evidenceScore - a.evidenceScore || a.directoryOrder - b.directoryOrder);
+  return result.sort((a, b) => state.sort === "name" ? a.name.localeCompare(b.name, "zh-CN") : state.sort === "directory" ? a.directoryOrder - b.directoryOrder : gradeOrder[a.evidenceGrade] - gradeOrder[b.evidenceGrade] || b.evidenceScore - a.evidenceScore || a.directoryOrder - b.directoryOrder);
 }
 
 function renderCard(item) {
@@ -56,7 +58,7 @@ function renderFilterState() {
     button.setAttribute("aria-pressed", String(selected));
   });
   const active = ["search", "grade", "department", "title"].filter((key) => state[key]);
-  $("#active-filter-row").hidden = !active.length && state.sort === "directory";
+  $("#active-filter-row").hidden = !active.length && state.sort === DEFAULT_SORT;
   $("#active-filters").innerHTML = active.map((key) => {
     const label = key === "search" ? `搜索：${state[key]}` : key === "grade" ? `评级 ${state[key]} 级` : state[key];
     return `<button type="button" data-clear="${key}" aria-label="移除筛选：${esc(label)}">${esc(label)}<span aria-hidden="true">×</span></button>`;
@@ -68,7 +70,7 @@ function syncControls() {
 }
 
 function resetFilters() {
-  Object.assign(state, { search: "", grade: "", department: "", title: "", sort: "directory", visible: 24 });
+  Object.assign(state, { search: "", grade: "", department: "", title: "", sort: DEFAULT_SORT, visible: 24 });
   syncControls();
   renderFaculty();
 }
@@ -161,9 +163,9 @@ function bindControls() {
 function restoreUrl() {
   const params = new URLSearchParams(location.search);
   for (const key of ["search", "grade", "department", "title", "profile"]) state[key] = params.get(key) || "";
-  state.sort = params.get("sort") || "directory";
+  state.sort = params.get("sort") || DEFAULT_SORT;
   for (const key of ["grade", "title", "sort"]) {
-    if (![...$("#" + key).options].some((option) => option.value === state[key])) state[key] = key === "sort" ? "directory" : "";
+    if (![...$("#" + key).options].some((option) => option.value === state[key])) state[key] = key === "sort" ? DEFAULT_SORT : "";
   }
   if (![...$("#department-tabs").querySelectorAll("button")].some((button) => button.dataset.department === state.department)) state.department = "";
   const profile = state.faculty.find((item) => String(item.profileId) === state.profile);
